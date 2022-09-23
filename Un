@@ -4,3 +4,5 @@ https://da-d50d1734.online.meo.pt/wp/cdn-er-test2.online.meo.pt/prd-pcs1/shls/LI
 https://da-d50d1734.online.meo.pt/wp/cdn-er-test2.online.meo.pt/prd-pcs1/shls/LIVE$RAI_3/index.m3u8?device=IOS_Live&start=LIVE&end=END
 #EXTINF:-1,RAI 3
 https://da-d50d1734.online.meo.pt/wp/cdn-er-test2.online.meo.pt/prd-pcs1/shls/LIVE$RAI_3/index.m3u8?device=IOS_Live&start=LIVE&end=END
+#EXTINF:-1,RAI NEWS
+https://streamcdnr28-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
