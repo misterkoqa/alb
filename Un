@@ -7,8 +7,8 @@ http://130.0.24.22:94/KlanPlusHD/index.m3u8
 http://130.0.24.22:94/VizionPlusHD/index.m3u8
 #EXTINF:-1,ALSAT M HD
 http://188.241.218.46:2085/play/a0b2ALSAMMFHD/index.m3u8
-#EXTINF:-1,TOP CHANNEL HD
-http://188.241.218.46:2085/play/a0e2panelastracesbotopchannelhd/index.m3u8
+#EXTINF:-1,Top Channel HD
+http://188.241.218.46:2085/play/a0artopchannel/index.m3u8
 #EXTINF:-1,RAI 1
 https://da-d50d1734.online.meo.pt/wp/cdn-er-test2.online.meo.pt/prd-pcs1/shls/LIVE$RAI_1/index.m3u8?device=IOS_Live&start=LIVE&end=END
 #EXTINF:-1,RAI 2
