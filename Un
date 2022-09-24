@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1,KLAN HD
+http://5.206.237.251:1288/KlanHD
+#EXTINF:-1,Klan Plus
+http://130.0.24.22:94/KlanPlusHD/index.m3u8
+#EXTINF:-1,Vizion Plus
+http://130.0.24.22:94/VizionPlusHD/index.m3u8
 #EXTINF:-1,ALSAT M HD
 http://188.241.218.46:2085/play/a0b2ALSAMMFHD/index.m3u8
 #EXTINF:-1,TOP CHANNEL HD
