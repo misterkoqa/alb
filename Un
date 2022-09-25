@@ -9,6 +9,10 @@ http://130.0.24.22:94/VizionPlusHD/index.m3u8
 http://188.241.218.46:2085/play/a0b2ALSAMMFHD/index.m3u8
 #EXTINF:-1,Top Channel HD
 http://188.241.218.46:2085/play/a0artopchannel/index.m3u8
+#EXTINF:-1,TV Johaniter
+http://91.132.172.167:8000/play/a007
+#EXTINF:-1,Saranda tv
+http://91.132.172.167:8000/play/a006
 #EXTINF:-1,RAI NEWS
 https://streamcdnr28-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 #EXTINF:-1,A2 HD
