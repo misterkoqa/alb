@@ -31,6 +31,58 @@ http://novst3.1234.uno:6061/natgeohindi/index.m3u8
 http://novst3.1234.uno:6061/animalplanethindi/index.m3u8
 #EXTINF:-1,NATIONAL GEOGRAPHIC WILD
 http://novst3.1234.uno:6061/natgeowild/index.m3u8
+#EXTINF:-1,Vizion Plus
+http://89.39.106.21:8080/ViziONPluSfsf/index.m3u8
+#EXTINF:-1,RTSH 3
+http://89.39.106.21:8080/rTSH3gsdg/index.m3u8
+#EXTINF:-1,RTSH Satelit
+http://89.39.106.21:8080/RtSH1Satsgasg/index.m3u8
+#EXTINF:-1,RTV 21
+http://89.39.106.21:8080/RtV21gjdg/index.m3u8
+#EXTINF:-1,Fax News
+http://89.39.106.21:8080/FaXNewsfsf/index.m3u8
+#EXTINF:-1,Kanali 7
+http://89.39.106.21:8080/KanalI7Sfaf/index.m3u8
+#EXTINF:-1,News 24
+http://89.39.106.21:8080/NewS24gsgf/index.m3u8
+#EXTINF:-1,Ora News
+http://89.39.106.21:8080/ORAnEwsdgd/index.m3u8
+#EXTINF:-1,Report TV
+http://89.39.106.21:8080/RePOrtTvdgsg/index.m3u8
+#EXTINF:-1,RTSH 24
+http://89.39.106.21:8080/rtsh24fjsjo/index.m3u8
+#EXTINF:-1,Tring Classic
+http://89.39.106.21:8080/TringClassicHDgdgeg/index.m3u8
+#EXTINF:-1,Tring Comedy
+http://89.39.106.21:8080/TringComedydgs/index.m3u8
+#EXTINF:-1,Tring Shqip
+http://89.39.106.21:8080/trINGshqIPdgdg/index.m3u8
+#EXTINF:-1,Tring Super
+http://89.39.106.21:8080/TringSuperHDdgeg/index.m3u8
+#EXTINF:-1,Tring Tring
+http://89.39.106.21:8080/TriNGTRIngdsaf/index.m3u8
+#EXTINF:-1,Tip TV
+http://89.39.106.21:8080/TiPTvgasg/index.m3u8
+#EXTINF:-1,RTSH Shkollë
+http://89.39.106.21:8080/rtshsHkolledgd/index.m3u8
+#EXTINF:-1,3 Plus
+http://89.39.106.21:8080/3Plusfasf/index.m3u8
+#EXTINF:-1,KanalD Drama
+http://89.39.106.21:8080/KanaldDramagdsg/index.m3u8
+#EXTINF:-1,Living
+http://89.39.106.21:8080/LivinGhDdgsg/index.m3u8
+#EXTINF:-1,Smile
+http://89.39.106.21:8080/SmiLEdgsdg/index.m3u8
+#EXTINF:-1,Tring Series
+http://89.39.106.21:8080/JollyHDwtet/index.m3u8
+#EXTINF:-1,Elrodi TV
+http://89.39.106.21:8080/ElROdisfa/index.m3u8
+#EXTINF:-1,Folk Plus
+http://89.39.106.21:8080/FoLKPlus/index.m3u8
+#EXTINF:-1,Tring World
+http://89.39.106.21:8080/TringWorldsgag/index.m3u8 
+#EXTINF:-1,Tring Planet
+http://89.39.106.21:8080/TrinhPlanetsgag/index.m3u8
 #EXTINF:-1,Tring Sport News
 http://89.39.106.21:8080/TriNGspoRTnEwsdgg/index.m3u8
 #EXTINF:-1,Tring Sport 1
