@@ -9,32 +9,8 @@ http://130.0.24.22:94/VizionPlusHD/index.m3u8
 http://188.241.218.46:2085/play/a0b2ALSAMMFHD/index.m3u8
 #EXTINF:-1,Top Channel HD
 http://188.241.218.46:2085/play/a0artopchannel/index.m3u8
-#EXTINF:-1,RAI 1
-https://da-d50d1734.online.meo.pt/wp/cdn-er-test2.online.meo.pt/prd-pcs1/shls/LIVE$RAI_1/index.m3u8?device=IOS_Live&start=LIVE&end=END
-#EXTINF:-1,RAI 2
-https://da-d50d1734.online.meo.pt/wp/cdn-er-test2.online.meo.pt/prd-pcs1/shls/LIVE$RAI_3/index.m3u8?device=IOS_Live&start=LIVE&end=END
-#EXTINF:-1,RAI 3
-https://da-d50d1734.online.meo.pt/wp/cdn-er-test2.online.meo.pt/prd-pcs1/shls/LIVE$RAI_3/index.m3u8?device=IOS_Live&start=LIVE&end=END
 #EXTINF:-1,RAI NEWS
 https://streamcdnr28-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
-#EXTINF:-1,SPORT 1HD
-http://188.241.218.46:2085/play/CosmoteSport1/index.m3u8
-#EXTINF:-1,SPORT 2HD
-http://188.241.218.46:2085/play/CosmoteSport2/index.m3u8
-#EXTINF:-1,SPORT 3HD
-http://188.241.218.46:2085/play/a063COSMOTE332/index.m3u8
-#EXTINF:-1,SPORT 4HD
-http://188.241.218.46:2085/play/a0e8/index.m3u8
-#EXTINF:-1,SPORT 5HD
-http://188.241.218.46:2085/play/a0e9/index.m3u8
-#EXTINF:-1,SPORT 6HD
-http://188.241.218.46:2085/play/a0ea/index.m3u8
-#EXTINF:-1,SPORT 7HD
-http://188.241.218.46:2085/play/a0eb/index.m3u8
-#EXTINF:-1,SPORT 8HD
-http://188.241.218.46:2085/play/a0ec/index.m3u8
-#EXTINF:-1,SPORT 9HD
-http://188.241.218.46:2085/play/a0ed/index.m3u8
 #EXTINF:-1,A2 HD
 http://188.241.218.46:2085/play/a00t/index.m3u8
 #EXTINF:-1,ATV HD
@@ -47,3 +23,5 @@ http://188.241.218.46:2085/play/aa001/index.m3u8
 http://188.241.218.46:2085/play/aa006/index.m3u8
 #EXTINF:-1,STAR HD
 http://188.241.218.46:2085/play/a00s/index.m3u8
+#EXTINF:-1,DISCOVERY WORLD
+http://novst3.1234.uno:6061/discoveryworldhindi/index.m3u8
