@@ -95,3 +95,9 @@ http://89.39.106.21:8080/TrIngSporT1gdg/index.m3u8
 http://89.39.106.21:8080/TriNGSport2dgsg/index.m3u8
 #EXTINF:-1,Tring Sport 3
 http://89.39.106.21:8080/TriNGSport3gfg/index.m3u8
+#EXTINF:-1,Canale 5
+http://91.132.172.167:8000/play/a00k
+#EXTINF:-1,Italia 1
+http://91.132.172.167:8000/play/a00g
+#EXTINF:-1,Rete 4
+http://91.132.172.167:8000/play/a00h
