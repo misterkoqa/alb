@@ -105,6 +105,8 @@ http://103.121.14.18/hls/sonyten1.m3u8
 http://103.121.14.18/hls/sonyten2.m3u8
 #EXTINF:-1,Sony ten3
 http://103.121.14.18/hls/sonyten3.m3u8
+#EXTINF:-1,Sony six
+http://103.162.136.235:4500/play/a01a/index.m3u8
 #EXTINF:-1,Canale 5
 http://91.132.172.167:8000/play/a00k
 #EXTINF:-1,Italia 1
