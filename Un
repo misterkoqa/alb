@@ -13,6 +13,10 @@ http://188.241.218.46:2085/play/a0artopchannel/index.m3u8
 http://91.132.172.167:8000/play/a007
 #EXTINF:-1,Saranda tv
 http://91.132.172.167:8000/play/a006
+#EXTINF:-1,FILM 1 HD
+http://91.132.172.167:8000/play/a00n
+#EXTINF:-1,FILM 2 HD
+http://91.132.172.167:8000/play/a00o
 #EXTINF:-1,RAI NEWS
 https://streamcdnr28-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 #EXTINF:-1,A2 HD
@@ -98,6 +102,6 @@ http://89.39.106.21:8080/TriNGSport3gfg/index.m3u8
 #EXTINF:-1,Canale 5
 http://91.132.172.167:8000/play/a00k
 #EXTINF:-1,Italia 1
-http://91.132.172.167:8000/play/a00g
+http://91.132.172.167:8000/play/a00f
 #EXTINF:-1,Rete 4
 http://91.132.172.167:8000/play/a00h
