@@ -15,8 +15,26 @@ http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/139.ts
 http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/1.ts
 #EXTINF:-1,TV Johaniter
 http://91.132.172.167:8000/play/a007
-#EXTINF:-1,Saranda tv
-http://91.132.172.167:8000/play/a006
+#EXTINF:-1,RTK 1HD
+http://162.55.88.21/rtk1stream/rtk1.stream/chunklist_w1202428204.m3u8
+#EXTINF:-1,RTK 2HD
+http://162.55.88.21/rtk2stream/rtk2.stream/chunklist_w1803047116.m3u8
+#EXTINF:-1,RTK 3HD
+http://162.55.88.21/rtk3stream/rtk3.stream/chunklist_w1895324590.m3u8
+#EXTINF:-1,RTK 4HD
+http://162.55.88.21/rtk4stream/rtk4.stream/chunklist_w520230568.m3u8
+#EXTINF:-1,ABC HD
+http://95.107.132.105/out/u/650_1.m3u8
+#EXTINF:-1,A2 CNN
+https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/chunklist_w296230226_b2128000_slalb.m3u8
+#EXTINF:-1,RTV Ora
+http://95.107.132.105/out/u/343_1.m3u8
+#EXTINF:-1,Fax News
+http://95.107.132.105/out/u/228_1.m3u8
+#EXTINF:-1,Report Tv HD
+https://deb10stream.duckdns.org/hls/stream.m3u8
+#EXTINF:-1,Ora News HD
+http://95.107.132.105/out/u/521_2.m3u8
 #EXTINF:-1,FILM 1 HD
 http://91.132.172.167:8000/play/a00n
 #EXTINF:-1,FILM 2 HD
