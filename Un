@@ -123,6 +123,14 @@ http://89.39.106.21:8080/TrIngSporT1gdg/index.m3u8
 http://89.39.106.21:8080/TriNGSport2dgsg/index.m3u8
 #EXTINF:-1,Tring Sport 3
 http://89.39.106.21:8080/TriNGSport3gfg/index.m3u8
+#EXTINF:-1,BEIN SPORT TURK 1
+http://he11o.akadatel.com/iptv/Z58HMD6YU8QLUT/6824/index.m3u8
+#EXTINF:-1,BEIN SPORT TURK 2
+http://he11o.akadatel.com/iptv/Z58HMD6YU8QLUT/6819/index.m3u8
+#EXTINF:-1,BEIN SPORT TURK 3
+http://he11o.akadatel.com/iptv/Z58HMD6YU8QLUT/6821/index.m3u8
+#EXTINF:-1,BEIN SPORT TURK 4
+http://he11o.akadatel.com/iptv/Z58HMD6YU8QLUT/6822/index.m3u8
 #EXTINF:-1,Sony ten1
 http://103.121.14.18/hls/sonyten1.m3u8
 #EXTINF:-1,Sony ten2
