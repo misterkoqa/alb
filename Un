@@ -17,6 +17,8 @@ http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/1.ts
 http://91.132.172.167:8000/play/a007
 #EXTINF:-1,Top News
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x6inuzo
+#EXTINF:-1,ABC News
+https://tv2.abcnews.al/live/abcnews/playlist.m3u8
 #EXTINF:-1,RTK 1HD
 http://162.55.88.21/rtk1stream/rtk1.stream/chunklist_w1202428204.m3u8
 #EXTINF:-1,RTK 2HD
