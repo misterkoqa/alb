@@ -13,6 +13,8 @@ http://188.241.218.46:2085/play/a0artopchannel
 http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/139.ts
 #EXTINF:-1,TOP CHANNEL HD
 http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/1.ts
+#EXTINF:-1,TV KORÇA HD
+http://32.shqiptv.org/korca/albplus/index.m3u8
 #EXTINF:-1,TV Johaniter
 http://91.132.172.167:8000/play/a007
 #EXTINF:-1,Top News
