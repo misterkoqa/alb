@@ -15,6 +15,8 @@ http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/139.ts
 http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/1.ts
 #EXTINF:-1,TV KORÇA HD
 http://32.shqiptv.org/korca/albplus/index.m3u8
+#EXTINF:-1,Neser tv
+https://nesertv.live/ntv/livestream/tracks-v1a1/index.m3u8
 #EXTINF:-1,TV Johaniter
 http://91.132.172.167:8000/play/a007
 #EXTINF:-1,Top News
@@ -31,8 +33,6 @@ http://162.55.88.21/rtk3stream/rtk3.stream/chunklist_w1895324590.m3u8
 http://162.55.88.21/rtk4stream/rtk4.stream/chunklist_w520230568.m3u8
 #EXTINF:-1,SYRI HD
 https://stream.syritv.al/out/u/47_3.m3u8
-#EXTINF:-1,ABC HD
-http://95.107.132.105/out/u/650_1.m3u8
 #EXTINF:-1,A2 CNN
 https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/chunklist_w296230226_b2128000_slalb.m3u8
 #EXTINF:-1,RTV Ora
