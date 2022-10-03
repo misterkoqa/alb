@@ -25,6 +25,14 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vid
 https://tv2.abcnews.al/live/abcnews/playlist.m3u8
 #EXTINF:-1,News 24
 http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
+#EXTINF:-1,RTSH 1HD
+http://109.104.129.195:8001/play/s8
+#EXTINF:-1,RTSH 2HD
+http://109.104.129.195:8001/play/s22
+#EXTINF:-1,RTSH 3HD
+http://109.104.129.195:8001/play/s12
+#EXTINF:-1,RTSH Sport HD
+http://109.104.129.195:8001/play/s25
 #EXTINF:-1,RTK 1HD
 http://162.55.88.21/rtk1stream/rtk1.stream/chunklist_w1202428204.m3u8
 #EXTINF:-1,RTK 2HD
@@ -51,8 +59,6 @@ http://91.132.172.167:8000/play/a00n
 http://91.132.172.167:8000/play/a00o
 #EXTINF:-1,RAI NEWS
 https://streamcdnr28-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
-#EXTINF:-1,A2 HD
-http://188.241.218.46:2085/play/a00t/index.m3u8
 #EXTINF:-1,ATV HD
 https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
 #EXTINF:-1,FOX HD
