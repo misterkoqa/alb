@@ -61,6 +61,12 @@ http://95.107.132.105/out/u/521_2.m3u8
 http://91.132.172.167:8000/play/a00n
 #EXTINF:-1,FILM 2 HD
 http://91.132.172.167:8000/play/a00o
+#EXTINF:-1,Kino 1
+http://82.114.66.165:8881/play/a0ct/index.m3u8
+#EXTINF:-1,Kino 2
+http://82.114.66.165:8881/play/a0cu/index.m3u8
+#EXTINF:-1,Kino 3
+http://82.114.66.165:8881/play/a0cv/index.m3u8
 #EXTINF:-1,RAI NEWS
 https://streamcdnr28-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 #EXTINF:-1,ATV HD
