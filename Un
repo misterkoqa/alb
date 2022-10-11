@@ -229,23 +229,3 @@ http://teeveetv.one:2052/live/SYNTAXONEplay736282929/Pz4NScL832N6/1019834.ts
 http://teeveetv.one:2052/live/SYNTAXONEplay736282929/Pz4NScL832N6/1019835.ts
 #EXTINF:-1,Sky Store Premiere 15HD
 http://teeveetv.one:2052/live/SYNTAXONEplay736282929/Pz4NScL832N6/1019836.ts
-#EXTINF:-1,Test 1
-http://45.94.219.9:8081/stream/test1/hls/playlist.m3u8
-#EXTINF:-1,Test 2
-http://45.94.219.9:8081/stream/test2/hls/playlist.m3u8
-#EXTINF:-1,Test 3
-http://45.94.219.9:8081/stream/test3/hls/playlist.m3u8
-#EXTINF:-1,Test 4
-http://45.94.219.9:8081/stream/test4/hls/playlist.m3u8
-#EXTINF:-1,Test 5
-http://45.94.219.9:8081/stream/test5/hls/playlist.m3u8
-#EXTINF:-1,Test 6
-http://45.94.219.9:8081/stream/test6/hls/playlist.m3u8
-#EXTINF:-1,Test 7
-http://45.94.219.9:8081/stream/test7/hls/playlist.m3u8
-#EXTINF:-1,Test 8
-http://45.94.219.9:8081/stream/test8/hls/playlist.m3u8
-#EXTINF:-1,Test 9
-http://45.94.219.9:8081/stream/test9/hls/playlist.m3u8
-#EXTINF:-1,Test 10
-http://45.94.219.9:8081/stream/test10/hls/playlist.m3u8
