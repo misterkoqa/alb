@@ -17,12 +17,12 @@ http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/1.ts
 http://37.49.230.42:8080/F11682/82ca5fbd/5122
 #EXTINF:-1,TV KORÇA HD
 http://32.shqiptv.org/korca/albplus/index.m3u8
+#EXTINF:-1,BBF MUZIK
+http://platin4k.eu/live/eagleiptv/SsFAljPDDi/55294.ts
 #EXTINF:-1,SHIJAK TV
 http://109.104.129.195:8002/play/s29
 #EXTINF:-1,TV Johaniter
 http://91.132.172.167:8000/play/a007
-#EXTINF:-1,EURONEWS Albania
-http://82.114.66.165:8881/play/a093/index.m3u8
 #EXTINF:-1,Top News
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x6inuzo
 #EXTINF:-1,ABC News
@@ -83,12 +83,10 @@ http://95.107.132.105/out/u/521_2.m3u8
 http://91.132.172.167:8000/play/a00n
 #EXTINF:-1,FILM 2 HD
 http://91.132.172.167:8000/play/a00o
-#EXTINF:-1,Kino 1
-http://82.114.66.165:8881/play/a0ct/index.m3u8
-#EXTINF:-1,Kino 2
-http://82.114.66.165:8881/play/a0cu/index.m3u8
-#EXTINF:-1,Kino 3
-http://82.114.66.165:8881/play/a0cv/index.m3u8
+#EXTINF:-1,XPREMIUM 1
+http://platin4k.eu/live/eagleiptv/SsFAljPDDi/56795.ts
+#EXTINF:-1,XPREMIUM 2
+http://platin4k.eu/live/eagleiptv/SsFAljPDDi/56796.ts
 #EXTINF:-1,RAI NEWS
 https://streamcdnr28-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 #EXTINF:-1,ATV HD
