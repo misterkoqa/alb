@@ -167,6 +167,8 @@ http://103.162.136.235:4500/play/a01d/index.m3u8
 http://103.162.136.235:4500/play/a01a/index.m3u8
 #EXTINF:-1,Wwe hd
 http://50.7.237.4:8080/WWE/index.m3u8
+#EXTINF:-1,WWE HD
+http://89.187.175.143/3075/mpegts
 #EXTINF:-1,Canale 5
 http://91.132.172.167:8000/play/a00k
 #EXTINF:-1,Italia 1
