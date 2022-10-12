@@ -39,6 +39,24 @@ http://109.104.129.195:8001/play/s22
 http://109.104.129.195:8001/play/s12
 #EXTINF:-1,RTSH Sport HD
 http://109.104.129.195:8001/play/s25
+#EXTINF:-1,RTSH KUVEND
+http://79.106.48.2:8800/play/a00b/index.m3u8
+#EXTINF:-1,RTSH AGRO
+http://79.106.48.2:8800/play/a007/index.m3u8
+#EXTINF:-1,RTSH GJIROKASTRA
+http://79.106.48.2:8800/play/a005/index.m3u8
+#EXTINF:-1,RTSH KORÇA
+http://79.106.48.2:8800/play/a008/index.m3u8
+#EXTINF:-1,RTSH KUKESI
+http://79.106.48.2:8800/play/a00a/index.m3u8
+#EXTINF:-1,RTSH PLUS
+http://79.106.48.2:8800/play/a006/index.m3u8
+#EXTINF:-1,RTSH FEMIJE
+http://79.106.48.2:8800/play/a004/index.m3u8
+#EXTINF:-1,RTSH SHKODRA
+http://79.106.48.2:8800/play/a009/index.m3u8
+#EXTINF:-1,RTSH FILM
+http://79.106.48.2:8800/play/a01p/index.m3u8
 #EXTINF:-1,RTK 1HD
 http://162.55.88.21/rtk1stream/rtk1.stream/chunklist_w1202428204.m3u8
 #EXTINF:-1,RTK 2HD
