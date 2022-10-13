@@ -197,6 +197,18 @@ http://103.162.136.235:4500/play/a01a/index.m3u8
 http://50.7.237.4:8080/WWE/index.m3u8
 #EXTINF:-1,WWE HD
 http://89.187.175.143/3075/mpegts
+#EXTINF:-1 ELEVEN SPORT1
+http://213.13.19.35/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+#EXTINF:-1,ELEVEN SPORT2
+http://213.13.19.35/shls/LIVE$Eleven_Sports_2_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+#EXTINF:-1,ELEVEN SPORT3
+http://213.13.19.35/shls/LIVE$Eleven_Sports_3_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+#EXTINF:-1,ELEVEN SPORT4
+http://213.13.19.35/shls/LIVE$Eleven_Sports_4_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+#EXTINF:-1,ELEVEN SPORT5
+http://213.13.19.35/shls/LIVE$Eleven_Sports_5_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+#EXTINF:-1,ELEVEN SPORT6
+http://213.13.19.35/shls/LIVE$Eleven_Sports_6_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 #EXTINF:-1,Canale 5
 http://91.132.172.167:8000/play/a00k
 #EXTINF:-1,Italia 1
