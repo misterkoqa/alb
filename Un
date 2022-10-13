@@ -185,19 +185,11 @@ http://he11o.akadatel.com/iptv/Z58HMD6YU8QLUT/6819/index.m3u8
 http://he11o.akadatel.com/iptv/Z58HMD6YU8QLUT/6821/index.m3u8
 #EXTINF:-1,BEIN SPORT TURK 4
 http://he11o.akadatel.com/iptv/Z58HMD6YU8QLUT/6822/index.m3u8
-#EXTINF:-1,Sony Ten 1 HD
-http://103.162.136.235:4500/play/a018/index.m3u8
-#EXTINF:-1,Sony Ten 2 HD
-http://103.162.136.235:4500/play/a00o/index.m3u8
-#EXTINF:-1,Sony Ten 3 HD
-http://103.162.136.235:4500/play/a01d/index.m3u8
-#EXTINF:-1,Sony Six HD
-http://103.162.136.235:4500/play/a01a/index.m3u8
 #EXTINF:-1,Wwe hd
 http://50.7.237.4:8080/WWE/index.m3u8
 #EXTINF:-1,WWE HD
 http://89.187.175.143/3075/mpegts
-#EXTINF:-1 ELEVEN SPORT1
+#EXTINF:-1,ELEVEN SPORT1
 http://213.13.19.35/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 #EXTINF:-1,ELEVEN SPORT2
 http://213.13.19.35/shls/LIVE$Eleven_Sports_2_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
