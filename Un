@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,KLAN HD
+#EXTINF:-0 group-title="SHQIP TV🇦🇱🇪🇺" tvg-logo="https://i.imgur.com/FnpdLkm.png",KLAN HD
 http://5.206.237.251:1288/KlanHD
 #EXTINF:-1,Klan Plus
 http://130.0.24.22:94/KlanPlusHD/index.m3u8
@@ -291,7 +291,7 @@ http://teeveetv.one:2052/live/SYNTAXONEplay736282929/Pz4NScL832N6/1019883.ts
 http://teeveetv.one:2052/live/SYNTAXONEplay736282929/Pz4NScL832N6/1019884.ts
 #EXTINF:-1,Netflix Premiere 13 HD
 http://teeveetv.one:2052/live/SYNTAXONEplay736282929/Pz4NScL832N6/1019885.ts
-#EXTINF:-1,XXX 1HD
+#EXTINF:-0 group-title="XXXL 🔞 🇦🇱🇪🇺" tvg-logo="https://i.imgur.com/FnpdLkm.png",XXX 1HD
 http://kamil.rossteleccom.net/iptv/TPPSW2ZKN339VV/242/index.m3u8
 #EXTINF:-1,XXX 2HD
 http://kamil.rossteleccom.net/iptv/TPPSW2ZKN339VV/243/index.m3u8
