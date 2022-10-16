@@ -201,6 +201,12 @@ http://213.13.19.35/shls/LIVE$Eleven_Sports_4_HD/index.m3u8?device=ANDROID_Live&
 http://213.13.19.35/shls/LIVE$Eleven_Sports_5_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 #EXTINF:-1,ELEVEN SPORT6
 http://213.13.19.35/shls/LIVE$Eleven_Sports_6_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+#EXTINF:-1,SONY TEN 1HD
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/SonyTen1/SonyTen1.isml/index.m3u8
+#EXTINF:-1,SONY TEN 2HD
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/SonyTen2/SonyTen2.isml/index.m3u8
+#EXTINF:-1,SONY TEN 3HD
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/SonyTen3/SonyTen3.isml/index.m3u8
 #EXTINF:-1,Canale 5
 http://91.132.172.167:8000/play/a00k
 #EXTINF:-1,Italia 1
