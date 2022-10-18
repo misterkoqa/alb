@@ -213,6 +213,28 @@ http://91.132.172.167:8000/play/a00k
 http://91.132.172.167:8000/play/a00f
 #EXTINF:-1,Rete 4
 http://91.132.172.167:8000/play/a00h
+#EXTINF:-1,Rai 4 HD
+http://45.153.35.200:8001/play/a065
+#EXTINF:-1,Rai 4K
+http://45.153.35.200:8001/play/a067
+#EXTINF:-1,Rai 5 HD
+http://45.153.35.200:8001/play/a05y
+#EXTINF:-1,Rai Gulp HD
+http://45.153.35.200:8001/play/a04p
+#EXTINF:-1,Rai Movie HD
+http://45.153.35.200:8001/play/a066
+#EXTINF:-1,Rai News 24 HD
+http://45.153.35.200:8001/play/a05t
+#EXTINF:-1,Rai Premium HD
+http://45.153.35.200:8001/play/a0a2
+#EXTINF:-1,Rai Sport + HD
+http://45.153.35.200:8001/play/a09p
+#EXTINF:-1,Rai Storia HD
+http://45.153.35.200:8001/play/a05w
+#EXTINF:-1,Rai Storia HD
+http://45.153.35.200:8001/play/a09z
+#EXTINF:-1,Rai YoYo HD
+http://45.153.35.200:8001/play/a05v
 #EXTINF:-1,PRIME VIDEO 1HD
 http://teeveetv.one:2052/live/SYNTAXONEplay736282929/Pz4NScL832N6/1019839.ts
 #EXTINF:-1,PRIME VIDEO 2HD
