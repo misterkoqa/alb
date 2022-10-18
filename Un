@@ -21,6 +21,8 @@ http://32.shqiptv.org/korca/albplus/index.m3u8
 http://platin4k.eu/live/eagleiptv/SsFAljPDDi/55294.ts
 #EXTINF:-1,SHIJAK TV
 http://109.104.129.195:8002/play/s29
+#EXTINF:-1,JOHANITER TV
+https://protokolldns.xyz/jo.h.a.n.t.e.r/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TV Johaniter
 http://91.132.172.167:8000/play/a007
 #EXTINF:-1,Top News
