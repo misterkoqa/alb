@@ -79,6 +79,22 @@ http://95.107.132.105/out/u/228_1.m3u8
 https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTINF:-1,Ora News HD
 http://95.107.132.105/out/u/521_2.m3u8
+#EXTINF:-1,Film Një HD
+http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/55248.ts
+#EXTINF:-1,Film Dy HD
+http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/55249.ts
+#EXTINF:-1,Film Hits HD
+http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/55250.ts
+#EXTINF:-1,Film Aksion HD
+http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/55251.ts
+#EXTINF:-1,Film Autor HD
+http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/55252.ts
+#EXTINF:-1,Film Komedi HD
+http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/55253.ts
+#EXTINF:-1,Film Drame HD
+http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/55254.ts
+#EXTINF:-1,Film Thriller HD
+http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/55255.ts
 #EXTINF:-1,Tring 3 Plus
 http://146.59.19.1/5013/mpegts
 #EXTINF:-1,Tring Shqip
