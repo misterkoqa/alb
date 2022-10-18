@@ -31,6 +31,12 @@ http://91.132.172.167:8000/play/a007
 https://kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 #EXTINF:-1,Teve 2
 https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
+#EXTINF:-1,RTV Dukagjini
+https://ub1doy938d.gjirafa.net/live/rcBFeREIqcMkNthqI6YCr3Riss97l2MC/ygqkzt1080/index.m3u8
+#EXTINF:-1,RTV Besa
+https://ub1doy938d.gjirafa.net/live/rcBFeREIqcMkNthqI6YCr3Riss97l2MC/y1kxkg1080/index.m3u8
+#EXTINF:-1,Star Plus HD
+https://ub1doy938d.gjirafa.net/live/rcBFeREIqcMkNthqI6YCr3Riss97l2MC/zt0y0y1080/index.m3u8
 #EXTINF:-1,EURONEWS AL
 https://ub1doy938d.gjirafa.net/live/rcBFeREIqcMkNthqI6YCr3Riss97l2MC/y0xx1q1080/index.m3u8
 #EXTINF:-1,Top News
