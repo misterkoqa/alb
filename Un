@@ -13,8 +13,6 @@ http://188.241.218.46:2085/play/a0artopchannel
 http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/139.ts
 #EXTINF:-1,TOP CHANNEL HD
 http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/1.ts
-#EXTINF:-1,TOP NEWS HD
-http://37.49.230.42:8080/F11682/82ca5fbd/5122
 #EXTINF:-1,TV KORÇA HD
 http://32.shqiptv.org/korca/albplus/index.m3u8
 #EXTINF:-1,BBF MUZIK
@@ -39,8 +37,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vid
 https://tv2.abcnews.al/live/abcnews/playlist.m3u8
 #EXTINF:-1,News 24
 http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
-#EXTINF:-1,Cufo TV
-http://37.49.230.42:8080/F11682/82ca5fbd/1339
 #EXTINF:-1,RTSH 1HD
 http://109.104.129.195:8001/play/s8
 #EXTINF:-1,RTSH 2HD
