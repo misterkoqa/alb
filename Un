@@ -79,6 +79,42 @@ http://95.107.132.105/out/u/228_1.m3u8
 https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTINF:-1,Ora News HD
 http://95.107.132.105/out/u/521_2.m3u8
+#EXTINF:-1,Tring 3 Plus
+http://146.59.19.1/5013/mpegts
+#EXTINF:-1,Tring Shqip
+http://146.59.19.1/5014/mpegts
+#EXTINF:-1,Tring Life
+http://146.59.19.1/5015/mpegts
+#EXTINF:-1,Tring Smile
+http://146.59.19.1/5016/mpegts
+#EXTINF:-1,Tring Jolly HD
+http://146.59.19.1/5012/mpegts
+#EXTINF:-1,Tring Komedi
+http://146.59.19.1/5017/mpegts
+#EXTINF:-1,Tring Super HD
+http://146.59.19.1/5018/mpegts
+#EXTINF:-1,Tring Action HD
+http://146.59.19.1/5019/mpegts
+#EXTINF:-1,Tring Fantasy
+http://146.59.19.1/5020/mpegts
+#EXTINF:-1,Tring Muse
+http://146.59.19.1/5021/mpegts
+#EXTINF:-1,Tring World
+http://146.59.19.1/5022/mpegts
+#EXTINF:-1,Tring Planet
+http://146.59.19.1/5023/mpegts
+#EXTINF:-1,Tring History
+http://146.59.19.1/5024/mpegts
+#EXTINF:-1,Tring International
+http://146.59.19.1/5025/mpegts
+#EXTINF:-1,Tring TipTV
+http://146.59.19.1/5026/mpegts
+#EXTINF:-1,Tring Tring
+http://146.59.19.1/5027/mpegts
+#EXTINF:-1,Tring Kids
+http://146.59.19.1/5028/mpegts
+#EXTINF:-1,RTSH Kids
+http://146.59.19.1/5029/mpegts
 #EXTINF:-1,FILM 1 HD
 http://91.132.172.167:8000/play/a00n
 #EXTINF:-1,FILM 2 HD
