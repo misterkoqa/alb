@@ -261,14 +261,20 @@ http://213.13.19.35/shls/LIVE$Eleven_Sports_4_HD/index.m3u8?device=ANDROID_Live&
 http://213.13.19.35/shls/LIVE$Eleven_Sports_5_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 #EXTINF:-1,ELEVEN SPORT6
 http://213.13.19.35/shls/LIVE$Eleven_Sports_6_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-#EXTINF:-1,SONY TEN 1HD
-https://tv.googledrivelinks.com/play.php?c=Ten_HD&q=1200&e=junk.m3u8
-#EXTINF:-1,SONY TEN 2HD
-https://tv.googledrivelinks.com/play.php?c=Ten2_HD&q=1200&e=junk.m3u8
-#EXTINF:-1,SONY TEN 3HD
-https://tv.googledrivelinks.com/play.php?c=Ten3_HD&q=1200&e=junk.m3u8
-#EXTINF:-1,SONY SIX HD
-https://tv.googledrivelinks.com/play.php?c=Six_HD&q=1200&e=junk.m3u8
+#EXTINF:-1,BEIN SPORT 1 4K
+http://darkteam.vip:25461/crazyarjkhfdiu/8439rjhdksjfmjksnkwel/157
+#EXTINF:-1,BEIN SPORT 2 4K
+http://darkteam.vip:25461/crazyarjkhfdiu/8439rjhdksjfmjksnkwel/158
+#EXTINF:-1,BEIN SPORT 3 4K
+http://darkteam.vip:25461/crazyarjkhfdiu/8439rjhdksjfmjksnkwel/159
+#EXTINF:-1,BEIN SPORT 4 4K
+http://darkteam.vip:25461/crazyarjkhfdiu/8439rjhdksjfmjksnkwel/160
+#EXTINF:-1,BEIN SPORT 5 4K
+http://darkteam.vip:25461/crazyarjkhfdiu/8439rjhdksjfmjksnkwel/161
+#EXTINF:-1,BEIN SPORT 6 4K
+http://darkteam.vip:25461/crazyarjkhfdiu/8439rjhdksjfmjksnkwel/162
+#EXTINF:-1,BEIN SPORT 7 4K
+http://darkteam.vip:25461/crazyarjkhfdiu/8439rjhdksjfmjksnkwel/163
 #EXTINF:-1,Rai 1
 http://45.153.35.200:8001/play/a09w
 #EXTINF:-1,Rai 1 HD
