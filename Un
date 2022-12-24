@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-0 group-title="SHQIP TV🇦🇱🇪🇺" tvg-logo="https://i.imgur.com/FnpdLkm.png",KLAN HD
-http://5.206.237.251:1288/KlanHD
+http://130.0.24.22:94/KlanHD/index.m3u8
 #EXTINF:-1,Klan Plus
 http://130.0.24.22:94/KlanPlusHD/index.m3u8
 #EXTINF:-1,Vizion Plus
@@ -139,16 +139,10 @@ http://146.59.19.1/5027/mpegts
 http://146.59.19.1/5028/mpegts
 #EXTINF:-1,RTSH Kids
 http://146.59.19.1/5029/mpegts
-#EXTINF:-1,FILM 1 HD
-http://91.132.172.167:8000/play/a00n
-#EXTINF:-1,FILM 2 HD
-http://91.132.172.167:8000/play/a00o
 #EXTINF:-1,XPREMIUM 1
 http://platin4k.eu/live/eagleiptv/SsFAljPDDi/56795.ts
 #EXTINF:-1,XPREMIUM 2
 http://platin4k.eu/live/eagleiptv/SsFAljPDDi/56796.ts
-#EXTINF:-1,RAI NEWS
-https://streamcdnr28-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 #EXTINF:-1,ATV HD
 https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
 #EXTINF:-1,FOX HD
@@ -159,14 +153,6 @@ https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 #EXTINF:-1,STAR HD
 https://startv.blutv.com/blutv_startv_live/live.m3u8
-#EXTINF:-1,DISCOVERY WORLD
-http://novst3.1234.uno:6061/discoveryworldhindi/index.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://novst3.1234.uno:6061/natgeohindi/index.m3u8
-#EXTINF:-1,ANIMAL PLANET
-http://novst3.1234.uno:6061/animalplanethindi/index.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC WILD
-http://novst3.1234.uno:6061/natgeowild/index.m3u8
 #EXTINF:-1,Vizion Plus
 http://89.39.106.21:8080/ViziONPluSfsf/index.m3u8
 #EXTINF:-1,RTSH 3
@@ -219,26 +205,6 @@ http://89.39.106.21:8080/FoLKPlus/index.m3u8
 http://89.39.106.21:8080/TringWorldsgag/index.m3u8 
 #EXTINF:-1,Tring Planet
 http://89.39.106.21:8080/TringPlanetsgag/index.m3u8
-#EXTINF:-1,ArtDoku 1
-http://46.19.226.152:4000/play/a05e
-#EXTINF:-1,ArtDoku 2
-http://46.19.226.152:4000/play/a05f
-#EXTINF:-1,ArtKino 1 HD
-http://46.19.226.152:4000/play/a056
-#EXTINF:-1,ArtKino 2 HD
-http://46.19.226.152:4000/play/a057
-#EXTINF:-1,ArtKino 3 HD
-http://46.19.226.152:4000/play/a058
-#EXTINF:-1,ArtSport 1 HD
-http://46.19.226.152:4000/play/a08n
-#EXTINF:-1,ArtSport 2 HD
-http://46.19.226.152:4000/play/a08o
-#EXTINF:-1,ArtSport 3 HD
-http://46.19.226.152:4000/play/a08p
-#EXTINF:-1,ArtSport 4 HD
-http://46.19.226.152:4000/play/a099
-#EXTINF:-1,ArtSport 5 HD
-http://46.19.226.152:4000/play/a09a
 #EXTINF:-1,Tring Sport News
 http://89.39.106.21:8080/TriNGspoRTnEwsdgg/index.m3u8
 #EXTINF:-1,Tring Sport 1
@@ -257,184 +223,6 @@ http://platin4k.eu/live/eagleiptv/SsFAljPDDi/161886.ts
 http://platin4k.eu/live/eagleiptv/SsFAljPDDi/161885.ts
 #EXTINF:-1,SUPER SPORT 5
 http://platin4k.eu/live/eagleiptv/SsFAljPDDi/161884.ts
-#EXTINF:-1,BEIN SPORT TURK 1
-http://he11o.akadatel.com/iptv/Z58HMD6YU8QLUT/6824/index.m3u8
-#EXTINF:-1,BEIN SPORT TURK 2
-http://he11o.akadatel.com/iptv/Z58HMD6YU8QLUT/6819/index.m3u8
-#EXTINF:-1,BEIN SPORT TURK 3
-http://he11o.akadatel.com/iptv/Z58HMD6YU8QLUT/6821/index.m3u8
-#EXTINF:-1,BEIN SPORT TURK 4
-http://he11o.akadatel.com/iptv/Z58HMD6YU8QLUT/6822/index.m3u8
-#EXTINF:-1,Wwe hd
-http://50.7.237.4:8080/WWE/index.m3u8
-#EXTINF:-1,WWE HD
-http://89.187.175.143/3075/mpegts
-#EXTINF:-1,ELEVEN SPORT1
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
-#EXTINF:-1,ELEVEN SPORT2
-http://213.13.19.35/shls/LIVE$Eleven_Sports_2_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-#EXTINF:-1,ELEVEN SPORT3
-http://213.13.19.35/shls/LIVE$Eleven_Sports_3_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-#EXTINF:-1,ELEVEN SPORT4
-http://213.13.19.35/shls/LIVE$Eleven_Sports_4_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-#EXTINF:-1,ELEVEN SPORT5
-http://213.13.19.35/shls/LIVE$Eleven_Sports_5_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-#EXTINF:-1,ELEVEN SPORT6
-http://213.13.19.35/shls/LIVE$Eleven_Sports_6_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-#EXTINF:-1,BEIN SPORT 1 4K
-http://darkteam.vip:25461/crazyarjkhfdiu/8439rjhdksjfmjksnkwel/15477
-#EXTINF:-1,BEIN SPORT 2 4K
-http://darkteam.vip:25461/crazyarjkhfdiu/8439rjhdksjfmjksnkwel/15478
-#EXTINF:-1,BEIN SPORT 3 4K
-http://darkteam.vip:25461/crazyarjkhfdiu/8439rjhdksjfmjksnkwel/15479
-#EXTINF:-1,BEIN SPORT 4 4K
-http://darkteam.vip:25461/crazyarjkhfdiu/8439rjhdksjfmjksnkwel/15480
-#EXTINF:-1,BEIN SPORT 5 4K
-http://darkteam.vip:25461/crazyarjkhfdiu/8439rjhdksjfmjksnkwel/15481
-#EXTINF:-1,BEIN SPORT 6 4K
-http://darkteam.vip:25461/crazyarjkhfdiu/8439rjhdksjfmjksnkwel/15482
-#EXTINF:-1,BEIN SPORT 7 4K
-http://darkteam.vip:25461/crazyarjkhfdiu/8439rjhdksjfmjksnkwel/15483
-#EXTINF:-1,Arena Sport 1
-http://46.19.226.151:4000/play/a0b5
-#EXTINF:-1,Arena Sport 2
-http://46.19.226.151:4000/play/a0b6
-#EXTINF:-1,Arena Sport 3
-http://46.19.226.151:4000/play/a0b7
-#EXTINF:-1,Arena Sport 4
-http://46.19.226.151:4000/play/a0b8
-#EXTINF:-1,Arena Sport 5
-http://46.19.226.151:4000/play/a0b9
-#EXTINF:-1,ArtSport 6 HD
-http://46.19.226.151:4000/play/a0bs
-#EXTINF:-1,Rai 1
-http://45.153.35.200:8001/play/a09w
-#EXTINF:-1,Rai 1 HD
-http://45.153.35.200:8001/play/a061
-#EXTINF:-1,Rai 2
-http://45.153.35.200:8001/play/a09x
-#EXTINF:-1,Rai 2 HD
-http://45.153.35.200:8001/play/a062
-#EXTINF:-1,Rai 3
-http://45.153.35.200:8001/play/a09y
-#EXTINF:-1,Rai 3 HD
-http://45.153.35.200:8001/play/a063
-#EXTINF:-1,Canale 5
-http://91.132.172.167:8000/play/a00k
-#EXTINF:-1,Italia 1
-http://91.132.172.167:8000/play/a00f
-#EXTINF:-1,Rete 4
-http://91.132.172.167:8000/play/a00h
-#EXTINF:-1,Rai 4 HD
-http://45.153.35.200:8001/play/a065
-#EXTINF:-1,Rai 4K
-http://45.153.35.200:8001/play/a067
-#EXTINF:-1,Rai 5 HD
-http://45.153.35.200:8001/play/a05y
-#EXTINF:-1,RSI 1HD
-http://45.153.35.200:8001/play/a07v
-#EXTINF:-1,RSI 2HD
-http://45.153.35.200:8001/play/a07w
-#EXTINF:-1,Rai Gulp HD
-http://45.153.35.200:8001/play/a04p
-#EXTINF:-1,Rai Movie HD
-http://45.153.35.200:8001/play/a066
-#EXTINF:-1,Rai News 24 HD
-http://45.153.35.200:8001/play/a05t
-#EXTINF:-1,Rai Premium HD
-http://45.153.35.200:8001/play/a0a2
-#EXTINF:-1,Rai Sport + HD
-http://45.153.35.200:8001/play/a09p
-#EXTINF:-1,Rai Storia HD
-http://45.153.35.200:8001/play/a05w
-#EXTINF:-1,Rai Storia HD
-http://45.153.35.200:8001/play/a09z
-#EXTINF:-1,Rai YoYo HD
-http://45.153.35.200:8001/play/a05v
-#EXTINF:-1,PRIME VIDEO 1HD
-http://teeveetv.one:2052/live/SYNTAXONEplay736282929/Pz4NScL832N6/1019839.ts
-#EXTINF:-1,PRIME VIDEO 2HD
-http://teeveetv.one:2052/live/SYNTAXONEplay736282929/Pz4NScL832N6/1019840.ts
-#EXTINF:-1,PRIME VIDEO 3HD
-http://teeveetv.one:2052/live/SYNTAXONEplay736282929/Pz4NScL832N6/1019841.ts
-#EXTINF:-1,PRIME VIDEO 4HD
-http://teeveetv.one:2052/live/SYNTAXONEplay736282929/Pz4NScL832N6/1019842.ts
-#EXTINF:-1,PRIME VIDEO 5HD
-http://teeveetv.one:2052/live/SYNTAXONEplay736282929/Pz4NScL832N6/1019843.ts
-#EXTINF:-1,PRIME VIDEO 6HD
-http://teeveetv.one:2052/live/SYNTAXONEplay736282929/Pz4NScL832N6/1019844.ts
-#EXTINF:-1,PRIME VIDEO 7HD
-http://teeveetv.one:2052/live/SYNTAXONEplay736282929/Pz4NScL832N6/1019845.ts
-#EXTINF:-1,PRIME VIDEO 8HD
-http://teeveetv.one:2052/live/SYNTAXONEplay736282929/Pz4NScL832N6/1019846.ts
-#EXTINF:-1,PRIME VIDEO 9HD
-http://teeveetv.one:2052/live/SYNTAXONEplay736282929/Pz4NScL832N6/1019847.ts
-#EXTINF:-1,PRIME VIDEO 10HD
-http://teeveetv.one:2052/live/SYNTAXONEplay736282929/Pz4NScL832N6/1019848.ts
-#EXTINF:-1,HBO PREMIERE 1HD
-http://darkteam.vip:25461/live/ENTRVOD7328723/3JHDJKH328E8732/10438.ts
-#EXTINF:-1,HBO PREMIERE 2HD
-http://darkteam.vip:25461/live/ENTRVOD7328723/3JHDJKH328E8732/10439.ts
-#EXTINF:-1,HBO PREMIERE 3HD
-http://darkteam.vip:25461/live/ENTRVOD7328723/3JHDJKH328E8732/10440.ts
-#EXTINF:-1,Sky Store Premiere 1HD
-http://teeveetv.one:2052/live/SYNTAXONEplay736282929/Pz4NScL832N6/1019822.ts
-#EXTINF:-1,Sky Store Premiere 2HD
-http://teeveetv.one:2052/live/SYNTAXONEplay736282929/Pz4NScL832N6/1019823.ts
-#EXTINF:-1,Sky Store Premiere 3HD
-http://teeveetv.one:2052/live/SYNTAXONEplay736282929/Pz4NScL832N6/1019824.ts
-#EXTINF:-1,Sky Store Premiere 4HD
-http://teeveetv.one:2052/live/SYNTAXONEplay736282929/Pz4NScL832N6/1019825.ts
-#EXTINF:-1,Sky Store Premiere 5HD
-http://teeveetv.one:2052/live/SYNTAXONEplay736282929/Pz4NScL832N6/1019826.ts
-#EXTINF:-1,Sky Store Premiere 6HD
-http://teeveetv.one:2052/live/SYNTAXONEplay736282929/Pz4NScL832N6/1019827.ts
-#EXTINF:-1,Sky Store Premiere 7HD
-http://teeveetv.one:2052/live/SYNTAXONEplay736282929/Pz4NScL832N6/1019828.ts
-#EXTINF:-1,Sky Store Premiere 8HD
-http://teeveetv.one:2052/live/SYNTAXONEplay736282929/Pz4NScL832N6/1019829.ts
-#EXTINF:-1,Sky Store Premiere 9HD
-http://teeveetv.one:2052/live/SYNTAXONEplay736282929/Pz4NScL832N6/1019830.ts
-#EXTINF:-1,Sky Store Premiere 10HD
-http://teeveetv.one:2052/live/SYNTAXONEplay736282929/Pz4NScL832N6/1019831.ts
-#EXTINF:-1,Sky Store Premiere 11HD
-http://teeveetv.one:2052/live/SYNTAXONEplay736282929/Pz4NScL832N6/1019832.ts
-#EXTINF:-1,Sky Store Premiere 12HD
-http://teeveetv.one:2052/live/SYNTAXONEplay736282929/Pz4NScL832N6/1019833.ts
-#EXTINF:-1,Sky Store Premiere 13HD
-http://teeveetv.one:2052/live/SYNTAXONEplay736282929/Pz4NScL832N6/1019834.ts
-#EXTINF:-1,Sky Store Premiere 14HD
-http://teeveetv.one:2052/live/SYNTAXONEplay736282929/Pz4NScL832N6/1019835.ts
-#EXTINF:-1,Sky Store Premiere 15HD
-http://teeveetv.one:2052/live/SYNTAXONEplay736282929/Pz4NScL832N6/1019836.ts
-#EXTINF:-1,Netflix Premiere 1 HD
-http://teeveetv.one:2052/live/SYNTAXONEplay736282929/Pz4NScL832N6/1019872.ts
-#EXTINF:-1,Netflix Premiere 2 HD
-http://teeveetv.one:2052/live/SYNTAXONEplay736282929/Pz4NScL832N6/1019873.ts
-#EXTINF:-1,Netflix Premiere 3 HD
-http://teeveetv.one:2052/live/SYNTAXONEplay736282929/Pz4NScL832N6/1019874.ts
-#EXTINF:-1,Netflix Premiere 4 HD
-http://teeveetv.one:2052/live/SYNTAXONEplay736282929/Pz4NScL832N6/1019875.ts
-#EXTINF:-1,Netflix Premiere 5 HD
-http://teeveetv.one:2052/live/SYNTAXONEplay736282929/Pz4NScL832N6/1019876.ts
-#EXTINF:-1,Netflix Premiere 6 HD
-http://teeveetv.one:2052/live/SYNTAXONEplay736282929/Pz4NScL832N6/1019877.ts
-#EXTINF:-1,Netflix Premiere 7 HD
-http://teeveetv.one:2052/live/SYNTAXONEplay736282929/Pz4NScL832N6/1019878.ts
-#EXTINF:-1,Netflix Premiere 8 HD
-http://teeveetv.one:2052/live/SYNTAXONEplay736282929/Pz4NScL832N6/1019879.ts
-#EXTINF:-1,Netflix Premiere 8 HD
-http://teeveetv.one:2052/live/SYNTAXONEplay736282929/Pz4NScL832N6/1019880.ts
-#EXTINF:-1,Netflix Premiere 9 HD
-http://teeveetv.one:2052/live/SYNTAXONEplay736282929/Pz4NScL832N6/1019881.ts
-#EXTINF:-1,Netflix Premiere 10 HD
-http://teeveetv.one:2052/live/SYNTAXONEplay736282929/Pz4NScL832N6/1019882.ts
-#EXTINF:-1,Netflix Premiere 11 HD
-http://teeveetv.one:2052/live/SYNTAXONEplay736282929/Pz4NScL832N6/1019883.ts
-#EXTINF:-1,Netflix Premiere 12 HD
-http://teeveetv.one:2052/live/SYNTAXONEplay736282929/Pz4NScL832N6/1019884.ts
-#EXTINF:-1,Netflix Premiere 13 HD
-http://teeveetv.one:2052/live/SYNTAXONEplay736282929/Pz4NScL832N6/1019885.ts
 #EXTINF:-0 group-title="XXXL 🔞 🇦🇱🇪🇺" tvg-logo="https://i.imgur.com/FnpdLkm.png",ALBA XXX 1HD
 http://fenz668.top:80/live/pdd4800/vndjspd4t/2056.ts
 #EXTINF:-1,ALBA XXX 2HD
