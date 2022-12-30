@@ -13,6 +13,8 @@ http://188.241.218.46:2085/play/a0artopchannel
 http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/139.ts
 #EXTINF:-1,TV KORÇA HD
 http://32.shqiptv.org/korca/albplus/index.m3u8
+#EXTINF:-1,M2O MUZIK
+https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1,PLANETA HD
 http://93.155.227.38:555/m3u8/planetahd.m3u8
 #EXTINF:-1,BALKANIKA HD
