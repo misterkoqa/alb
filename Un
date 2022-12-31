@@ -268,8 +268,14 @@ https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
 #EXTINF:-1,BOING HD
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(kb)/index.m3u8
-#EXTINF:-1,LA 5
+#EXTINF:-1,CARTOONITO HD
+https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(la)/index.m3u8
+#EXTINF:-1,LA 5 HD
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
+#EXTINF:-1,LA 20 HD
+https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
+#EXTINF:-1,TOP CRIME HD
+https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
 #EXTINF:-0 group-title="XXXL 🔞 🇦🇱🇪🇺" tvg-logo="https://i.imgur.com/FnpdLkm.png",ALBA XXX 1HD
 http://fenz668.top:80/live/pdd4800/vndjspd4t/2056.ts
 #EXTINF:-1,ALBA XXX 2HD
