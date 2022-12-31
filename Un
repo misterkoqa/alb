@@ -1,5 +1,35 @@
 #EXTM3U
-#EXTINF:-0 group-title="SHQIP TV "DOMI" 🇦🇱🇪🇺" tvg-logo="https://i.imgur.com/FnpdLkm.png",KLAN HD
+#EXTINF:-0 group-title="SHQIP KLANI IM DOMI"🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",Klan HD
+http://109.104.129.195:8000/play/s88
+#EXTINF:-1,Klan Plus HD
+http://109.104.129.195:8000/play/s91
+#EXTINF:-1,ABC HD
+http://109.104.129.195:8000/play/s89
+#EXTINF:-1,SCAN HD
+http://109.104.129.195:8000/play/s87
+#EXTINF:-1,Panorama TV HD
+http://109.104.129.195:8000/play/s82
+#EXTINF:-1,Klan News HD
+http://109.104.129.195:8000/play/s90
+#EXTINF:-1,Radio KLAN HD
+http://109.104.129.195:8000/play/s93
+#EXTINF:-1,A2 CNN HD
+http://109.104.129.195:8000/play/s80
+#EXTINF:-1,EURONEWS ALBANIA HD
+http://109.104.129.195:8000/play/s83
+#EXTINF:-1,SYRI HD
+http://109.104.129.195:8000/play/s86
+#EXTINF:-1,Klan Music
+http://109.104.129.195:8000/play/s85
+#EXTINF:-1,KLAN MACEDONIA
+http://109.104.129.195:8000/play/s92
+#EXTINF:-1,MCN TV HD
+http://109.104.129.195:8000/play/s79
+#EXTINF:-1,CNA TV
+http://109.104.129.195:8000/play/s81
+#EXTINF:-1,Radio SOL
+http://109.104.129.195:8000/play/s84
+#EXTINF:-0 group-title="SHQIP TV DOMI"🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",KLAN HD
 http://130.0.24.22:94/KlanHD/index.m3u8
 #EXTINF:-1,Klan Plus
 http://130.0.24.22:94/KlanPlusHD/index.m3u8
