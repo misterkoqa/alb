@@ -33,7 +33,7 @@ http://109.104.129.195:8003/play/s41
 http://109.104.129.195:8003/play/s52
 #EXTINF:-1,VIZION PLUS HD
 http://109.104.129.195:8005/play/s73
-EXTINF:-0 group-title="SHQIP TV DOMI"🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",KLAN HD
+#EXTINF:-0 group-title="SHQIP TV DOMI"🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",KLAN HD
 http://130.0.24.22:94/KlanHD/index.m3u8
 #EXTINF:-1,Klan Plus
 http://130.0.24.22:94/KlanPlusHD/index.m3u8
