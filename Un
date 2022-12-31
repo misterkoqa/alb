@@ -33,16 +33,14 @@ http://109.104.129.195:8003/play/s41
 http://109.104.129.195:8003/play/s52
 #EXTINF:-1,VIZION PLUS HD
 http://109.104.129.195:8005/play/s73
-#EXTINF:-1,TringSport 1 HD
-http://109.104.129.195:8005/play/s118
-#EXTINF:-1,TringSport 2 HD
-http://109.104.129.195:8005/play/s104
-#EXTINF:-1,TringSport 3 HD
-http://109.104.129.195:8005/play/s123
-#EXTINF:-1,TringSport 4 HD
-http://109.104.129.195:8005/play/s109
-#EXTINF:-1,TringSport 5 HD
-http://109.104.129.195:8005/play/s10
+#EXTINF:-1,RTSH 1 HD
+http://109.104.129.195:8001/play/s8
+#EXTINF:-1,RTSH 2 HD
+http://109.104.129.195:8001/play/s22
+#EXTINF:-1,RTSH 3 HD
+http://109.104.129.195:8001/play/s12
+#EXTINF:-1,RTSH Sport HD
+http://109.104.129.195:8001/play/s25
 #EXTINF:-0 group-title="SHQIP TV DOMI"🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",KLAN HD
 http://130.0.24.22:94/KlanHD/index.m3u8
 #EXTINF:-1,Klan Plus
