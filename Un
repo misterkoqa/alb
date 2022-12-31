@@ -25,8 +25,6 @@ http://93.155.227.38:555/m3u8/fentvhd.m3u8
 http://platin4k.eu/live/eagleiptv/SsFAljPDDi/55294.ts
 #EXTINF:-1,FESTINA TV
 http://213.163.114.23:25461/live/ipko/M8TATzJPXe/1.ts
-#EXTINF:-1,FOLKLORIT HD
-https://usher.ttvnw.net/api/channel/hls/tvfolklorit.m3u8?player=twitchweb&p=135386&type=any&allow_source=true&allow_audio_only=true&allow_spectre=false&sig=40ba1f3883a0710d508339de38e20b5e1b9dc20a&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22tvfolklorit%22%2C%22channel_id%22%3A795415381%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3Anull%2C%22expires%22%3A1671927857%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%2283.138.55.36%22%2C%22version%22%3A2%7D&fast_bread=True
 #EXTINF:-1,Zico HD
 https://ub1doy938d.gjirafa.net/live/rcBFeREIqcMkNthqI6YCr3Riss97l2MC/y1k0kk1080/index.m3u8
 #EXTINF:-1,NESER TV
