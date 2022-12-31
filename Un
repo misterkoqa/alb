@@ -244,6 +244,30 @@ http://51.179.188.106:4000/play/a005/index.m3u8
 http://51.179.188.106:4000/play/a006/index.m3u8
 #EXTINF:-1,Rai Movie HD
 http://51.179.188.106:4000/play/a007/index.m3u8
+#EXTINF:-1,CANALE 5 HD
+https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(c5)/index.m3u8
+#EXTINF:-1,ITALIA 1 HD
+https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
+#EXTINF:-1,RETE 4 HD
+https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
+#EXTINF:-1,ITALIA 2 HD
+https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
+#EXTINF:-1,MEDIASET EXTRA HD
+https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
+#EXTINF:-1,GOLD TV
+https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
+#EXTINF:-1,TV 2000
+http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
+#EXTINF:-1,LA 7 HD
+https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
+#EXTINF:-1,LA 7D HD
+https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
+#EXTINF:-1,IRIS HD
+https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
+#EXTINF:-1,BOING HD
+https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(kb)/index.m3u8
+#EXTINF:-1,LA 5
+https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
 #EXTINF:-0 group-title="XXXL 🔞 🇦🇱🇪🇺" tvg-logo="https://i.imgur.com/FnpdLkm.png",ALBA XXX 1HD
 http://fenz668.top:80/live/pdd4800/vndjspd4t/2056.ts
 #EXTINF:-1,ALBA XXX 2HD
