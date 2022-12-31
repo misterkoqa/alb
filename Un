@@ -274,6 +274,22 @@ https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ka)/
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
 #EXTINF:-1,TOP CRIME HD
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
+#EXTINF:-1,Action 1 HD
+http://91.132.172.167:8000/play/a01t
+#EXTINF:-1,Action 2 HD
+http://91.132.172.167:8000/play/a01u
+#EXTINF:-1,Action 3 HD
+http://91.132.172.167:8000/play/a01v
+#EXTINF:-1,Crime HD
+http://91.132.172.167:8000/play/a01s
+#EXTINF:-1,Grrece HD
+http://91.132.172.167:8000/play/a00m
+#EXTINF:-1,Premiere 1 HD
+http://91.132.172.167:8000/play/a00n
+#EXTINF:-1,Premiere 2 HD
+http://91.132.172.167:8000/play/a00o
+#EXTINF:-1,TIBO ACTION
+http://91.132.172.167:8000/play/a00t
 #EXTINF:-0 group-title="XXXL 🔞 🇦🇱🇪🇺" tvg-logo="https://i.imgur.com/FnpdLkm.png",ALBA XXX 1HD
 http://fenz668.top:80/live/pdd4800/vndjspd4t/2056.ts
 #EXTINF:-1,ALBA XXX 2HD
