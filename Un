@@ -25,7 +25,11 @@ http://109.104.129.195:8000/play/s92
 http://109.104.129.195:8000/play/s79
 #EXTINF:-1,CNA TV
 http://109.104.129.195:8000/play/s81
-#EXTINF:-0 group-title="SHQIP TV DOMI"🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",KLAN HD
+#EXTINF:-1,TOP CHANNEL HD
+http://109.104.129.195:8003/play/s41
+#EXTINF:-1,TOP NEWS HD
+http://109.104.129.195:8003/play/s52
+EXTINF:-0 group-title="SHQIP TV DOMI"🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",KLAN HD
 http://130.0.24.22:94/KlanHD/index.m3u8
 #EXTINF:-1,Klan Plus
 http://130.0.24.22:94/KlanPlusHD/index.m3u8
