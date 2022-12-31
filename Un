@@ -47,6 +47,10 @@ http://109.104.129.195:8001/play/s22
 http://109.104.129.195:8001/play/s12
 #EXTINF:-1,RTSH Sport HD
 http://109.104.129.195:8001/play/s25
+#EXTINF:-1,GOLD HD
+http://109.104.129.195:8003/play/s44
+#EXTINF:-1,MAX HD
+http://109.104.129.195:8003/play/s47
 #EXTINF:-0 group-title="SHQIP TV DOMI"🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",KLAN HD
 http://130.0.24.22:94/KlanHD/index.m3u8
 #EXTINF:-1,Klan Plus
