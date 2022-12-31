@@ -11,6 +11,8 @@ http://109.104.129.195:8000/play/s87
 http://109.104.129.195:8000/play/s82
 #EXTINF:-1,Klan News HD
 http://109.104.129.195:8000/play/s90
+#EXTINF:-1,ORA NEWS HD
+http://109.104.129.195:8007/play/s72
 #EXTINF:-1,A2 CNN HD
 http://109.104.129.195:8000/play/s80
 #EXTINF:-1,EURONEWS ALBANIA HD
@@ -29,6 +31,8 @@ http://109.104.129.195:8000/play/s81
 http://109.104.129.195:8003/play/s41
 #EXTINF:-1,TOP NEWS HD
 http://109.104.129.195:8003/play/s52
+#EXTINF:-1,VIZION PLUS HD
+http://109.104.129.195:8005/play/s73
 EXTINF:-0 group-title="SHQIP TV DOMI"🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",KLAN HD
 http://130.0.24.22:94/KlanHD/index.m3u8
 #EXTINF:-1,Klan Plus
