@@ -67,6 +67,8 @@ http://notivi-stream.com:64640/IPTV4ALL.NL/uThyIgUX9o/14329
 http://185.236.229.31:9981/play/a00m
 #EXTINF:-1,RSI 2HD
 http://185.236.229.31:9981/play/a00n
+#EXTINF:-1,HARRY POTTER HD
+http://46.4.102.86/harrypotter/index.m3u8
 #EXTINF:-0 group-title="SHQIP TV DOMI"🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",KLAN HD
 http://130.0.24.22:94/KlanHD/index.m3u8
 #EXTINF:-1,Klan Plus
