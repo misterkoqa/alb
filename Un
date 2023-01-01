@@ -85,6 +85,8 @@ http://93.155.227.38:555/m3u8/planetahd.m3u8
 http://93.155.227.38:555/m3u8/balkanikahd.m3u8
 #EXTINF:-1,FEN-TV HD
 http://93.155.227.38:555/m3u8/fentvhd.m3u8
+#EXTINF:-1,THE VOICE
+http://94.155.231.218:6788/play/a00o/index.m3u8
 #EXTINF:-1,BBF MUZIK
 http://platin4k.eu/live/eagleiptv/SsFAljPDDi/55294.ts
 #EXTINF:-1,FESTINA TV
