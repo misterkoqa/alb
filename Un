@@ -91,6 +91,14 @@ http://premium.luginaiptv.com:8000/Armendi/123456/6530
 http://premium.luginaiptv.com:8000/Armendi/123456/6531
 #EXTINF:-1,DIGI GOLD 4HD
 http://premium.luginaiptv.com:8000/Armendi/123456/6532
+#EXTINF:-1,KS PREMIERE 1HD
+http://172.107.94.243:9000/live/premium/free/2482.ts
+#EXTINF:-1,KS PREMIERE 2HD
+http://172.107.94.243:9000/live/premium/free/2483.ts
+#EXTINF:-1,KS PREMIERE 3HD
+http://172.107.94.243:9000/live/premium/free/2484.ts
+#EXTINF:-1,KS PREMIERE 4HD
+http://172.107.94.243:9000/live/premium/free/2485.ts
 #EXTINF:-1,BEIN SPORT 1HD
 http://51.159.15.117:1996/45924301150697/45924301150697/214078
 #EXTINF:-1,BEIN SPORT 2HD
