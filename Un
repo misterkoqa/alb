@@ -139,6 +139,16 @@ http://212.126.106.218:31000/play/a08l
 http://212.126.106.218:31000/play/a08m
 #EXTINF:-1,SEE SPORT 3 HD
 http://212.126.106.218:31000/play/a08n
+#EXTINF:-1,TringSport 1 HD
+http://109.104.129.195:8005/play/s118
+#EXTINF:-1,TringSport 2 HD
+http://109.104.129.195:8005/play/s104
+#EXTINF:-1,TringSport 3 HD
+http://109.104.129.195:8005/play/s123
+#EXTINF:-1,TringSport 4 HD
+http://109.104.129.195:8005/play/s109
+#EXTINF:-1,TringSport 5 HD
+http://109.104.129.195:8005/play/s103
 #EXTINF:-1,SS-1 HD
 http://109.104.129.195:8008/play/s150
 #EXTINF:-1,SS-2 HD
