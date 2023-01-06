@@ -109,6 +109,16 @@ http://172.107.94.243:9000/live/premium/free/2483.ts
 http://172.107.94.243:9000/live/premium/free/2484.ts
 #EXTINF:-1,KS PREMIERE 4HD
 http://172.107.94.243:9000/live/premium/free/2485.ts
+#EXTINF:-1,ViP Comedy
+http://37.17.12.119:8912/play/a01f
+#EXTINF:-1,ViP Megahit
+http://37.17.12.119:8912/play/a01e
+#EXTINF:-1,ViP Premiere
+http://37.17.12.119:8912/play/a01d
+#EXTINF:-1,ViP Serial HD
+http://37.17.12.119:8912/play/a01h
+#EXTINF:-1,Viasat Nature/History HD
+http://37.17.12.119:8912/play/a01g
 #EXTINF:-1,BEIN SPORT 1HD
 http://51.159.15.117:1996/45924301150697/45924301150697/214078
 #EXTINF:-1,BEIN SPORT 2HD
