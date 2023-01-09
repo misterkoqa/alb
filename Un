@@ -77,20 +77,6 @@ http://185.236.229.31:9981/play/a00m
 http://185.236.229.31:9981/play/a00n
 #EXTINF:-1,HARRY POTTER HD
 http://46.4.102.86/harrypotter/index.m3u8
-#EXTINF:-1,FILM 24 THRILLER
-http://172.107.94.243:9000/live/premium/free/2893.ts
-#EXTINF:-1,FILM 24 HORROR
-http://172.107.94.243:9000/live/premium/free/2885.ts
-#EXTINF:-1,FILM 24 ACTION
-http://172.107.94.243:9000/live/premium/free/2880.ts
-#EXTINF:-1,XPREMIUM 1HD
-http://172.107.94.243:9000/live/premium/free/2838.ts
-#EXTINF:-1,XPREMIUM 2HD
-http://172.107.94.243:9000/live/premium/free/2839.ts
-#EXTINF:-1,XPREMIUM 3HD
-http://172.107.94.243:9000/live/premium/free/2930.ts
-#EXTINF:-1,XPREMIUM 4HD
-http://172.107.94.243:9000/live/premium/free/2931.ts
 #EXTINF:-1,DIGI GOLD
 http://premium.luginaiptv.com:8000/Armendi/123456/5560
 #EXTINF:-1,DIGI GOLD 1HD
@@ -101,24 +87,6 @@ http://premium.luginaiptv.com:8000/Armendi/123456/6530
 http://premium.luginaiptv.com:8000/Armendi/123456/6531
 #EXTINF:-1,DIGI GOLD 4HD
 http://premium.luginaiptv.com:8000/Armendi/123456/6532
-#EXTINF:-1,KS PREMIERE 1HD
-http://172.107.94.243:9000/live/premium/free/2482.ts
-#EXTINF:-1,KS PREMIERE 2HD
-http://172.107.94.243:9000/live/premium/free/2483.ts
-#EXTINF:-1,KS PREMIERE 3HD
-http://172.107.94.243:9000/live/premium/free/2484.ts
-#EXTINF:-1,KS PREMIERE 4HD
-http://172.107.94.243:9000/live/premium/free/2485.ts
-#EXTINF:-1,ViP Comedy
-http://37.17.12.119:8912/play/a01f
-#EXTINF:-1,ViP Megahit
-http://37.17.12.119:8912/play/a01e
-#EXTINF:-1,ViP Premiere
-http://37.17.12.119:8912/play/a01d
-#EXTINF:-1,ViP Serial HD
-http://37.17.12.119:8912/play/a01h
-#EXTINF:-1,Viasat Nature/History HD
-http://37.17.12.119:8912/play/a01g
 #EXTINF:-1,BEIN SPORT 1HD
 http://51.159.15.117:1996/45924301150697/45924301150697/214078
 #EXTINF:-1,BEIN SPORT 2HD
@@ -133,30 +101,50 @@ http://51.159.15.117:1996/45924301150697/45924301150697/214082
 http://51.159.15.117:1996/45924301150697/45924301150697/214083
 #EXTINF:-1,BEIN SPORT 7HD
 http://51.159.15.117:1996/45924301150697/45924301150697/214084
-#EXTINF:-1,SEE SPORT 1 HD
-http://212.126.106.218:31000/play/a08l
-#EXTINF:-1,SEE SPORT 2 HD
-http://212.126.106.218:31000/play/a08m
-#EXTINF:-1,SEE SPORT 3 HD
-http://212.126.106.218:31000/play/a08n
-#EXTINF:-1,TringSport 1 HD
-http://109.104.129.195:8005/play/s118
-#EXTINF:-1,TringSport 2 HD
-http://109.104.129.195:8005/play/s104
-#EXTINF:-1,TringSport 3 HD
-http://109.104.129.195:8005/play/s123
-#EXTINF:-1,TringSport 4 HD
-http://109.104.129.195:8005/play/s109
-#EXTINF:-1,TringSport 5 HD
-http://109.104.129.195:8005/play/s103
-#EXTINF:-1,SS-1 HD
-http://109.104.129.195:8008/play/s150
-#EXTINF:-1,SS-2 HD
-http://109.104.129.195:8008/play/s153
-#EXTINF:-1,SS-3 HD
-http://109.104.129.195:8008/play/s154
-#EXTINF:-1,SS-4 HD
-http://109.104.129.195:8008/play/s155
+#EXTINF:-1,NOVA SPORT News HD
+http://37.49.224.40:8000/play/NovaSportsNews/index.m3u8
+#EXTINF:-1,NOVA SPORT 1 HD
+http://37.49.224.40:8000/play/NovaSports1/index.m3u8
+#EXTINF:-1,NOVA SPORT 2 HD
+http://37.49.224.40:8000/play/NovaSports2/index.m3u8
+#EXTINF:-1,NOVA SPORT 3 HD
+http://37.49.224.40:8000/play/NovaSports3/index.m3u8
+#EXTINF:-1,NOVA SPORT 4 HD
+http://37.49.224.40:8000/play/NovaSports4/index.m3u8
+#EXTINF:-1,NOVA SPORT 5 HD
+http://37.49.224.40:8000/play/NovaSports5/index.m3u8
+#EXTINF:-1,NOVA SPORT 6 HD
+http://37.49.224.40:8000/play/NovaSports6/index.m3u8
+#EXTINF:-1,COSMOTE SPORT 1HD
+http://37.49.224.40:8000/play/CosmoteSport1/index.m3u8
+#EXTINF:-1,COSMOTE SPORT 2HD
+http://37.49.224.40:8000/play/CosmoteSport2/index.m3u8
+#EXTINF:-1,COSMOTE SPORT 3HD
+http://37.49.224.40:8000/play/CosmoteSport3/index.m3u8
+#EXTINF:-1,COSMOTE SPORT 4HD
+http://37.49.224.40:8000/play/CosmoteSport4/index.m3u8
+#EXTINF:-1,COSMOTE SPORT 5HD
+http://37.49.224.40:8000/play/CosmoteSport5/index.m3u8
+#EXTINF:-1,COSMOTE SPORT 6HD
+http://37.49.224.40:8000/play/CosmoteSport6/index.m3u8
+#EXTINF:-1,COSMOTE SPORT 7HD
+http://37.49.224.40:8000/play/CosmoteSport7/index.m3u8
+#EXTINF:-1,COSMOTE SPORT 8HD
+http://37.49.224.40:8000/play/CosmoteSport8/index.m3u8
+#EXTINF:-1,COSMOTE SPORT 9HD
+http://37.49.224.40:8000/play/CosmoteSport9/index.m3u8
+#EXTINF:-1,POLSAT_SPORT_PREMIUM 1HD
+http://37.49.224.40:8000/play/Polsat_Sport_Premium_1/index.m3u8
+#EXTINF:-1,POLSAT_SPORT_PREMIUM 2HD
+http://37.49.224.40:8000/play/Polsat_Sport_Premium_2/index.m3u8
+#EXTINF:-1,POLSAT_SPORT_PREMIUM 3HD
+http://37.49.224.40:8000/play/Polsat_Sport_Premium_3/index.m3u8
+#EXTINF:-1,POLSAT_SPORT_PREMIUM 4HD
+http://37.49.224.40:8000/play/Polsat_Sport_Premium_4/index.m3u8
+#EXTINF:-1,POLSAT_SPORT_PREMIUM 5HD
+http://37.49.224.40:8000/play/Polsat_Sport_Premium_5/index.m3u8
+#EXTINF:-1,POLSAT_SPORT_PREMIUM 6HD
+http://37.49.224.40:8000/play/Polsat_Sport_Premium_6/index.m3u8
 #EXTINF:-1,TRING SPORT NEWS
 http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1861
 #EXTINF:-1,TRING SPORT 1HD
