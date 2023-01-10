@@ -87,6 +87,14 @@ http://premium.luginaiptv.com:8000/Armendi/123456/6530
 http://premium.luginaiptv.com:8000/Armendi/123456/6531
 #EXTINF:-1,DIGI GOLD 4HD
 http://premium.luginaiptv.com:8000/Armendi/123456/6532
+#EXTINF:-1,ELEVEN SPORT1
+http://rn2yfxko.tvclub.xyz/iptv/WP3PZRYBCGTFUB/19158/index.m3u8
+#EXTINF:-1,ELEVEN SPORT2
+http://rn2yfxko.tvclub.xyz/iptv/WP3PZRYBCGTFUB/19161/index.m3u8
+#EXTINF:-1,ELEVEN SPORT3
+http://rn2yfxko.tvclub.xyz/iptv/WP3PZRYBCGTFUB/19165/index.m3u8
+#EXTINF:-1,ELEVEN SPORT4
+http://rn2yfxko.tvclub.xyz/iptv/WP3PZRYBCGTFUB/19166/index.m3u8
 #EXTINF:-1,BEIN SPORT 1HD
 http://51.159.15.117:1996/45924301150697/45924301150697/214078
 #EXTINF:-1,BEIN SPORT 2HD
@@ -199,6 +207,8 @@ http://93.155.227.38:555/m3u8/balkanikahd.m3u8
 http://93.155.227.38:555/m3u8/fentvhd.m3u8
 #EXTINF:-1,SUPER HD
 http://142.132.136.139:8000/play/a003/index.m3u8
+#EXTINF:-1,NRJ MUSIC
+http://rn2yfxko.tvclub.xyz/iptv/WP3PZRYBCGTFUB/19199/index.m3u8
 #EXTINF:-1,BBF MUZIK
 http://platin4k.eu/live/eagleiptv/SsFAljPDDi/55294.ts
 #EXTINF:-1,FESTINA TV
