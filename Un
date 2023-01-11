@@ -55,22 +55,6 @@ http://109.104.129.195:8001/play/s22
 http://109.104.129.195:8001/play/s12
 #EXTINF:-1,RTSH Sport HD
 http://109.104.129.195:8001/play/s25
-#EXTINF:-1,SKYSELECT 1HD
-http://notivi-stream.com:64640/IPTV4ALL.NL/uThyIgUX9o/189
-#EXTINF:-1,SKYSELECT 2HD
-http://notivi-stream.com:64640/IPTV4ALL.NL/uThyIgUX9o/190
-#EXTINF:-1,SKYSELECT 3HD
-http://notivi-stream.com:64640/IPTV4ALL.NL/uThyIgUX9o/191
-#EXTINF:-1,SKYSELECT 4HD
-http://notivi-stream.com:64640/IPTV4ALL.NL/uThyIgUX9o/192
-#EXTINF:-1,SKYSELECT 5HD
-http://notivi-stream.com:64640/IPTV4ALL.NL/uThyIgUX9o/193
-#EXTINF:-1,SKYSELECT 6HD
-http://notivi-stream.com:64640/IPTV4ALL.NL/uThyIgUX9o/194
-#EXTINF:-1,SKYSELECT 7HD
-http://notivi-stream.com:64640/IPTV4ALL.NL/uThyIgUX9o/14328
-#EXTINF:-1,SKYSELECT 8HD
-http://notivi-stream.com:64640/IPTV4ALL.NL/uThyIgUX9o/14329
 #EXTINF:-1,RSI 1HD
 http://185.236.229.31:9981/play/a00m
 #EXTINF:-1,RSI 2HD
@@ -87,14 +71,16 @@ http://premium.luginaiptv.com:8000/Armendi/123456/6530
 http://premium.luginaiptv.com:8000/Armendi/123456/6531
 #EXTINF:-1,DIGI GOLD 4HD
 http://premium.luginaiptv.com:8000/Armendi/123456/6532
+#EXTINF:-1,BT Sport 1 FHD
+http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/692280
+#EXTINF:-1,BT Sport 2 FHD
+http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/692282
+#EXTINF:-1,BT Sport 3 FHD
+http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/692284
+#EXTINF:-1,BT Sport 4 FHD
+http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/692291
 #EXTINF:-1,ELEVEN SPORT1
 http://rn2yfxko.tvclub.xyz/iptv/WP3PZRYBCGTFUB/19158/index.m3u8
-#EXTINF:-1,ELEVEN SPORT2
-http://rn2yfxko.tvclub.xyz/iptv/WP3PZRYBCGTFUB/19161/index.m3u8
-#EXTINF:-1,ELEVEN SPORT3
-http://rn2yfxko.tvclub.xyz/iptv/WP3PZRYBCGTFUB/19165/index.m3u8
-#EXTINF:-1,ELEVEN SPORT4
-http://rn2yfxko.tvclub.xyz/iptv/WP3PZRYBCGTFUB/19166/index.m3u8
 #EXTINF:-1,BEIN SPORT 1HD
 http://51.159.15.117:1996/45924301150697/45924301150697/214078
 #EXTINF:-1,BEIN SPORT 2HD
