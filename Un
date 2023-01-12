@@ -227,11 +227,13 @@ http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1860
 http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/3638
 #EXTINF:-1,SUPER SPORT 7HD
 http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/174441
-#EXTINF:-0 group-title="SHQIP TV DOMI"🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",KLAN HD
+#EXTINF:-0 group-title="SHQIP TV DOMI"🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",TOP CHANNEL HD
+http://130.0.24.22:94/TopChannel/index.m3u8
+#EXTINF:-1,KLAN HD
 http://130.0.24.22:94/KlanHD/index.m3u8
-#EXTINF:-1,Klan Plus
+#EXTINF:-1,Klan Plus HD
 http://130.0.24.22:94/KlanPlusHD/index.m3u8
-#EXTINF:-1,Vizion Plus
+#EXTINF:-1,Vizion Plus HD
 http://130.0.24.22:94/VizionPlusHD/index.m3u8
 #EXTINF:-1,VIZION PLUS HD
 https://mfe01.tring.al/delta/105/out/u/619_13.m3u8
@@ -239,8 +241,6 @@ https://mfe01.tring.al/delta/105/out/u/619_13.m3u8
 http://188.241.218.46:2085/play/a0b2ALSAMMFHD
 #EXTINF:-1,Top Channel HD
 http://188.241.218.46:2085/play/a0artopchannel
-#EXTINF:-1,KLAN HD
-http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/139.ts
 #EXTINF:-1,TV KORÇA HD
 http://32.shqiptv.org/korca/albplus/index.m3u8
 #EXTINF:-1,M2O MUZIK
