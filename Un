@@ -233,6 +233,8 @@ http://130.0.24.22:94/KlanHD/index.m3u8
 http://130.0.24.22:94/KlanPlusHD/index.m3u8
 #EXTINF:-1,Vizion Plus
 http://130.0.24.22:94/VizionPlusHD/index.m3u8
+#EXTINF:-1,VIZION PLUS HD
+https://mfe01.tring.al/delta/106/out/u/619_13.m3u8
 #EXTINF:-1,ALSAT M HD
 http://188.241.218.46:2085/play/a0b2ALSAMMFHD
 #EXTINF:-1,Top Channel HD
