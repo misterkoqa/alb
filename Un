@@ -119,6 +119,8 @@ http://191.98.171.198:4000/play/a015/index.m3u8
 http://191.98.171.198:4000/play/a00g/index.m3u8
 #EXTINF:-1,Discovery Turbo
 http://191.98.171.198:4000/play/a01m/index.m3u8
+#EXTINF:-1,Discovery World
+http://190.131.247.82:8000/play/a06a
 #EXTINF:-1,Disney Channel
 http://191.98.171.198:4000/play/a04b/index.m3u8
 #EXTINF:-1,Disney Junior
