@@ -127,6 +127,8 @@ http://191.98.171.198:4000/play/a04b/index.m3u8
 http://191.98.171.198:4000/play/a00m/index.m3u8
 #EXTINF:-1,ANIMAL PLANET
 http://191.98.171.198:4000/play/a04d/index.m3u8
+#EXTINF:-1,WWE NETWORK HD
+http://live.iptvtotaal.com:8000/awpreneniptv/09HZaVeOmh/63434
 #EXTINF:-1,WWE WRESTLING HD
 http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/14404
 #EXTINF:-1,BT Sport 1 FHD
