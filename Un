@@ -197,36 +197,14 @@ http://37.49.224.40:8000/play/Polsat_Sport_Premium_4/index.m3u8
 http://37.49.224.40:8000/play/Polsat_Sport_Premium_5/index.m3u8
 #EXTINF:-1,POLSAT_SPORT_PREMIUM 6HD
 http://37.49.224.40:8000/play/Polsat_Sport_Premium_6/index.m3u8
-#EXTINF:-1,TRING SPORT NEWS
-http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1861
-#EXTINF:-1,TRING SPORT 1HD
-http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1306
-#EXTINF:-1,TRING SPORT 2HD
-http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1305
-#EXTINF:-1,TRING SPORT 3HD
-http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1304
-#EXTINF:-1,OVERSPORT 1HD
-http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/290218
-#EXTINF:-1,OVERSPORT 2HD
-http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/295514
-#EXTINF:-1,OVERSPORT 3HD
-http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/290537
-#EXTINF:-1,OVERSPORT 4HD
-http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/290538
-#EXTINF:-1,SUPER SPORT NEWS
-http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1313
-#EXTINF:-1,SUPER SPORT 2HD
-http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1312
-#EXTINF:-1,SUPER SPORT 3HD
-http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1319
-#EXTINF:-1,SUPER SPORT 4HD
-http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1318
-#EXTINF:-1,SUPER SPORT 5HD
-http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1860
-#EXTINF:-1,SUPER SPORT 6HD
-http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/3638
-#EXTINF:-1,SUPER SPORT 7HD
-http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/174441
+#EXTINF:-1,Arena SPORT 1HD
+http://94.250.2.6:7374/play/a02m/index.m3u8
+#EXTINF:-1,Arena SPORT 2HD
+http://94.250.2.6:7374/play/a02n/index.m3u8
+#EXTINF:-1,Arena Sport 3HD
+http://94.250.2.6:7374/play/a02o/index.m3u8
+#EXTINF:-1,Arena Sport 4HD
+http://94.250.2.6:7374/play/a012/index.m3u8
 #EXTINF:-0 group-title="SHQIP TV DOMI"🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",TOP CHANNEL HD
 http://130.0.24.22:94/TopChannel/index.m3u8
 #EXTINF:-1,KLAN HD
