@@ -123,6 +123,38 @@ http://191.98.171.198:4000/play/a04b/index.m3u8
 http://191.98.171.198:4000/play/a00m/index.m3u8
 #EXTINF:-1,ANIMAL PLANET
 http://191.98.171.198:4000/play/a04d/index.m3u8
+#EXTINF:-1,OVER SPORT NEWS
+http://iptv-rks.com:25461/SmajlGashi/SmajlGashi12/88376
+#EXTINF:-1,OVER SPORT 1 HD
+http://iptv-rks.com:25461/SmajlGashi/SmajlGashi12/84221
+#EXTINF:-1,OVER SPORT 1 4K
+http://iptv-rks.com:25461/SmajlGashi/SmajlGashi12/90065
+#EXTINF:-1,OVER SPORT 2 HD
+http://iptv-rks.com:25461/SmajlGashi/SmajlGashi12/84226
+#EXTINF:-1,OVER SPORT 3 HD
+http://iptv-rks.com:25461/SmajlGashi/SmajlGashi12/84227
+#EXTINF:-1,OVER SPORT 4 HD
+http://iptv-rks.com:25461/SmajlGashi/SmajlGashi12/84228
+#EXTINF:-1,SUPER SPORT 1 HD
+http://iptv-rks.com:25461/SmajlGashi/SmajlGashi12/84229
+#EXTINF:-1,SUPER SPORT 1 4K
+http://iptv-rks.com:25461/SmajlGashi/SmajlGashi12/84230
+#EXTINF:-1,SUPER SPORT 2 HD
+http://iptv-rks.com:25461/SmajlGashi/SmajlGashi12/84231
+#EXTINF:-1,SUPER SPORT 2 4K
+http://iptv-rks.com:25461/SmajlGashi/SmajlGashi12/84232
+#EXTINF:-1,SUPER SPORT 3 HD
+http://iptv-rks.com:25461/SmajlGashi/SmajlGashi12/84233
+#EXTINF:-1,SUPER SPORT 3 4K
+http://iptv-rks.com:25461/SmajlGashi/SmajlGashi12/84234
+#EXTINF:-1,SUPER SPORT 4 HD
+http://iptv-rks.com:25461/SmajlGashi/SmajlGashi12/84235
+#EXTINF:-1,SUPER SPORT 4 4K
+http://iptv-rks.com:25461/SmajlGashi/SmajlGashi12/84236
+#EXTINF:-1,SUPER SPORT 5 HD
+http://iptv-rks.com:25461/SmajlGashi/SmajlGashi12/84237
+#EXTINF:-1,SUPER SPORT 5 4K
+http://iptv-rks.com:25461/SmajlGashi/SmajlGashi12/84238
 #EXTINF:-1,WWE NETWORK HD
 http://live.iptvtotaal.com:8000/awpreneniptv/09HZaVeOmh/63434
 #EXTINF:-1,WWE WRESTLING HD
