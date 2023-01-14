@@ -205,6 +205,16 @@ http://94.250.2.6:7374/play/a02n/index.m3u8
 http://94.250.2.6:7374/play/a02o/index.m3u8
 #EXTINF:-1,Arena Sport 4HD
 http://94.250.2.6:7374/play/a012/index.m3u8
+#EXTINF:-1,PLAY SPORTS 1 FHD
+http://live.iptvtotaal.com:8000/awpreneniptv/09HZaVeOmh/16858
+#EXTINF:-1,PLAY SPORTS 2 FHD
+http://live.iptvtotaal.com:8000/awpreneniptv/09HZaVeOmh/46238
+#EXTINF:-1,PLAY SPORTS 3 FHD
+http://live.iptvtotaal.com:8000/awpreneniptv/09HZaVeOmh/60567
+#EXTINF:-1,PLAY SPORTS 4 FHD
+http://live.iptvtotaal.com:8000/awpreneniptv/09HZaVeOmh/60570
+#EXTINF:-1,PLAY SPORTS 5 FHD
+http://live.iptvtotaal.com:8000/awpreneniptv/09HZaVeOmh/60573
 #EXTINF:-0 group-title="SHQIP TV DOMI"🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",TOP CHANNEL HD
 http://130.0.24.22:94/TopChannel/index.m3u8
 #EXTINF:-1,KLAN HD
