@@ -57,6 +57,14 @@ http://185.236.229.31:9981/play/a00m
 http://185.236.229.31:9981/play/a00n
 #EXTINF:-1,HARRY POTTER HD
 http://46.4.102.86/harrypotter/index.m3u8
+#EXTINF:-1,Ks Premier 1
+http://premium.luginaiptv.com:8000/Armendi/123456/14103
+#EXTINF:-1,Ks Premier 2
+http://premium.luginaiptv.com:8000/Armendi/123456/14104
+#EXTINF:-1,Ks Premier 3
+http://premium.luginaiptv.com:8000/Armendi/123456/14105
+#EXTINF:-1,Ks Premier 4
+http://premium.luginaiptv.com:8000/Armendi/123456/14106
 #EXTINF:-1,DIGI GOLD
 http://premium.luginaiptv.com:8000/Armendi/123456/5560
 #EXTINF:-1,DIGI GOLD 1HD
