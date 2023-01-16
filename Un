@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-0 group-title="SHQIP KLANI IM DOMI"🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",BBVIP ALBANIA 1HD
-http://vcxy.me:80/NaserDurmishi1/bmK21cwxKJTJQpQ6KuXh/28939
+http://185.234.217.29:8007/play/a043/index.m3u8
 #EXTINF:-1,BBVIP ALBANIA 2HD
-http://vcxy.me:80/NaserDurmishi1/bmK21cwxKJTJQpQ6KuXh/28940
+http://185.234.217.29:8007/play/a044/index.m3u8
 #EXTINF:-1,TOP CHANNEL HD
 http://109.104.129.195:8003/play/s41
 #EXTINF:-1,VIZION PLUS HD
@@ -317,6 +317,8 @@ http://142.132.136.139:8000/play/a003/index.m3u8
 http://rn2yfxko.tvclub.xyz/iptv/WP3PZRYBCGTFUB/19199/index.m3u8
 #EXTINF:-1,BBF MUZIK
 http://platin4k.eu/live/eagleiptv/SsFAljPDDi/55294.ts
+#EXTINF:-1,SUPERSONIK TV
+http://185.234.217.29:8007/play/a035/index.m3u8
 #EXTINF:-1,FESTINA TV
 http://213.163.114.23:25461/live/ipko/M8TATzJPXe/1.ts
 #EXTINF:-1,Zico HD
