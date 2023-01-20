@@ -83,26 +83,6 @@ http://premium.luginaiptv.com:8000/Armendi/123456/6530
 http://premium.luginaiptv.com:8000/Armendi/123456/6531
 #EXTINF:-1,DIGI GOLD 4HD
 http://premium.luginaiptv.com:8000/Armendi/123456/6532
-#EXTINF:-1,SKY SELECT 1HD
-http://un-pluggedtv.net:8080/Manwithplan2021/ry928rB8ES/36805
-#EXTINF:-1,SKY SELECT 2HD
-http://un-pluggedtv.net:8080/Manwithplan2021/ry928rB8ES/36810
-#EXTINF:-1,SKY SELECT 3HD
-http://un-pluggedtv.net:8080/Manwithplan2021/ry928rB8ES/36806
-#EXTINF:-1,SKY SELECT 4HD
-http://un-pluggedtv.net:8080/Manwithplan2021/ry928rB8ES/36814
-#EXTINF:-1,SKY SELECT 5HD
-http://un-pluggedtv.net:8080/Manwithplan2021/ry928rB8ES/36815
-#EXTINF:-1,SKY SELECT 6HD
-http://un-pluggedtv.net:8080/Manwithplan2021/ry928rB8ES/36816
-#EXTINF:-1,SKY SELECT 7HD
-http://un-pluggedtv.net:8080/Manwithplan2021/ry928rB8ES/36817
-#EXTINF:-1,SKY SELECT 8HD
-http://un-pluggedtv.net:8080/Manwithplan2021/ry928rB8ES/36818
-#EXTINF:-1,SKY SELECT 9HD
-http://un-pluggedtv.net:8080/Manwithplan2021/ry928rB8ES/36819
-#EXTINF:-1,SKY SELECT 10HD
-http://un-pluggedtv.net:8080/Manwithplan2021/ry928rB8ES/36820
 #EXTINF:-1,Sky Cinema Premiere FHD
 http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/692633
 #EXTINF:-1,Sky Cinema Select FHD
@@ -213,8 +193,6 @@ http://84.17.61.203:8086/udp/238.2.25.78:1234
 http://84.17.61.203:8086/udp/238.2.25.90:1234
 #EXTINF:-1,DIGI SPORT 4HD
 http://dontuse.offshorerev.cc:80/mag00:1A:79:42:64:02/464axywyo1/52438
-#EXTINF:-1,WWE NETWORK HD
-http://protocol.solanaflix.com:8080/play/SgkJlJkSO-dzhO_tMC-9vegdWioYtRRreI9xAoE9If_sCaaREc7hLZJUGjzEVMO0
 #EXTINF:-1,WWE WRESTLING HD
 http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/14404
 #EXTINF:-1,BT Sport 1 FHD
@@ -241,50 +219,6 @@ http://51.159.15.117:1996/45924301150697/45924301150697/214082
 http://51.159.15.117:1996/45924301150697/45924301150697/214083
 #EXTINF:-1,BEIN SPORT 7HD
 http://51.159.15.117:1996/45924301150697/45924301150697/214084
-#EXTINF:-1,NOVA SPORT News HD
-http://37.49.224.40:8000/play/NovaSportsNews/index.m3u8
-#EXTINF:-1,NOVA SPORT 1 HD
-http://37.49.224.40:8000/play/NovaSports1/index.m3u8
-#EXTINF:-1,NOVA SPORT 2 HD
-http://37.49.224.40:8000/play/NovaSports2/index.m3u8
-#EXTINF:-1,NOVA SPORT 3 HD
-http://37.49.224.40:8000/play/NovaSports3/index.m3u8
-#EXTINF:-1,NOVA SPORT 4 HD
-http://37.49.224.40:8000/play/NovaSports4/index.m3u8
-#EXTINF:-1,NOVA SPORT 5 HD
-http://37.49.224.40:8000/play/NovaSports5/index.m3u8
-#EXTINF:-1,NOVA SPORT 6 HD
-http://37.49.224.40:8000/play/NovaSports6/index.m3u8
-#EXTINF:-1,COSMOTE SPORT 1HD
-http://37.49.224.40:8000/play/CosmoteSport1/index.m3u8
-#EXTINF:-1,COSMOTE SPORT 2HD
-http://37.49.224.40:8000/play/CosmoteSport2/index.m3u8
-#EXTINF:-1,COSMOTE SPORT 3HD
-http://37.49.224.40:8000/play/CosmoteSport3/index.m3u8
-#EXTINF:-1,COSMOTE SPORT 4HD
-http://37.49.224.40:8000/play/CosmoteSport4/index.m3u8
-#EXTINF:-1,COSMOTE SPORT 5HD
-http://37.49.224.40:8000/play/CosmoteSport5/index.m3u8
-#EXTINF:-1,COSMOTE SPORT 6HD
-http://37.49.224.40:8000/play/CosmoteSport6/index.m3u8
-#EXTINF:-1,COSMOTE SPORT 7HD
-http://37.49.224.40:8000/play/CosmoteSport7/index.m3u8
-#EXTINF:-1,COSMOTE SPORT 8HD
-http://37.49.224.40:8000/play/CosmoteSport8/index.m3u8
-#EXTINF:-1,COSMOTE SPORT 9HD
-http://37.49.224.40:8000/play/CosmoteSport9/index.m3u8
-#EXTINF:-1,POLSAT_SPORT_PREMIUM 1HD
-http://37.49.224.40:8000/play/Polsat_Sport_Premium_1/index.m3u8
-#EXTINF:-1,POLSAT_SPORT_PREMIUM 2HD
-http://37.49.224.40:8000/play/Polsat_Sport_Premium_2/index.m3u8
-#EXTINF:-1,POLSAT_SPORT_PREMIUM 3HD
-http://37.49.224.40:8000/play/Polsat_Sport_Premium_3/index.m3u8
-#EXTINF:-1,POLSAT_SPORT_PREMIUM 4HD
-http://37.49.224.40:8000/play/Polsat_Sport_Premium_4/index.m3u8
-#EXTINF:-1,POLSAT_SPORT_PREMIUM 5HD
-http://37.49.224.40:8000/play/Polsat_Sport_Premium_5/index.m3u8
-#EXTINF:-1,POLSAT_SPORT_PREMIUM 6HD
-http://37.49.224.40:8000/play/Polsat_Sport_Premium_6/index.m3u8
 #EXTINF:-1,Arena SPORT 1HD
 http://94.250.2.6:7374/play/a02m/index.m3u8
 #EXTINF:-1,Arena SPORT 2HD
