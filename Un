@@ -11,6 +11,10 @@ http://109.104.129.195:8005/play/s73
 http://109.104.129.195:8000/play/s88
 #EXTINF:-1,Klan Plus HD
 http://109.104.129.195:8000/play/s91
+#EXTINF:-1,KLAN KOSOVA
+http://185.234.217.29:8004/play/klankosova/index.m3u8
+#EXTINF:-1,ALSAT M
+http://185.234.217.29:8004/play/alsatm/index.m3u8
 #EXTINF:-1,ABC HD
 http://109.104.129.195:8000/play/s89
 #EXTINF:-1,SCAN HD
