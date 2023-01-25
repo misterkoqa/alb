@@ -123,7 +123,7 @@ http://191.98.171.198:4000/play/a04b/index.m3u8
 http://191.98.171.198:4000/play/a00m/index.m3u8
 #EXTINF:-1,ANIMAL PLANET
 http://191.98.171.198:4000/play/a04d/index.m3u8
-#EXTINF:-1,TRING SPORT 1HD
+#EXTINF:-0 group-title="SHQIP SPORT DOMI"🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",TRING SPORT 1HD
 http://iptv-tn.com:8080/ottking/ottking_mcoes.live/58859
 #EXTINF:-1,TRING SPORT 2HD
 http://iptv-tn.com:8080/ottking/ottking_mcoes.live/58860
@@ -171,6 +171,12 @@ http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e_lG-wVaWwz
 http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e-zSIvQVCNzM6PzAwwDSc-9
 #EXTINF:-1, NOVA SPORTS 6
 http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e8knmYox6b33BuDPJjeF2_K
+#EXTINF:-1,Diema Sport 1
+http://94.156.59.247:8899/udp/224.156.69.139:5000
+#EXTINF:-1,Diema Sport 2
+http://94.156.59.247:8899/udp/224.156.69.138:5000
+#EXTINF:-1,Diema Sport 3
+http://94.156.59.247:8899/udp/224.156.69.137:5000
 #EXTINF:-1,Tring Sport 1 HD
 http://platin4k.eu:80/ahmetiptv/kT0Tz0heZ6/162291
 #EXTINF:-1,Tring Sport 2 HD
