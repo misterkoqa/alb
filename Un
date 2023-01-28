@@ -61,6 +61,14 @@ http://185.236.229.31:9981/play/a00m
 http://185.236.229.31:9981/play/a00n
 #EXTINF:-1,HARRY POTTER HD
 http://46.4.102.86/harrypotter/index.m3u8
+#EXTINF:-1,X Gold 1
+http://185.186.83.206:8000/play/xgold1
+#EXTINF:-1,X Gold 2
+http://185.186.83.206:8000/play/xgold2
+#EXTINF:-1,X Gold 3
+http://185.186.83.206:8000/play/xgold3
+#EXTINF:-1,X Gold 4
+http://185.186.83.206:8000/play/xgold4
 #EXTINF:-1,Kinema Milenium 1 HD
 http://premium.luginaiptv.com:8000/Armendi/123456/14078
 #EXTINF:-1,Kinema Milenium 2 HD
