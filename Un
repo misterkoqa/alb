@@ -229,14 +229,22 @@ http://live.iptvtotaal.com:8000/awpreneniptv/09HZaVeOmh/60567
 http://live.iptvtotaal.com:8000/awpreneniptv/09HZaVeOmh/60570
 #EXTINF:-1,PLAY SPORTS 5 FHD
 http://live.iptvtotaal.com:8000/awpreneniptv/09HZaVeOmh/60573
-#EXTINF:-1,OVER SPORT1 HD
-http://185.179.28.211:8000/play/a01n
-#EXTINF:-1,OVER SPORT2 HD
-http://185.179.28.211:8000/play/a01o
-#EXTINF:-1,OVER SPORT3 HD
-http://185.179.28.211:8000/play/a01s
-#EXTINF:-1,OVER SPORT4 HD
-http://185.179.28.211:8000/play/a01t
+#EXTINF:-1,beIN SPORT MAX 3
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=971&flavour=ld
+#EXTINF:-1,beIN SPORT MAX 4
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=972&flavour=ld
+#EXTINF:-1,beIN SPORT MAX 5
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=973&flavour=ld
+#EXTINF:-1,beIN SPORT MAX 6
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=974&flavour=ld
+#EXTINF:-1,beIN SPORT MAX 7
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=975&flavour=ld
+#EXTINF:-1,beIN SPORT MAX 8
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=976&flavour=ld
+#EXTINF:-1,beIN SPORT MAX 9
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=977&flavour=ld
+#EXTINF:-1,beIN SPORT MAX 10
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=978&flavour=ld
 #EXTINF:-0 group-title="SHQIP TV DOMI"🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",TOP CHANNEL HD
 http://130.0.24.22:94/TopChannel/index.m3u8
 #EXTINF:-1,KLAN HD
