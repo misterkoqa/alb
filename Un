@@ -221,14 +221,46 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=976&flavour=ld
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=977&flavour=ld
 #EXTINF:-1,beIN SPORT MAX 10
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=978&flavour=ld
-#EXTINF:-0 group-title="SHQIP TV DOMI"🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",TOP CHANNEL HD
-http://130.0.24.22:94/TopChannel/index.m3u8
-#EXTINF:-1,KLAN HD
-http://130.0.24.22:94/KlanHD/index.m3u8
-#EXTINF:-1,Klan Plus HD
-http://130.0.24.22:94/KlanPlusHD/index.m3u8
-#EXTINF:-1,Vizion Plus HD
-http://130.0.24.22:94/VizionPlusHD/index.m3u8
+#EXTINF:-0 group-title="SHQIP TV DOMI"🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",Klan TV
+http://79.106.90.124:5151/live/klanhdott/playlist.m3u8
+#EXTINF:-1,Klan Plus
+http://79.106.90.124:5151/live/klanplusott/playlist.m3u8
+#EXTINF:-1,ABC
+http://79.106.90.124:5151/live/abcnewsott/playlist.m3u8
+#EXTINF:-1,RTV Ora
+http://79.106.90.124:5151/live/rtvoraott/playlist.m3u8
+#EXTINF:-1,Scan TV
+http://79.106.90.124:5151/live/scanott/playlist.m3u8
+#EXTINF:-1,Syri TV
+http://79.106.90.124:5151/live/syritvott/playlist.m3u8
+#EXTINF:-1,MCN TV
+http://79.106.90.124:5151/live/mcnpp1/playlist.m3u8
+#EXTINF:-1,RTSH 1
+http://79.106.90.124:5151/live/rtsh1ott/playlist.m3u8
+#EXTINF:-1,Klan Macedonia
+http://79.106.90.124:5151/live/klanmacedoniaott/playlist.m3u8
+#EXTINF:-1,Teuta TV
+http://79.106.90.124:5151/live/rtvteutaott/playlist.m3u8
+#EXTINF:-1,CNA TV
+http://79.106.90.124:5151/live/cnaott/playlist.m3u8
+#EXTINF:-1,Euronews Albania
+http://79.106.90.124:5151/live/euronewsott/playlist.m3u8
+#EXTINF:-1,Fax News
+http://79.106.90.124:5151/live/faxnewsott/playlist.m3u8
+#EXTINF:-1,Klan News
+http://79.106.90.124:5151/live/klannewsott/playlist.m3u8
+#EXTINF:-1,News 24
+http://79.106.90.124:5151/live/news24ott/playlist.m3u8
+#EXTINF:-1,Ora News
+http://79.106.90.124:5151/live/oranewsott/playlist.m3u8
+#EXTINF:-1,Panorama TV
+http://79.106.90.124:5151/live/panoramaott/playlist.m3u8
+#EXTINF:-1,Report TV
+http://79.106.90.124:5151/live/reportott/playlist.m3u8
+#EXTINF:-1,A2 CNN
+http://79.106.90.124:5151/live/a2mobott/playlist.m3u8
+#EXTINF:-1,RTSH Sport
+http://79.106.90.124:5151/live/rtshsport/playlist.m3u8
 #EXTINF:-1,VIZION PLUS HD
 https://mfe01.tring.al/delta/105/out/u/619_13.m3u8
 #EXTINF:-1,ALSAT M HD
