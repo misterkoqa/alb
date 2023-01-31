@@ -135,6 +135,14 @@ http://191.98.171.198:4000/play/a04d/index.m3u8
 http://iptv-tn.com:8080/ottking/ottking_mcoes.live/58859
 #EXTINF:-1,TRING SPORT 2HD
 http://iptv-tn.com:8080/ottking/ottking_mcoes.live/58860
+#EXTINF:-1,K Sport 1 HD
+http://185.222.138.163:9000/play/a0ts
+#EXTINF:-1,K Sport 2 HD
+http://185.222.138.163:9000/play/a0tt
+#EXTINF:-1,K Sport 3 HD
+http://185.222.138.163:9000/play/a0tu
+#EXTINF:-1,K Sport 4 HD
+http://185.222.138.163:9000/play/a0k3
 #EXTINF:-1, NOVA SPORTS 1
 http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e9esxppA5BEooxeg3onklIL
 #EXTINF:-1, NOVA SPORTS 2
