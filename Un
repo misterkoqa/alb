@@ -205,6 +205,12 @@ http://live.iptvtotaal.com:8000/awpreneniptv/09HZaVeOmh/60567
 http://live.iptvtotaal.com:8000/awpreneniptv/09HZaVeOmh/60570
 #EXTINF:-1,PLAY SPORTS 5 FHD
 http://live.iptvtotaal.com:8000/awpreneniptv/09HZaVeOmh/60573
+#EXTINF:-1,BEIN SPORT 1HD
+http://localiptv62000.from-ok.com:9000/live:domeneprojekat/gzliiQzDPI/93
+#EXTINF:-1,BEIN SPORT 2HD
+http://localiptv62000.from-ok.com:9000/live:domeneprojekat/gzliiQzDPI/94
+#EXTINF:-1,BEIN SPORT 3HD
+http://localiptv62000.from-ok.com:9000/live:domeneprojekat/gzliiQzDPI/95
 #EXTINF:-1,beIN SPORT MAX 3
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=971&flavour=ld
 #EXTINF:-1,beIN SPORT MAX 4
