@@ -59,6 +59,16 @@ http://109.104.129.195:8001/play/s25
 http://185.236.229.31:9981/play/a00m
 #EXTINF:-1,RSI 2HD
 http://185.236.229.31:9981/play/a00n
+#EXTINF:-0 group-title="SHQIP FILMA DOMI"🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",Film1 Action HD
+http://82.197.214.59:4000/play/a02t/index.m3u8
+#EXTINF:-1,Film Drama HD
+http://82.197.214.59:4000/play/a02s/index.m3u8
+#EXTINF:-1,Film Family HD
+http://82.197.214.59:4000/play/a02u/index.m3u8
+#EXTINF:-1,Film Premiere HD
+http://82.197.214.59:4000/play/a02v/index.m3u8
+#EXTINF:-1,Film Box HD
+http://82.197.214.59:4000/play/a038/index.m3u8
 #EXTINF:-1,HARRY POTTER HD
 http://46.4.102.86/harrypotter/index.m3u8
 #EXTINF:-1,X Gold 1
