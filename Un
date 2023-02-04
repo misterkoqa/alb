@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-0 group-title="SHQIP KLANI IM DOMI"🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",BBVIP ALBANIA 1HD
+#EXTINF:-0 group-title="SHQIP KLANI IM DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",BBVIP ALBANIA 1HD
 https://live-k5e12sb4.rmbl.ws/slot-52/wtmq-qbr3_1080p/chunklist_DVR.m3u8
 #EXTINF:-1,BBVIP ALBANIA 2HD
 https://live-k5e12sb4.rmbl.ws/slot-28/f67r-wu0v_1080p/chunklist_DVR.m3u8
@@ -59,7 +59,7 @@ http://109.104.129.195:8001/play/s25
 http://185.236.229.31:9981/play/a00m
 #EXTINF:-1,RSI 2HD
 http://185.236.229.31:9981/play/a00n
-#EXTINF:-0 group-title="SHQIP FILMA DOMI"🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",Film1 Action HD
+#EXTINF:-0 group-title="SHQIP FILMA DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",Film1 Action HD
 http://82.197.214.59:4000/play/a02t/index.m3u8
 #EXTINF:-1,Film Drama HD
 http://82.197.214.59:4000/play/a02s/index.m3u8
@@ -153,7 +153,7 @@ http://191.98.171.198:4000/play/a04b/index.m3u8
 http://191.98.171.198:4000/play/a00m/index.m3u8
 #EXTINF:-1,ANIMAL PLANET
 http://191.98.171.198:4000/play/a04d/index.m3u8
-#EXTINF:-0 group-title="SHQIP SPORT DOMI"🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",TRING SPORT 1HD
+#EXTINF:-0 group-title="SHQIP SPORT DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",TRING SPORT 1HD
 http://iptv-tn.com:8080/ottking/ottking_mcoes.live/58859
 #EXTINF:-1,TRING SPORT 2HD
 http://iptv-tn.com:8080/ottking/ottking_mcoes.live/58860
@@ -255,7 +255,7 @@ http://platin4k.eu:80/logantv/ACXhn9BC5m/161951
 http://platin4k.eu:80/logantv/ACXhn9BC5m/63176
 #EXTINF:-1,RMC SPORT 3HD
 http://platin4k.eu:80/logantv/ACXhn9BC5m/161950
-#EXTINF:-0 group-title="SHQIP TV DOMI"🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",Klan TV
+#EXTINF:-0 group-title="SHQIP TV DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",Klan TV
 http://79.106.90.124:5151/live/klanhdott/playlist.m3u8
 #EXTINF:-1,Klan Plus
 http://79.106.90.124:5151/live/klanplusott/playlist.m3u8
