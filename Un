@@ -129,7 +129,7 @@ https://srv1.exyu.cc:443/stevica/stevica1234/7681
 https://srv1.exyu.cc:443/stevica/stevica1234/7682
 #EXTINF:-1,ART Sport 3 FHD
 https://srv1.exyu.cc:443/stevica/stevica1234/7683
-#EXTINF:-0 group-title="SHQIP 🪩 PLANET DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",Discovery Channel
+#EXTINF:-0 group-title="SHQIP 🌍 PLANET DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",Discovery Channel
 http://170.83.242.155:5350/play/a00o
 #EXTINF:-1,Discovery ID
 http://170.83.242.155:5350/play/a017
