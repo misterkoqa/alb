@@ -153,6 +153,10 @@ http://185.59.223.102:8080/natgeowild/index.m3u8
 http://185.59.223.102:8080/history/index.m3u8
 #EXTINF:-1,HISTORY 2
 http://185.59.223.102:8080/h2/index.m3u8
+#EXTINF:-1,LOVE NATYRA
+http://212.5.59.2:9882/play/a01b/index.m3u8
+#EXTINF:-1,H2
+http://212.5.59.2:9882/play/a01h/index.m3u8
 #EXTINF:-1,Discovery Channel
 http://191.98.171.198:4000/play/a04c/index.m3u8
 #EXTINF:-1,Discovery ID
