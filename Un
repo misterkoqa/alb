@@ -59,6 +59,12 @@ http://109.104.129.195:8001/play/s25
 http://185.236.229.31:9981/play/a00m
 #EXTINF:-1,RSI 2HD
 http://185.236.229.31:9981/play/a00n
+#EXTINF:-1,BALKANIKA TV HD
+http://93.155.227.38:555/m3u8/balkanikahd.m3u8
+#EXTINF:-1,FEN-TV HD
+http://93.155.227.38:555/m3u8/fentvhd.m3u8
+#EXTINF:-1,PLANETA HD
+http://93.155.227.38:555/m3u8/planetahd.m3u8
 #EXTINF:-0 group-title="SHQIP FILMA DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",Film Action HD
 http://82.197.214.59:4000/play/a02t/index.m3u8
 #EXTINF:-1,Film Drama HD
