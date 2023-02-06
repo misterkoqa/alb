@@ -16,7 +16,7 @@ http://185.234.217.29:8004/play/klankosova/index.m3u8
 #EXTINF:-1,ALSAT M
 http://185.234.217.29:8007/play/a004/index.m3u8
 #EXTINF:-1,ABC HD
-http://109.104.129.195:8000/play/s89
+http://185.89.156.111:8000/play/a00a
 #EXTINF:-1,SCAN HD
 http://185.89.156.111:8000/play/a01c
 #EXTINF:-1,Panorama TV HD
