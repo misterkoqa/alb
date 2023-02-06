@@ -55,6 +55,10 @@ http://109.104.129.195:8001/play/s22
 http://109.104.129.195:8001/play/s12
 #EXTINF:-1,RTSH Sport HD
 http://109.104.129.195:8001/play/s25
+#EXTINF:-1,BBF MUZIK
+http://185.234.217.29:8011/play/a002/index.m3u8
+#EXTINF:-1,CLUB TV
+http://185.234.217.29:8011/play/a003/index.m3u8
 #EXTINF:-1,RSI 1HD
 http://185.236.229.31:9981/play/a00m
 #EXTINF:-1,RSI 2HD
