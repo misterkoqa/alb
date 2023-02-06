@@ -22,7 +22,7 @@ http://109.104.129.195:8000/play/s87
 #EXTINF:-1,Panorama TV HD
 http://109.104.129.195:8000/play/s82
 #EXTINF:-1,Klan News HD
-http://109.104.129.195:8000/play/s90
+http://185.234.217.29:8004/play/klannews/index.m3u8
 #EXTINF:-1,ORA NEWS HD
 http://109.104.129.195:8007/play/s75
 #EXTINF:-1,A2 CNN HD
