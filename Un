@@ -81,6 +81,10 @@ http://93.155.227.38:555/m3u8/balkanikahd.m3u8
 http://93.155.227.38:555/m3u8/fentvhd.m3u8
 #EXTINF:-1,PLANETA HD
 http://93.155.227.38:555/m3u8/planetahd.m3u8
+#EXTINF:-1,SHIJAK TV
+http://109.104.129.195:8002/play/s29
+#EXTINF:-1,TV Johaniter
+http://91.132.172.167:8000/play/a007
 #EXTINF:-0 group-title="SHQIP FILMA DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",Film Action HD
 http://82.197.214.59:4000/play/a02t/index.m3u8
 #EXTINF:-1,Film Drama HD
