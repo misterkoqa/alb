@@ -18,7 +18,7 @@ http://185.6.21.210:8000/play/a00j
 #EXTINF:-1,ABC HD
 http://185.89.156.111:8000/play/a00a
 #EXTINF:-1,SCAN HD
-http://185.89.156.111:8000/play/a01c
+http://185.234.217.29:8007/play/a033/index.m3u8
 #EXTINF:-1,Panorama TV HD
 http://185.234.217.29:8007/play/a045/index.m3u8
 #EXTINF:-1,Klan News HD
@@ -36,7 +36,7 @@ http://109.104.129.195:8002/play/s28
 #EXTINF:-1,News 24 TV HD
 http://109.104.129.195:8002/play/s35
 #EXTINF:-1,SYRI HD
-http://185.89.156.111:8000/play/a01j
+http://185.234.217.29:8007/play/a036/index.m3u8
 #EXTINF:-1,Klan Music
 http://185.234.217.29:8004/play/klanmusic/index.m3u8
 #EXTINF:-1,KLAN MACEDONIA
