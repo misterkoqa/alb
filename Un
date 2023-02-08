@@ -28,11 +28,11 @@ http://109.104.129.195:8007/play/s75
 #EXTINF:-1,A2 CNN HD
 http://185.234.217.29:8004/play/a2cnn/index.m3u8
 #EXTINF:-1,EURONEWS ALBANIA HD
-http://109.104.129.195:8008/play/s156
+http://185.234.217.29:8007/play/a00f/index.m3u8
 #EXTINF:-1,REPORT TV HD
 http://109.104.129.195:8002/play/s33
 #EXTINF:-1,FAX News TV
-http://109.104.129.195:8002/play/s28
+http://185.234.217.29:8007/play/a00h/index.m3u8
 #EXTINF:-1,News 24 TV HD
 http://109.104.129.195:8002/play/s35
 #EXTINF:-1,SYRI HD
