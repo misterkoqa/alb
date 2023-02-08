@@ -73,6 +73,8 @@ http://185.234.217.29:8011/play/a003/index.m3u8
 http://185.236.229.31:9981/play/a00m
 #EXTINF:-1,RSI 2HD
 http://185.236.229.31:9981/play/a00n
+#EXTINF:-1,ULTRA NATYRA 4K
+http://185.236.229.31:9981/play/a01d
 #EXTINF:-1,BALKANIKA TV HD
 http://93.155.227.38:555/m3u8/balkanikahd.m3u8
 #EXTINF:-1,FEN-TV HD
