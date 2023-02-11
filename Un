@@ -313,6 +313,12 @@ http://platin4k.eu:80/logantv/ACXhn9BC5m/161951
 http://platin4k.eu:80/logantv/ACXhn9BC5m/63176
 #EXTINF:-1,RMC SPORT 3HD
 http://platin4k.eu:80/logantv/ACXhn9BC5m/161950
+#EXTINF:-1,Ten 1 HD
+http://163.53.75.198:23480/hls/modn/list/8027/playlist.m3u8
+#EXTINF:-1,Ten 2 HD
+http://163.53.75.198:23480/hls/modn/list/8022/playlist.m3u8
+#EXTINF:-1,Ten 3 HD
+http://163.53.75.198:23480/hls/modn/list/8024/playlist.m3u8
 #EXTINF:-0 group-title="SHQIP TV DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",Klan TV
 http://79.106.90.124:5151/live/klanhdott/playlist.m3u8
 #EXTINF:-1,Klan Plus
