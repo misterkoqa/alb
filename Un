@@ -1,4 +1,4 @@
-#EXTM3U
+¹,×#EXTM3U
 #EXTINF:-0 group-title="SHQIP KLANI IM DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",BBVIP ALBANIA 1HD
 http://callvip.me:80/FidanBerisha2/j5nBF8rudE3xHRkFjuxK/28939
 #EXTINF:-1,BBVIP ALBANIA 2HD
@@ -161,12 +161,20 @@ http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/692423
 http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/692426
 #EXTINF:-1,Sky Cinema Drama FHD
 http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/692427
-#EXTINF:-1,Art Kino 1 FHD
-https://srv1.exyu.cc:443/stevica/stevica1234/7678
-#EXTINF:-1,Art Kino 2 FHD
-https://srv1.exyu.cc:443/stevica/stevica1234/7679
-#EXTINF:-1,Art Kino 3 FHD
-https://srv1.exyu.cc:443/stevica/stevica1234/7680
+#EXTINF:-1,ART Kino 1 HD
+http://vip.lotusnet.digital:19051/Mondi/VBFyhlMhbu/21954
+#EXTINF:-1,ART Kino 2 HD
+http://vip.lotusnet.digital:19051/Mondi/VBFyhlMhbu/21955
+#EXTINF:-1,ART Kino 3 HD
+http://vip.lotusnet.digital:19051/Mondi/VBFyhlMhbu/21956
+#EXTINF:-1,X Gold 1 HD
+http://vip.lotusnet.digital:19051/Mondi/VBFyhlMhbu/21960
+#EXTINF:-1,X Gold 2 HD
+http://vip.lotusnet.digital:19051/Mondi/VBFyhlMhbu/21961
+#EXTINF:-1,X Gold 3 HD
+http://vip.lotusnet.digital:19051/Mondi/VBFyhlMhbu/21962
+#EXTINF:-1,X Gold 4 HD
+http://vip.lotusnet.digital:19051/Mondi/VBFyhlMhbu/21963
 #EXTINF:-0 group-title="SHQIP 🌍 PLANET DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",NATIONAL GEOGRAPHIC
 http://185.59.223.102:8080/natgeo/index.m3u8
 #EXTINF:-1,NATIONAL GEOGRAPHIC WILD
