@@ -156,19 +156,17 @@ https://srv1.exyu.cc:443/stevica/stevica1234/7682
 #EXTINF:-1,ART Sport 3 FHD
 https://srv1.exyu.cc:443/stevica/stevica1234/7683
 #EXTINF:-0 group-title="SHQIP 🌍 PLANET DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",Discovery Channel
-http://170.83.242.155:5350/play/a00o
+https://livetv.mylifeisgood.ml/channels/discoverychannelhd.m3u8
 #EXTINF:-1,Discovery ID
-http://170.83.242.155:5350/play/a017
+https://livetv.mylifeisgood.ml/channels/discoveryidhd.m3u8
 #EXTINF:-1,Discovery Kids
-http://170.83.242.155:5350/play/a02b
+https://livetv.mylifeisgood.ml/channels/discoverykidshd.m3u8
 #EXTINF:-1,Discovery Turbo
-http://170.83.242.155:5350/play/a00f
+https://livetv.mylifeisgood.ml/channels/discoveryturbohd.m3u8
 #EXTINF:-1,Disney Channel
-http://170.83.242.155:5350/play/a00n
+https://livetv.mylifeisgood.ml/channels/disneychannelhd.m3u8
 #EXTINF:-1,Disney Jr
-http://170.83.242.155:5350/play/a02s
-#EXTINF:-1,E Entertainment
-http://170.83.242.155:5350/play/a00r
+https://livetv.mylifeisgood.ml/channels/disneyjuniorhd.m3u8
 ##EXTINF:-1,DISCOVERY CHANNEL
 http://185.59.223.102:8080/discovery/index.m3u8
 #EXTINF:-1,NATIONAL GEOGRAPHIC
@@ -181,24 +179,6 @@ http://185.59.223.102:8080/history/index.m3u8
 http://185.59.223.102:8080/h2/index.m3u8
 #EXTINF:-1,LOVE NATYRA
 http://212.5.59.2:9882/play/a01b/index.m3u8
-#EXTINF:-1,H2
-http://212.5.59.2:9882/play/a01h/index.m3u8
-#EXTINF:-1,Discovery Channel
-http://191.98.171.198:4000/play/a04c/index.m3u8
-#EXTINF:-1,Discovery ID
-http://191.98.171.198:4000/play/a015/index.m3u8
-#EXTINF:-1,Discovery Kids
-http://191.98.171.198:4000/play/a00g/index.m3u8
-#EXTINF:-1,Discovery Turbo
-http://191.98.171.198:4000/play/a01m/index.m3u8
-#EXTINF:-1,Discovery World
-http://190.131.247.82:8000/play/a06a
-#EXTINF:-1,Disney Channel
-http://191.98.171.198:4000/play/a04b/index.m3u8
-#EXTINF:-1,Disney Junior
-http://191.98.171.198:4000/play/a00m/index.m3u8
-#EXTINF:-1,ANIMAL PLANET
-http://191.98.171.198:4000/play/a04d/index.m3u8
 #EXTINF:-1,H2 HD
 https://livetv.mylifeisgood.ml/channels/h2hd.m3u8
 #EXTINF:-1,ANIMAL PLANET HD
