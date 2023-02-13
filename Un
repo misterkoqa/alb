@@ -85,6 +85,34 @@ http://93.155.227.38:555/m3u8/planetahd.m3u8
 http://109.104.129.195:8002/play/s29
 #EXTINF:-1,TV Johaniter
 http://91.132.172.167:8000/play/a007
+#EXTINF:-1,Tring Super HD
+http://109.104.129.195:8005/play/s101
+#EXTINF:-1,Tring Action HD
+http://109.104.129.195:8005/play/s120
+#EXTINF:-1,Tring Classic HD
+http://109.104.129.195:8005/play/s94
+#EXTINF:-1,Tring Collection HD
+http://109.104.129.195:8005/play/s121
+#EXTINF:-1,Tring Comedy HD
+http://109.104.129.195:8005/play/s107
+#EXTINF:-1,Tring Family HD
+http://109.104.129.195:8005/play/s119
+#EXTINF:-1,Tring Fantasy HD
+http://109.104.129.195:8005/play/s102
+#EXTINF:-1,Tring Histori HD
+http://109.104.129.195:8005/play/s106
+#EXTINF:-1,Tring Life HD
+http://109.104.129.195:8005/play/s128
+#EXTINF:-1,Tring Novelas HD
+http://109.104.129.195:8005/play/s112
+#EXTINF:-1,Tring Planet HD
+http://109.104.129.195:8005/play/s111
+#EXTINF:-1,Tring Shqip HD
+http://109.104.129.195:8005/play/s113
+#EXTINF:-1,Tring Tring HD
+http://109.104.129.195:8005/play/s97
+#EXTINF:-1,Tring World HD
+http://109.104.129.195:8005/play/s126
 #EXTINF:-0 group-title="SHQIP FILMA DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",Filma24 Thriller FHD
 http://restream.skyhd-iptv.com:25461/klm/AavHvGXGQG/527
 #EXTINF:-1,Filma24 Romance FHD
