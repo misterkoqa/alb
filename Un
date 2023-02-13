@@ -113,6 +113,8 @@ http://109.104.129.195:8005/play/s113
 http://109.104.129.195:8005/play/s97
 #EXTINF:-1,Tring World HD
 http://109.104.129.195:8005/play/s126
+#EXTINF:-1,THD
+http://109.104.129.195:8007/play/s134
 #EXTINF:-0 group-title="SHQIP FILMA DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",Filma24 Thriller FHD
 http://restream.skyhd-iptv.com:25461/klm/AavHvGXGQG/527
 #EXTINF:-1,Filma24 Romance FHD
