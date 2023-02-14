@@ -1,4 +1,16 @@
-¹,×#EXTM3U
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="### SUP MOVIES ###" tvg-logo="" group-title="SPANISH",### SUP MOVIES ###
+http://vpnhat.green.onerunthisway.me/live/sun.php?z=997&u=Kow4OJzFVi&s=5111116184&id=27147&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 1" tvg-logo="" group-title="SPANISH",HBO Max 1
+http://vpnhat.green.onerunthisway.me/live/sun.php?z=997&u=Kow4OJzFVi&s=5111116184&id=26649&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 2" tvg-logo="" group-title="SPANISH",HBO Max 2
+http://vpnhat.green.onerunthisway.me/live/sun.php?z=997&u=Kow4OJzFVi&s=5111116184&id=26650&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 3" tvg-logo="" group-title="SPANISH",HBO Max 3
+http://vpnhat.green.onerunthisway.me/live/sun.php?z=997&u=Kow4OJzFVi&s=5111116184&id=26651&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 4" tvg-logo="" group-title="SPANISH",HBO Max 4
+http://vpnhat.green.onerunthisway.me/live/sun.php?z=997&u=Kow4OJzFVi&s=5111116184&id=26652&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 5" tvg-logo="" group-title="SPANISH",HBO Max 5
+http://vpnhat.green.onerunthisway.me/live/sun.php?z=997&u=Kow4OJzFVi&s=5111116184&id=26661&t=live&f=ts
 #EXTINF:-0 group-title="SHQIP KLANI IM DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",BBVIP ALBANIA 1HD
 http://callvip.me:80/FidanBerisha2/j5nBF8rudE3xHRkFjuxK/28939
 #EXTINF:-1,BBVIP ALBANIA 2HD
