@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 1" tvg-logo="" group-title="PRIMA FILA",Primafila 1
+http://vpnhat.green.onerunthisway.me/live/sun.php?z=111&u=Kow4OJzFVi&s=5111116184&id=81340&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 2" tvg-logo="" group-title="PRIMA FILA",Primafila 2
+http://vpnhat.green.onerunthisway.me/live/sun.php?z=111&u=Kow4OJzFVi&s=5111116184&id=81341&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 3" tvg-logo="" group-title="PRIMA FILA",Primafila 3
+http://vpnhat.green.onerunthisway.me/live/sun.php?z=111&u=Kow4OJzFVi&s=5111116184&id=81342&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 4" tvg-logo="" group-title="PRIMA FILA",Primafila 4
+http://vpnhat.green.onerunthisway.me/live/sun.php?z=111&u=Kow4OJzFVi&s=5111116184&id=81343&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 5" tvg-logo="" group-title="PRIMA FILA",Primafila 5
+http://vpnhat.green.onerunthisway.me/live/sun.php?z=111&u=Kow4OJzFVi&s=5111116184&id=81344&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 7" tvg-logo="" group-title="PRIMA FILA",Primafila 7
+http://vpnhat.green.onerunthisway.me/live/sun.php?z=111&u=Kow4OJzFVi&s=5111116184&id=81345&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 8" tvg-logo="" group-title="PRIMA FILA",Primafila 8
+http://vpnhat.green.onerunthisway.me/live/sun.php?z=111&u=Kow4OJzFVi&s=5111116184&id=81346&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 9" tvg-logo="" group-title="PRIMA FILA",Primafila 9
+http://vpnhat.green.onerunthisway.me/live/sun.php?z=111&u=Kow4OJzFVi&s=5111116184&id=81347&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 10" tvg-logo="" group-title="PRIMA FILA",Primafila 10
+http://vpnhat.green.onerunthisway.me/live/sun.php?z=111&u=Kow4OJzFVi&s=5111116184&id=81348&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 11" tvg-logo="" group-title="PRIMA FILA",Primafila 11
+http://vpnhat.green.onerunthisway.me/live/sun.php?z=111&u=Kow4OJzFVi&s=5111116184&id=81349&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Primafila 12" tvg-logo="" group-title="PRIMA FILA",Primafila 12
+http://vpnhat.green.onerunthisway.me/live/sun.php?z=111&u=Kow4OJzFVi&s=5111116184&id=81350&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="|IN|  SONY SIX" tvg-logo="" group-title="INDIA AND OTHER",|IN|  SONY SIX
 http://vpnhat.green.onerunthisway.me/live/sun.php?z=111&u=Kow4OJzFVi&s=5111116184&id=82817&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="|IN|  SONY Ten 1" tvg-logo="" group-title="INDIA AND OTHER",|IN|  SONY Ten 1
