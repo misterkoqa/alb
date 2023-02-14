@@ -1,6 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="### VIP CINEMA ###" tvg-logo="" group-title="SPANISH",### VIP CINEMA ###
 http://vpnhat.green.onerunthisway.me/live/sun.php?z=997&u=Kow4OJzFVi&s=5111116184&id=27158&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Action HD 1" tvg-logo="" group-title="SPANISH",Peliculas Action HD 1
+http://vpnhat.green.onerunthisway.me/live/sun.php?z=997&u=Kow4OJzFVi&s=5111116184&id=26114&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Action HD 2" tvg-logo="" group-title="SPANISH",Peliculas Action HD 2
+http://vpnhat.green.onerunthisway.me/live/sun.php?z=997&u=Kow4OJzFVi&s=5111116184&id=26115&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Action HD 3" tvg-logo="" group-title="SPANISH",Peliculas Action HD 3
+http://vpnhat.green.onerunthisway.me/live/sun.php?z=997&u=Kow4OJzFVi&s=5111116184&id=26116&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Action HD 4" tvg-logo="" group-title="SPANISH",Peliculas Action HD 4
+http://vpnhat.green.onerunthisway.me/live/sun.php?z=997&u=Kow4OJzFVi&s=5111116184&id=26117&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Action HD 5" tvg-logo="" group-title="SPANISH",Peliculas Action HD 5
+http://vpnhat.green.onerunthisway.me/live/sun.php?z=997&u=Kow4OJzFVi&s=5111116184&id=26118&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Action HD 6" tvg-logo="" group-title="SPANISH",Peliculas Action HD 6
+http://vpnhat.green.onerunthisway.me/live/sun.php?z=997&u=Kow4OJzFVi&s=5111116184&id=26119&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="MOVISTAR+ MARVEL 1" tvg-logo="" group-title="SPANISH",MOVISTAR+ MARVEL 1
 http://vpnhat.green.onerunthisway.me/live/sun.php?z=997&u=Kow4OJzFVi&s=5111116184&id=26325&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="MOVISTAR+ MARVEL 2" tvg-logo="" group-title="SPANISH",MOVISTAR+ MARVEL 2
