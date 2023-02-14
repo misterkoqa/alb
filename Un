@@ -1,5 +1,5 @@
 #EXTM3U
-EXTINF:-1 tvg-id="" tvg-name="|IN|  SONY SIX" tvg-logo="" group-title="INDIA AND OTHER",|IN|  SONY SIX
+#EXTINF:-1 tvg-id="" tvg-name="|IN|  SONY SIX" tvg-logo="" group-title="INDIA AND OTHER",|IN|  SONY SIX
 http://vpnhat.green.onerunthisway.me/live/sun.php?z=111&u=Kow4OJzFVi&s=5111116184&id=82817&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="|IN|  SONY Ten 1" tvg-logo="" group-title="INDIA AND OTHER",|IN|  SONY Ten 1
 http://vpnhat.green.onerunthisway.me/live/sun.php?z=111&u=Kow4OJzFVi&s=5111116184&id=82818&t=live&f=ts
@@ -7,6 +7,12 @@ http://vpnhat.green.onerunthisway.me/live/sun.php?z=111&u=Kow4OJzFVi&s=511111618
 http://vpnhat.green.onerunthisway.me/live/sun.php?z=111&u=Kow4OJzFVi&s=5111116184&id=82819&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="|IN|  SONY Ten 3" tvg-logo="" group-title="INDIA AND OTHER",|IN|  SONY Ten 3
 http://vpnhat.green.onerunthisway.me/live/sun.php?z=111&u=Kow4OJzFVi&s=5111116184&id=82820&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="|IN|  TEN 1" tvg-logo="" group-title="INDIA AND OTHER",|IN|  TEN 1
+http://vpnhat.green.onerunthisway.me/live/sun.php?z=111&u=Kow4OJzFVi&s=5111116184&id=82867&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="|IN|  TEN 2" tvg-logo="" group-title="INDIA AND OTHER",|IN|  TEN 2
+http://vpnhat.green.onerunthisway.me/live/sun.php?z=111&u=Kow4OJzFVi&s=5111116184&id=82868&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="|IN|  TEN 3" tvg-logo="" group-title="INDIA AND OTHER",|IN|  TEN 3
+http://vpnhat.green.onerunthisway.me/live/sun.php?z=111&u=Kow4OJzFVi&s=5111116184&id=82869&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="### VIP CINEMA ###" tvg-logo="" group-title="SPANISH",### VIP CINEMA ###
 http://vpnhat.green.onerunthisway.me/live/sun.php?z=997&u=Kow4OJzFVi&s=5111116184&id=27158&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="Peliculas Action HD 1" tvg-logo="" group-title="SPANISH",Peliculas Action HD 1
