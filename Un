@@ -93,14 +93,20 @@ http://cms.balkanex.tk/IPTV/YfBeQ87nu4/1157
 http://cms.balkanex.tk/IPTV/YfBeQ87nu4/1158
 #EXTINF:-1,SUPER SPORT 4HD
 http://cms.balkanex.tk/IPTV/YfBeQ87nu4/1159
-#EXTINF:-1,MAX SPORT 1HD
-http://93.155.227.38:555/m3u8/webmtelsport_web.m3u8
-#EXTINF:-1,MAX SPORT 2HD
-http://93.155.227.38:555/m3u8/webmtelsport2_web.m3u8
-#EXTINF:-1,MAX SPORT 3HD
-http://93.155.227.38:555/m3u8/webmtelsport3_web.m3u8
-#EXTINF:-1,MAX SPORT 4HD
-http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
+#EXTINF:-1,BEIN SPORT 1HD
+http://yusf.ddns.net:5080/WebRTCApp/streams/Bein1.m3u8
+#EXTINF:-1,BEIN SPORT 2HD
+http://yusf.ddns.net:5080/WebRTCApp/streams/Bein2.co8
+#EXTINF:-1,BEIN SPORT 3HD
+http://yusf.ddns.net:5080/WebRTCApp/streams/Bein3.m3u8
+#EXTINF:-1,BEIN SPORT 4HD
+http://yusf.ddns.net:5080/WebRTCApp/streams/Bein4.m3u8
+#EXTINF:-1,BEIN SPORT 5HD
+http://yusf.ddns.net:5080/WebRTCApp/streams/Bein5.m3u8
+#EXTINF:-1,BEIN SPORT 6HD
+http://yusf.ddns.net:5080/WebRTCApp/streams/Bein6.m3u8
+#EXTINF:-1,BEIN SPORT 7HD
+http://yusf.ddns.net:5080/WebRTCApp/streams/Bein7.m3u8
 #EXTINF:-0 group-title="SHQIP FILMA DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",Filma24 Thriller FHD
 http://restream.skyhd-iptv.com:25461/klm/AavHvGXGQG/527
 #EXTINF:-1,Filma24 Romance FHD
