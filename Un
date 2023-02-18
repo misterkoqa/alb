@@ -105,14 +105,14 @@ http://cms.balkanex.tk/IPTV/YfBeQ87nu4/1157
 http://cms.balkanex.tk/IPTV/YfBeQ87nu4/1158
 #EXTINF:-1,SUPER SPORT 4HD
 http://cms.balkanex.tk/IPTV/YfBeQ87nu4/1159
-#EXTINF:-1,Eleven Sports 4 HD
-http://play.wisp.cat/tools/m3u/play.php?url=http%3A%2F%2Flb.wisp.cat%2Flb0%2FPL_ELEVEN_SPORTS_4_HD%2Fvideo.m3u8&login=ovasyk&key=PZlppH4
-#EXTINF:-1,Eleven Sports 1 HD
-http://play.wisp.cat/tools/m3u/play.php?url=http%3A%2F%2Flb.wisp.cat%2Flb0%2FPL_Eleven_Sports_1_HD%2Fvideo.m3u8&login=ovasyk&key=PZlppH4
-#EXTINF:-1,Eleven Sports 2 HD
-http://play.wisp.cat/tools/m3u/play.php?url=http%3A%2F%2Flb.wisp.cat%2Flb0%2FPL_Eleven_Sports_2_HD%2Fvideo.m3u8&login=ovasyk&key=PZlppH4
-#EXTINF:-1,Eleven Sports 3 HD
-http://play.wisp.cat/tools/m3u/play.php?url=http%3A%2F%2Flb.wisp.cat%2Flb0%2FPL_Eleven_Sports_3_HD%2Fvideo.m3u8&login=ovasyk&key=PZlppH4
+#EXTINF:-1,DIGI SPORT 1
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/71457
+#EXTINF:-,1DIGI SPORT 2
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/71459
+#EXTINF:-1,DIGI SPORT 3
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/2243
+#EXTINF:-1,DIGI SPORT 4
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/4219
 #EXTINF:-1,BEIN SPORT 1HD
 http://yusf.ddns.net:5080/WebRTCApp/streams/Bein1.m3u8
 #EXTINF:-1,BEIN SPORT 2HD
