@@ -139,6 +139,12 @@ http://tv.golemflixer.com:8080/play/PCfu0SEBUyHbyMkm1N68tJxmPo4EdGix_B5EwNKenAJf
 http://tv.golemflixer.com:8080/play/PCfu0SEBUyHbyMkm1N68tLUU-eDnQUn502L1OcMnecqBAz91tK8Dkh3aPwlOlOZ4
 #EXTINF:-1,ELEVEN SPORTS 6 HD
 http://tv.golemflixer.com:8080/play/PCfu0SEBUyHbyMkm1N68tJxmPo4EdGix_B5EwNKenAJT8Fxy987yUyOgCxuIs2u3
+#EXTINF:-1,RMC SPORT 1
+http://77.207.0.25:4000/play/a038
+#EXTINF:-1,RMC SPORT 2
+http://77.207.0.25:4000/play/a033
+#EXTINF:-1,RMC SPORT 3
+http://77.207.0.25:4000/play/a03y
 #EXTINF:-1,BEIN SPORT 1HD
 http://yusf.ddns.net:5080/WebRTCApp/streams/Bein1.m3u8
 #EXTINF:-1,BEIN SPORT 2HD
