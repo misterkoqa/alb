@@ -79,6 +79,14 @@ http://185.234.217.46:8001/play/a0dp/index.m3u8
 http://185.234.217.46:8001/play/a0dq/index.m3u8
 #EXTINF:-1,SUPER RTL HD
 http://185.234.217.46:8003/play/a06x/index.m3u8
+#EXTINF:-1,PRO SIEBENMAXX HD
+http://185.234.217.45:8005/play/a06v/index.m3u8
+#EXTINF:-1,ProSieben HD
+http://185.234.217.45:8005/play/a06s/index.m3u8
+#EXTINF:-1,SAT.1 HD
+http://185.234.217.45:8005/play/a06r/index.m3u8
+#EXTINF:-1,ZDFinfo HD
+http://185.234.217.45:8005/play/a075/index.m3u8
 #EXTINF:-1,BALKANIKA TV HD
 http://93.155.227.38:555/m3u8/balkanikahd.m3u8
 #EXTINF:-1,FEN-TV HD
