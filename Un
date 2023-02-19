@@ -73,10 +73,12 @@ http://185.234.217.29:8011/play/a003/index.m3u8
 http://185.236.229.31:9981/play/a00m
 #EXTINF:-1,RSI 2HD
 http://185.236.229.31:9981/play/a00n
-#EXTINF:-1,RTL
+#EXTINF:-1,RTL HD
 http://185.234.217.46:8001/play/a0dp/index.m3u8
-#EXTINF:-1,VOX
+#EXTINF:-1,VOX HD
 http://185.234.217.46:8001/play/a0dq/index.m3u8
+#EXTINF:-1,SUPER RTL HD
+http://185.234.217.46:8003/play/a06x/index.m3u8
 #EXTINF:-1,BALKANIKA TV HD
 http://93.155.227.38:555/m3u8/balkanikahd.m3u8
 #EXTINF:-1,FEN-TV HD
