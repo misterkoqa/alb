@@ -87,6 +87,8 @@ http://185.234.217.45:8005/play/a06s/index.m3u8
 http://185.234.217.45:8005/play/a06r/index.m3u8
 #EXTINF:-1,ZDFinfo HD
 http://185.234.217.45:8005/play/a075/index.m3u8
+#EXTINF:-1,DMAXX
+http://185.234.217.45:8010/play/a06t/index.m3u8
 #EXTINF:-1,BALKANIKA TV HD
 http://93.155.227.38:555/m3u8/balkanikahd.m3u8
 #EXTINF:-1,FEN-TV HD
