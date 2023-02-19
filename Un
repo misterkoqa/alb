@@ -87,6 +87,12 @@ http://185.234.217.45:8005/play/a06s/index.m3u8
 http://185.234.217.45:8005/play/a06r/index.m3u8
 #EXTINF:-1,SAT.1 Gold HD
 http://185.234.217.46:8003/play/a06z/index.m3u8
+#EXTINF:-1,ZDF HD
+http://185.234.217.46:8005/play/a073/index.m3u8
+#EXTINF:-1,Arte HD
+http://185.234.217.46:8005/play/a070/index.m3u8
+#EXTINF:-1,ZDFneo HD
+http://185.234.217.46:8005/play/a074/index.m3u8
 #EXTINF:-1,ZDFinfo HD
 http://185.234.217.45:8005/play/a075/index.m3u8
 #EXTINF:-1,DMAXX
