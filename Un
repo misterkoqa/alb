@@ -213,51 +213,7 @@ http://yusf.ddns.net:5080/WebRTCApp/streams/Bein5.m3u8
 http://yusf.ddns.net:5080/WebRTCApp/streams/Bein6.m3u8
 #EXTINF:-1,BEIN SPORT 7HD
 http://yusf.ddns.net:5080/WebRTCApp/streams/Bein7.m3u8
-#EXTINF:-0 group-title="SHQIP FILMA DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",Filma24 Thriller FHD
-http://restream.skyhd-iptv.com:25461/klm/AavHvGXGQG/527
-#EXTINF:-1,Filma24 Romance FHD
-http://restream.skyhd-iptv.com:25461/klm/AavHvGXGQG/528
-#EXTINF:-1,Filma24 Netflix 24 FHD
-http://restream.skyhd-iptv.com:25461/klm/AavHvGXGQG/529
-#EXTINF:-1,Filma24 Netflix FHD
-http://restream.skyhd-iptv.com:25461/klm/AavHvGXGQG/530
-#EXTINF:-1,Filma24 Mister FHD
-http://restream.skyhd-iptv.com:25461/klm/AavHvGXGQG/531
-#EXTINF:-1,Filma24 Krim FHD
-http://restream.skyhd-iptv.com:25461/klm/AavHvGXGQG/532
-#EXTINF:-1,Filma24 Komedi FHD
-http://restream.skyhd-iptv.com:25461/klm/AavHvGXGQG/533
-#EXTINF:-1,Filma24 Histori FHD
-http://restream.skyhd-iptv.com:25461/klm/AavHvGXGQG/534
-#EXTINF:-1,Filma24 Fantasy FHD
-http://restream.skyhd-iptv.com:25461/klm/AavHvGXGQG/535
-#EXTINF:-1,Filma24 Familjar FHD
-http://restream.skyhd-iptv.com:25461/klm/AavHvGXGQG/536
-#EXTINF:-1,Filma24 Drama FHD
-http://restream.skyhd-iptv.com:25461/klm/AavHvGXGQG/537
-#EXTINF:-1,Filma24 Biografi FHD
-http://restream.skyhd-iptv.com:25461/klm/AavHvGXGQG/538
-#EXTINF:-1,Filma24 Aventur FHD
-http://restream.skyhd-iptv.com:25461/klm/AavHvGXGQG/539
-#EXTINF:-1,Filma24 Animuar FHD
-http://restream.skyhd-iptv.com:25461/klm/AavHvGXGQG/540
-#EXTINF:-1,Filma24 Action FHD
-http://restream.skyhd-iptv.com:25461/klm/AavHvGXGQG/541
-#EXTINF:-1,Falcon Premium 6 FHD
-http://restream.skyhd-iptv.com:25461/klm/AavHvGXGQG/542
-#EXTINF:-1,Falcon Premium 5 FHD
-http://restream.skyhd-iptv.com:25461/klm/AavHvGXGQG/543
-#EXTINF:-1,Falcon Premium 4 FHD
-http://restream.skyhd-iptv.com:25461/klm/AavHvGXGQG/544
-#EXTINF:-1,Falcon Premium 3 FHD
-http://restream.skyhd-iptv.com:25461/klm/AavHvGXGQG/545
-#EXTINF:-1,Falcon Premium 2 FHD
-http://restream.skyhd-iptv.com:25461/klm/AavHvGXGQG/546
-#EXTINF:-1,Falcon Premium 1 FHD
-http://restream.skyhd-iptv.com:25461/klm/AavHvGXGQG/547
-#EXTINF:-1,Falcon Cinema Horror 24 FHD
-http://restream.skyhd-iptv.com:25461/klm/AavHvGXGQG/548
-#EXTINF:-1,ALQUILER 1 FHD
+#EXTINF:-0 group-title="SHQIP FILMA DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",ALQUILER 1 FHD
 http://iptv2020.ddns.net:25461/J6901066/TfFGuag/219614
 #EXTINF:-1,ALQUILER 3 FHD
 http://iptv2020.ddns.net:25461/J6901066/TfFGuag/343675
@@ -281,16 +237,6 @@ http://iptv2020.ddns.net:25461/J6901066/TfFGuag/142409
 http://iptv2020.ddns.net:25461/J6901066/TfFGuag/148848
  #EXTINF:-1,M. CLASICOS HD
 http://iptv2020.ddns.net:25461/J6901066/TfFGuag/223644
-#EXTINF:-1,Film Action HD
-http://82.197.214.59:4000/play/a02t/index.m3u8
-#EXTINF:-1,Film Drama HD
-http://82.197.214.59:4000/play/a02s/index.m3u8
-#EXTINF:-1,Film Family HD
-http://82.197.214.59:4000/play/a02u/index.m3u8
-#EXTINF:-1,Film Premiere HD
-http://82.197.214.59:4000/play/a02v/index.m3u8
-#EXTINF:-1,Film Box HD
-http://82.197.214.59:4000/play/a038/index.m3u8
 #EXTINF:-1,HARRY POTTER HD
 http://46.4.102.86/harrypotter/index.m3u8
 #EXTINF:-1,Sky Cinema Premiere FHD
