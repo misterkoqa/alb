@@ -213,6 +213,12 @@ http://yusf.ddns.net:5080/WebRTCApp/streams/Bein5.m3u8
 http://yusf.ddns.net:5080/WebRTCApp/streams/Bein6.m3u8
 #EXTINF:-1,BEIN SPORT 7HD
 http://yusf.ddns.net:5080/WebRTCApp/streams/Bein7.m3u8
+#EXTINF:-1,BT SPORT 1
+http://ku3.worldtvip.co/uk_bt_sports_1_hd/index.m3u8?token=924ea83b1945763373380821c2d61863
+#EXTINF:-1,BT SPORT 2
+http://ku3.worldtvip.co/uk_bt_sports_2_hd/index.m3u8?token=924ea83b1945763373380821c2d61863
+#EXTINF:-1,BT SPORT 3
+http://ku3.worldtvip.co/uk_bt_sports_3_hd/index.m3u8?token=924ea83b1945763373380821c2d61863
 #EXTINF:-0 group-title="SHQIP FILMA DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",Max Select 1 FHD HR
 http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/20035
 #EXTINF:-1,Max Select 2 FHD HR
