@@ -185,6 +185,22 @@ http://starshare.org:8080/gxc733/sxk877/1140
 http://starshare.org:8080/gxc733/sxk877/1141
 #EXTINF:-1,TRING SPORT 3 HD
 http://starshare.org:8080/gxc733/sxk877/1142
+#EXTINF:-1,DIEMA SPORT 1HD
+http://93.155.227.38:555/m3u8/diamasporthd.m3u8
+#EXTINF:-1,DIEMA SPORT 2HD
+http://93.155.227.38:555/m3u8/diemasport2hd.m3u8
+#EXTINF:-1,DIEMA SPORT 3HD
+http://93.155.227.38:555/m3u8/diemasport3hd.m3u8
+#EXTINF:-1,RING HD
+http://93.155.227.38:555/m3u8/ringbghd.m3u8
+#EXTINF:-1,MAX SPORT 1HD
+http://93.155.227.38:555/m3u8/webmtelsport_web.m3u8
+#EXTINF:-1,MAX SPORT 2HD
+http://93.155.227.38:555/m3u8/webmtelsport2_web.m3u8
+#EXTINF:-1,MAX SPORT 3HD
+http://93.155.227.38:555/m3u8/webmtelsport3_web.m3u8
+#EXTINF:-1,MAX SPORT 4HD
+http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 #EXTINF:-0 group-title="SHQIP FILMA DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",Max Select 1 FHD HR
 http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/20035
 #EXTINF:-1,Max Select 2 FHD HR
