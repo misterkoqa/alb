@@ -168,17 +168,17 @@ http://viptv.me:80/LT34KBBEBxV/TDmYdgz6CPGm/55272
 #EXTINF:-1,Tring Sport 4 HD
 http://viptv.me:80/LT34KBBEBxV/TDmYdgz6CPGm/55273
 #EXTINF:-1,ELEVEN SPORTS 1 HD
-http://tv.golemflixer.com:8080/play/PCfu0SEBUyHbyMkm1N68tJxmPo4EdGix_B5EwNKenAK0IsmfCtwqvdCYxMbS0utM
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:-1,ELEVEN SPORTS 2 HD
-http://tv.golemflixer.com:8080/play/PCfu0SEBUyHbyMkm1N68tLUU-eDnQUn502L1OcMnecpujRBwTkMcAK49KJqiIdbM
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:-1,ELEVEN SPORTS 3 HD
-http://tv.golemflixer.com:8080/play/PCfu0SEBUyHbyMkm1N68tLUU-eDnQUn502L1OcMnecq0mIDau8jg3Jwp0prqUoIl
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:-1,ELEVEN SPORTS 4 HD
-http://tv.golemflixer.com:8080/play/PCfu0SEBUyHbyMkm1N68tLUU-eDnQUn502L1OcMnecopVWCQG9YlL6IQ1Pz8-d18
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_4_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:-1,ELEVEN SPORTS 5 HD
-http://tv.golemflixer.com:8080/play/PCfu0SEBUyHbyMkm1N68tLUU-eDnQUn502L1OcMnecotNSH18bzOTOxUTLbY6O07
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_5_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:-1,ELEVEN SPORTS 6 HD
-http://tv.golemflixer.com:8080/play/PCfu0SEBUyHbyMkm1N68tLUU-eDnQUn502L1OcMnecqBAz91tK8Dkh3aPwlOlOZ4
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:-1,TRING SPORT 1 HD
 http://starshare.org:8080/gxc733/sxk877/1140
 #EXTINF:-1,TRING SPORT 2 HD
