@@ -227,6 +227,8 @@ http://89.38.99.141/5/mpegts
 http://89.38.99.141/6/mpegts
 #EXTINF:-1,BEIN SPORT 7
 http://89.38.99.141/7/mpegts
+#EXTINF:-1,FORMULA 1
+https://argusport.live:90/DAZN-F1/video.m3u8
 #EXTINF:-0 group-title="SHQIP FILMA DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",Max Select 1 FHD HR
 http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/20035
 #EXTINF:-1,Max Select 2 FHD HR
