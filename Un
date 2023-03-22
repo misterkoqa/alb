@@ -221,6 +221,14 @@ http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8?ROGERIOTORRES
 #EXTINF:-1,Dubai Sport 3HD
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?ROGERIOTORRES
+#EXTINF:-1,SPORT 1 HD
+http://79.174.24.254:8002/play/a00m/index.m3u8
+#EXTINF:-1,SPORT 2 HD
+http://79.174.24.254:8002/play/a00n/index.m3u8
+#EXTINF:-1,SPORT 3 HD
+http://79.174.24.254:8002/play/a00r/index.m3u8
+#EXTINF:-1,SPORT 4 HD
+http://79.174.24.254:8002/play/a00s/index.m3u8
 #EXTINF:-0 group-title="SHQIP FILMA DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",Max Select 1 FHD HR
 http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/20035
 #EXTINF:-1,Max Select 2 FHD HR
