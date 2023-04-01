@@ -123,12 +123,6 @@ http://185.234.217.46:8005/play/a074/index.m3u8
 http://185.234.217.45:8005/play/a075/index.m3u8
 #EXTINF:-1,DMAXX
 http://185.234.217.45:8010/play/a06t/index.m3u8
-#EXTINF:-1,BALKANIKA TV HD
-http://93.155.227.38:555/m3u8/balkanikahd.m3u8
-#EXTINF:-1,FEN-TV HD
-http://93.155.227.38:555/m3u8/fentvhd.m3u8
-#EXTINF:-1,PLANETA HD
-http://93.155.227.38:555/m3u8/planetahd.m3u8
 #EXTINF:-1,SHIJAK TV
 http://109.104.129.195:8002/play/s29
 #EXTINF:-1,TV Johaniter
@@ -147,12 +141,6 @@ http://viptv.me:80/LT34KBBEBxV/TDmYdgz6CPGm/55253
 http://viptv.me:80/LT34KBBEBxV/TDmYdgz6CPGm/55254
 #EXTINF:-1,Film Thriller HD
 http://viptv.me:80/LT34KBBEBxV/TDmYdgz6CPGm/55255
-#EXTINF:-1,PREMIUM 1
-http://x-media.tv:8880/pacha-man1/j1TZ2f2TTV/1375
-#EXTINF:-1,PREMIUM 2
-http://x-media.tv:8880/pacha-man1/j1TZ2f2TTV/1376
-#EXTINF:-1,SPORT TURK 
-http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1,Super Sport 1 HD
 http://viptv.me:80/LT34KBBEBxV/TDmYdgz6CPGm/161887
 #EXTINF:-1,Super Sport 2 HD
@@ -169,52 +157,6 @@ http://viptv.me:80/LT34KBBEBxV/TDmYdgz6CPGm/55271
 http://viptv.me:80/LT34KBBEBxV/TDmYdgz6CPGm/55272
 #EXTINF:-1,Tring Sport 4 HD
 http://viptv.me:80/LT34KBBEBxV/TDmYdgz6CPGm/55273
-#EXTINF:-1,SPORT 1HD
-http://213.13.16.138/shls/LIVE%24SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1,SPORT 2HD
-http://213.13.16.138/shls/LIVE%24SPORTTV2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1,SPORT 3HD
-http://213.13.16.138/shls/LIVE%24SPORTTV3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1,ELEVEN SPORTS 1 HD
-http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1,ELEVEN SPORTS 2 HD
-http://213.13.16.138/shls/LIVE%24Eleven_Sports_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1,ELEVEN SPORTS 3 HD
-http://213.13.16.138/shls/LIVE%24Eleven_Sports_3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1,ELEVEN SPORTS 4 HD
-http://213.13.16.138/shls/LIVE%24Eleven_Sports_4_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1,ELEVEN SPORTS 5 HD
-http://213.13.16.138/shls/LIVE%24Eleven_Sports_5_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1,ELEVEN SPORTS 6 HD
-http://213.13.16.138/shls/LIVE%24Eleven_Sports_6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1,DIEMA SPORT 1HD
-http://93.155.227.38:555/m3u8/diamasporthd.m3u8
-#EXTINF:-1,DIEMA SPORT 2HD
-http://93.155.227.38:555/m3u8/diemasport2hd.m3u8
-#EXTINF:-1,DIEMA SPORT 3HD
-http://93.155.227.38:555/m3u8/diemasport3hd.m3u8
-#EXTINF:-1,RING HD
-http://93.155.227.38:555/m3u8/ringbghd.m3u8
-#EXTINF:-1,MAX SPORT 1HD
-http://93.155.227.38:555/m3u8/webmtelsport_web.m3u8
-#EXTINF:-1,MAX SPORT 2HD
-http://93.155.227.38:555/m3u8/webmtelsport2_web.m3u8
-#EXTINF:-1,MAX SPORT 3HD
-http://93.155.227.38:555/m3u8/webmtelsport3_web.m3u8
-#EXTINF:-1,MAX SPORT 4HD
-http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
-#EXTINF:-1,COSMOTE SPORT 1HD
-http://platin4k.eu:80/Mariusmal/BnkqnrsEpF/95825
-#EXTINF:-1,COSMOTE SPORT 2HD
-http://platin4k.eu:80/Mariusmal/BnkqnrsEpF/95826
-#EXTINF:-1,COSMOTE SPORT 3HD
-http://platin4k.eu:80/Mariusmal/BnkqnrsEpF/95827
-#EXTINF:-1,COSMOTE SPORT 4HD
-http://platin4k.eu:80/Mariusmal/BnkqnrsEpF/95828
-#EXTINF:-1,COSMOTE SPORT 5HD
-http://platin4k.eu:80/Mariusmal/BnkqnrsEpF/95829
-#EXTINF:-1,COSMOTE SPORT 6HD
-http://platin4k.eu:80/Mariusmal/BnkqnrsEpF/95830
 #EXTINF:-1,Dubai Sport 1HD
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8?ROGERIOTORRES
 #EXTINF:-1,Dubai Sport 2HD
@@ -243,6 +185,44 @@ http://xtra.fireottplus.com:2052/8024452033491646/8024585772299762/285768
 http://xtra.fireottplus.com:2052/8024452033491646/8024585772299762/285769
 #EXTINF:-1,FHD BEIN SPORTS 7
 http://xtra.fireottplus.com:2052/8024452033491646/8024585772299762/285770
+#EXTINF:-1,Supersport 1 FHD
+http://flix12.site:80/kzytxn8sl/mq2eoemi85/4729
+#EXTINF:-1,Supersport 2 FHD
+http://flix12.site:80/kzytxn8sl/mq2eoemi85/4728
+#EXTINF:-1,Supersport 3 FHD
+http://flix12.site:80/kzytxn8sl/mq2eoemi85/625241
+#EXTINF:-1,Supersport 4 FHD
+http://flix12.site:80/kzytxn8sl/mq2eoemi85/625240
+#EXTINF:-1,Supersport 5 FHD
+http://flix12.site:80/kzytxn8sl/mq2eoemi85/4725
+#EXTINF:-1,TringSport 1 FHD
+http://flix12.site:80/kzytxn8sl/mq2eoemi85/4721
+#EXTINF:-1,TringSport 2 FHD
+http://flix12.site:80/kzytxn8sl/mq2eoemi85/21615
+#EXTINF:-1,TringSport 3 FHD
+http://flix12.site:80/kzytxn8sl/mq2eoemi85/4719
+#EXTINF:-1,TringSport 4 FHD
+http://flix12.site:80/kzytxn8sl/mq2eoemi85/4718
+#EXTINF:-1,Kujtesa Sport 1 HD
+http://flix12.site:80/kzytxn8sl/mq2eoemi85/15177
+#EXTINF:-1,Kujtesa Sport 2 HD
+http://flix12.site:80/kzytxn8sl/mq2eoemi85/151762
+#EXTINF:-1,Kujtesa Sport 3 HD
+http://flix12.site:80/kzytxn8sl/mq2eoemi85/151754
+#EXTINF:-1,Kujtesa Sport 4 HD
+http://flix12.site:80/kzytxn8sl/mq2eoemi85/15174
+#EXTINF:-1,ART Sport 1 FHD
+http://flix12.site:80/kzytxn8sl/mq2eoemi85/697786
+#EXTINF:-1,ART Sport 2 FHD
+http://flix12.site:80/kzytxn8sl/mq2eoemi85/697787
+#EXTINF:-1,ART Sport 3 FHD
+http://flix12.site:80/kzytxn8sl/mq2eoemi85/697788
+#EXTINF:-1,ART Sport 4 FHD
+http://flix12.site:80/kzytxn8sl/mq2eoemi85/697789
+#EXTINF:-1,ART Sport 5 FHD
+http://flix12.site:80/kzytxn8sl/mq2eoemi85/697790
+#EXTINF:-1,ART Sport 6 FHD
+http://flix12.site:80/kzytxn8sl/mq2eoemi85/697791
 #EXTINF:-0 group-title="SHQIP FILMA DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",Max Select 1 FHD HR
 http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/20035
 #EXTINF:-1,Max Select 2 FHD HR
