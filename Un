@@ -123,6 +123,10 @@ http://185.234.217.46:8005/play/a074/index.m3u8
 http://185.234.217.45:8005/play/a075/index.m3u8
 #EXTINF:-1,DMAXX
 http://185.234.217.45:8010/play/a06t/index.m3u8
+#EXTINF:-1,BALKANIKA HD
+http://85.223.221.130:8000/play/a06o
+#EXTINF:-1,TOM & JERY
+http://85.223.221.130:8000/play/a051
 #EXTINF:-1,SHIJAK TV
 http://109.104.129.195:8002/play/s29
 #EXTINF:-1,TV Johaniter
