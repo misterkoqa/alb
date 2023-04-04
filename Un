@@ -337,55 +337,7 @@ https://sc.id-tv.kz:443/ViasatExplorer_34_35.m3u8
 https://sc.id-tv.kz:443/ViasatHistory_34_35.m3u8
 #EXTINF:-1,Viasat Nature
 https://sc.id-tv.kz:443/ViasatNature_34_35.m3u8
-#EXTINF:-0 group-title="SHQIP SPORT DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",Tring Sport 1HD
-https://srv1.exyu.cc:443/stevica/stevica1234/7929
-#EXTINF:-1,Tring Sport 2 HD
-https://srv1.exyu.cc:443/stevica/stevica1234/7931
-#EXTINF:-1,Tring Sport 3 HD
-https://srv1.exyu.cc:443/stevica/stevica1234/7933
-#EXTINF:-1,ART Sport 1 FHD
-https://srv1.exyu.cc:443/stevica/stevica1234/7681
-#EXTINF:,1,ART Sport 2 FHD
-https://srv1.exyu.cc:443/stevica/stevica1234/7682
-#EXTINF:-1,ART Sport 3 FHD
-https://srv1.exyu.cc:443/stevica/stevica1234/7683
-#EXTINF:-1,K Sport 1 HD
-http://185.222.138.163:9000/play/a0ts
-#EXTINF:-1,K Sport 2 HD
-http://185.222.138.163:9000/play/a0tt
-#EXTINF:-1,K Sport 3 HD
-http://185.222.138.163:9000/play/a0tu
-#EXTINF:-1,K Sport 4 HD
-http://185.222.138.163:9000/play/a0k3
-#EXTINF:-1, NOVA SPORTS 1
-http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e9esxppA5BEooxeg3onklIL
-#EXTINF:-1, NOVA SPORTS 2
-http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e-UHY4EFXaTL62Eh947HkO8
-#EXTINF:-1, NOVA SPORTS 3
-http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e8yactgLcAekKc29ct9hkkd
-#EXTINF:-1, NOVA SPORTS 4
-http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e_lG-wVaWwzTuOyVlirmrrk
-#EXTINF:-1, NOVA SPORTS 5
-http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e-zSIvQVCNzM6PzAwwDSc-9
-#EXTINF:-1, NOVA SPORTS 6
-http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e8knmYox6b33BuDPJjeF2_K
-#EXTINF:-1,Tring Sport 1 HD
-http://platin4k.eu:80/ahmetiptv/kT0Tz0heZ6/162291
-#EXTINF:-1,Tring Sport 2 HD
-http://platin4k.eu:80/ahmetiptv/kT0Tz0heZ6/55271
-#EXTINF:-1,Tring Sport 3 HD
-http://platin4k.eu:80/ahmetiptv/kT0Tz0heZ6/55272
-#EXTINF:-1,Tring Sport 4 HD
-http://platin4k.eu:80/ahmetiptv/kT0Tz0heZ6/55273
-#EXTINF:-1,DIGI SPORT 1HD
-http://84.17.61.203:8086/udp/238.2.25.79:1234
-#EXTINF:-1,DIGI SPORT 2HD
-http://84.17.61.203:8086/udp/238.2.25.78:1234
-#EXTINF:-1,DIGI SPORT 3HD
-http://84.17.61.203:8086/udp/238.2.25.90:1234
-#EXTINF:-1,DIGI SPORT 4HD
-http://he11o.akadatel.com/iptv/MA59DDN4XFDNXM/2538/index.m3u8
-#EXTINF:-1,WWE WRESTLING HD
+#EXTINF:-0 group-title="SHQIP SPORT DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",WWE WRESTLING HD
 http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/14404
 #EXTINF:-1,BT Sport 1 FHD
 http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/692280
@@ -403,16 +355,6 @@ http://94.250.2.6:7374/play/a02n/index.m3u8
 http://94.250.2.6:7374/play/a02o/index.m3u8
 #EXTINF:-1,Arena Sport 4HD
 http://94.250.2.6:7374/play/a012/index.m3u8
-#EXTINF:-1,PLAY SPORTS 1 FHD
-http://live.iptvtotaal.com:8000/awpreneniptv/09HZaVeOmh/16858
-#EXTINF:-1,PLAY SPORTS 2 FHD
-http://live.iptvtotaal.com:8000/awpreneniptv/09HZaVeOmh/46238
-#EXTINF:-1,PLAY SPORTS 3 FHD
-http://live.iptvtotaal.com:8000/awpreneniptv/09HZaVeOmh/60567
-#EXTINF:-1,PLAY SPORTS 4 FHD
-http://live.iptvtotaal.com:8000/awpreneniptv/09HZaVeOmh/60570
-#EXTINF:-1,PLAY SPORTS 5 FHD
-http://live.iptvtotaal.com:8000/awpreneniptv/09HZaVeOmh/60573
 #EXTINF:-1,BEIN SPORT 1HD
 http://localiptv62000.from-ok.com:9000/live:domeneprojekat/gzliiQzDPI/93
 #EXTINF:-1,BEIN SPORT 2HD
