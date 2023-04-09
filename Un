@@ -133,42 +133,6 @@ http://85.223.221.130:8000/play/a051
 http://109.104.129.195:8002/play/s29
 #EXTINF:-1,TV Johaniter
 http://91.132.172.167:8000/play/a007
-#EXTINF:-1,Film MAX HD
-http://viptv.me:80/LT34KBBEBxV/TDmYdgz6CPGm/55249
-#EXTINF:-1,Film Hits HD
-http://viptv.me:80/LT34KBBEBxV/TDmYdgz6CPGm/55250
-#EXTINF:-1,Film Aksion HD
-http://viptv.me:80/LT34KBBEBxV/TDmYdgz6CPGm/55251
-#EXTINF:-1,Film Autor HD
-http://viptv.me:80/LT34KBBEBxV/TDmYdgz6CPGm/55252
-#EXTINF:-1,Film Komedi HD
-http://viptv.me:80/LT34KBBEBxV/TDmYdgz6CPGm/55253
-#EXTINF:-1,Film Drame HD
-http://viptv.me:80/LT34KBBEBxV/TDmYdgz6CPGm/55254
-#EXTINF:-1,Film Thriller HD
-http://viptv.me:80/LT34KBBEBxV/TDmYdgz6CPGm/55255
-#EXTINF:-1,Super Sport 1 HD
-http://viptv.me:80/LT34KBBEBxV/TDmYdgz6CPGm/161887
-#EXTINF:-1,Super Sport 2 HD
-http://viptv.me:80/LT34KBBEBxV/TDmYdgz6CPGm/161883
-#EXTINF:-1,Super Sport 3 HD
-http://viptv.me:80/LT34KBBEBxV/TDmYdgz6CPGm/161886
-#EXTINF:-1,Super Sport 4 HD
-http://viptv.me:80/LT34KBBEBxV/TDmYdgz6CPGm/161884
-#EXTINF:-1,Tring Sport 1 HD
-http://viptv.me:80/LT34KBBEBxV/TDmYdgz6CPGm/162291
-#EXTINF:-1,Tring Sport 2 HD
-http://viptv.me:80/LT34KBBEBxV/TDmYdgz6CPGm/55271
-#EXTINF:-1,Tring Sport 3 HD
-http://viptv.me:80/LT34KBBEBxV/TDmYdgz6CPGm/55272
-#EXTINF:-1,Tring Sport 4 HD
-http://viptv.me:80/LT34KBBEBxV/TDmYdgz6CPGm/55273
-#EXTINF:-1,Dubai Sport 1HD
-http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8?ROGERIOTORRES
-#EXTINF:-1,Dubai Sport 2HD
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8?ROGERIOTORRES
-#EXTINF:-1,Dubai Sport 3HD
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?ROGERIOTORRES
 #EXTINF:-1,SPORT 1 HD
 http://79.174.24.254:8002/play/a00m/index.m3u8
 #EXTINF:-1,SPORT 2 HD
@@ -177,58 +141,10 @@ http://79.174.24.254:8002/play/a00n/index.m3u8
 http://79.174.24.254:8002/play/a00r/index.m3u8
 #EXTINF:-1,SPORT 4 HD
 http://79.174.24.254:8002/play/a00s/index.m3u8
-#EXTINF:-1,FHD BEIN SPORTS 1
-http://xtra.fireottplus.com:2052/8024452033491646/8024585772299762/285764
-#EXTINF:-1,FHD BEIN SPORTS 2
-http://xtra.fireottplus.com:2052/8024452033491646/8024585772299762/241353
-#EXTINF:-1,FHD BEIN SPORTS 3
-http://xtra.fireottplus.com:2052/8024452033491646/8024585772299762/285766
-#EXTINF:-1,FHD BEIN SPORTS 4
-http://xtra.fireottplus.com:2052/8024452033491646/8024585772299762/285767
-#EXTINF:-1,FHD BEIN SPORTS 5
-http://xtra.fireottplus.com:2052/8024452033491646/8024585772299762/285768
-#EXTINF:-1,FHD BEIN SPORTS 6
-http://xtra.fireottplus.com:2052/8024452033491646/8024585772299762/285769
-#EXTINF:-1,FHD BEIN SPORTS 7
-http://xtra.fireottplus.com:2052/8024452033491646/8024585772299762/285770
-#EXTINF:-1,Supersport 1 FHD
-http://flix12.site:80/kzytxn8sl/mq2eoemi85/4729
-#EXTINF:-1,Supersport 2 FHD
-http://flix12.site:80/kzytxn8sl/mq2eoemi85/4728
-#EXTINF:-1,Supersport 3 FHD
-http://flix12.site:80/kzytxn8sl/mq2eoemi85/625241
-#EXTINF:-1,Supersport 4 FHD
-http://flix12.site:80/kzytxn8sl/mq2eoemi85/625240
-#EXTINF:-1,Supersport 5 FHD
-http://flix12.site:80/kzytxn8sl/mq2eoemi85/4725
-#EXTINF:-1,TringSport 1 FHD
-http://flix12.site:80/kzytxn8sl/mq2eoemi85/4721
-#EXTINF:-1,TringSport 2 FHD
-http://flix12.site:80/kzytxn8sl/mq2eoemi85/21615
-#EXTINF:-1,TringSport 3 FHD
-http://flix12.site:80/kzytxn8sl/mq2eoemi85/4719
-#EXTINF:-1,TringSport 4 FHD
-http://flix12.site:80/kzytxn8sl/mq2eoemi85/4718
-#EXTINF:-1,Kujtesa Sport 1 HD
-http://flix12.site:80/kzytxn8sl/mq2eoemi85/15177
-#EXTINF:-1,Kujtesa Sport 2 HD
-http://flix12.site:80/kzytxn8sl/mq2eoemi85/151762
-#EXTINF:-1,Kujtesa Sport 3 HD
-http://flix12.site:80/kzytxn8sl/mq2eoemi85/151754
-#EXTINF:-1,Kujtesa Sport 4 HD
-http://flix12.site:80/kzytxn8sl/mq2eoemi85/15174
-#EXTINF:-1,ART Sport 1 FHD
-http://flix12.site:80/kzytxn8sl/mq2eoemi85/697786
-#EXTINF:-1,ART Sport 2 FHD
-http://flix12.site:80/kzytxn8sl/mq2eoemi85/697787
-#EXTINF:-1,ART Sport 3 FHD
-http://flix12.site:80/kzytxn8sl/mq2eoemi85/697788
-#EXTINF:-1,ART Sport 4 FHD
-http://flix12.site:80/kzytxn8sl/mq2eoemi85/697789
-#EXTINF:-1,ART Sport 5 FHD
-http://flix12.site:80/kzytxn8sl/mq2eoemi85/697790
-#EXTINF:-1,ART Sport 6 FHD
-http://flix12.site:80/kzytxn8sl/mq2eoemi85/697791
+#EXTINF:-1,OVERSPORT 1 HD
+http://185.179.28.211:8000/play/a03v
+#EXTINF:-1,OVERSPORT 2 HD
+http://185.179.28.211:8000/play/a03W
 #EXTINF:-1,DIGI Sport 1 HD
 http://84.17.61.203:8086/udp/238.2.25.79:1234
 #EXTINF:-1,DIGI Sport 2 HD
