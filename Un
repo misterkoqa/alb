@@ -449,53 +449,6 @@ https://protokolldns.xyz/jo.h.a.n.t.e.r/tracks-v1a1/mono.m3u8
 http://91.132.172.167:8000/play/a007
 #EXTINF:-1,TOP NEWS
 http://109.104.129.195:8011/play/s78
-#EXTINF:-1,EURONEWS AL
-https://ub1doy938d.gjirafa.net/live/rcBFeREIqcMkNthqI6YCr3Riss97l2MC/y0xx1q1080/index.m3u8
-#EXTINF:-1,Top News
-https://stream-10.dc3.dailymotion.com/sec(Rt6MMB82ZLcHsd-t3Q1ircbUFHOQzUtOSt_ZhunLpzNBERvQjk-4uQCNbg2WVpQH)/dm/3/x6inuzo/s/live-2.m3u8#cell=lcore
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x6inuzo
-#EXTINF:-1,SCAN TV
-https://cdn-225db837-92a1-4310-a8b9-33749f3bbff4-1529414.b-cdn.net/content/hls/live/live_1529414_146hefdi9/hls.m3u8
-#EXTINF:-1,ABC News
-https://tv2.abcnews.al/live/abcnews/playlist.m3u8
-#EXTINF:-1,News 24
-http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
-#EXTINF:-1,RTSH 1HD
-http://109.104.129.195:8001/play/s8
-#EXTINF:-1,RTSH 2HD
-http://109.104.129.195:8001/play/s22
-#EXTINF:-1,RTSH 3HD
-http://109.104.129.195:8001/play/s12
-#EXTINF:-1,RTSH Sport HD
-http://109.104.129.195:8001/play/s25
-#EXTINF:-1,RTSH KUVEND
-http://79.106.48.2:8800/play/a00b/index.m3u8
-#EXTINF:-1,RTSH AGRO
-http://79.106.48.2:8800/play/a007/index.m3u8
-#EXTINF:-1,RTSH GJIROKASTRA
-http://79.106.48.2:8800/play/a005/index.m3u8
-#EXTINF:-1,RTSH KORÇA
-http://79.106.48.2:8800/play/a008/index.m3u8
-#EXTINF:-1,RTSH KUKESI
-http://79.106.48.2:8800/play/a00a/index.m3u8
-#EXTINF:-1,RTSH PLUS
-http://79.106.48.2:8800/play/a006/index.m3u8
-#EXTINF:-1,RTSH FEMIJE
-http://79.106.48.2:8800/play/a004/index.m3u8
-#EXTINF:-1,RTSH SHKODRA
-http://79.106.48.2:8800/play/a009/index.m3u8
-#EXTINF:-1,RTSH FILM
-http://79.106.48.2:8800/play/a01p/index.m3u8
-#EXTINF:-1,SYRI HD
-http://79.106.48.2:8800/play/t001/index.m3u8
-#EXTINF:-1,RTK 1HD
-http://super-media.giize.com/sstvwhatchap@gmail.com/upwQb3d9D3/172510.ts
-#EXTINF:-1,RTK 2HD
-http://super-media.giize.com/sstvwhatchap@gmail.com/upwQb3d9D3/152548.ts
-#EXTINF:-1,RTK 3HD
-http://super-media.giize.com/sstvwhatchap@gmail.com/upwQb3d9D3/152549.ts
-#EXTINF:-1,RTK 4HD
-http://super-media.giize.com/sstvwhatchap@gmail.com/upwQb3d9D3/152550.ts
 #EXTINF:-1,SYRI HD
 https://stream.syritv.al/out/u/47_2.m3u8
 #EXTINF:-1,A2 CNN
@@ -508,62 +461,6 @@ http://95.107.132.105/out/u/228_1.m3u8
 https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTINF:-1,Ora News HD
 http://95.107.132.105/out/u/521_2.m3u8
-#EXTINF:-1,Film Një HD
-http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/55248.ts
-#EXTINF:-1,Film Dy HD
-http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/55249.ts
-#EXTINF:-1,Film Hits HD
-http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/55250.ts
-#EXTINF:-1,Film Aksion HD
-http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/55251.ts
-#EXTINF:-1,Film Autor HD
-http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/55252.ts
-#EXTINF:-1,Film Komedi HD
-http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/55253.ts
-#EXTINF:-1,Film Drame HD
-http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/55254.ts
-#EXTINF:-1,Film Thriller HD
-http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/55255.ts
-#EXTINF:-1,Tring 3 Plus
-http://146.59.19.1/5013/mpegts
-#EXTINF:-1,Tring Shqip
-http://146.59.19.1/5014/mpegts
-#EXTINF:-1,Tring Life
-http://146.59.19.1/5015/mpegts
-#EXTINF:-1,Tring Smile
-http://146.59.19.1/5016/mpegts
-#EXTINF:-1,Tring Jolly HD
-http://146.59.19.1/5012/mpegts
-#EXTINF:-1,Tring Komedi
-http://146.59.19.1/5017/mpegts
-#EXTINF:-1,Tring Super HD
-http://146.59.19.1/5018/mpegts
-#EXTINF:-1,Tring Action HD
-http://146.59.19.1/5019/mpegts
-#EXTINF:-1,Tring Fantasy
-http://146.59.19.1/5020/mpegts
-#EXTINF:-1,Tring Muse
-http://146.59.19.1/5021/mpegts
-#EXTINF:-1,Tring World
-http://146.59.19.1/5022/mpegts
-#EXTINF:-1,Tring Planet
-http://146.59.19.1/5023/mpegts
-#EXTINF:-1,Tring History
-http://146.59.19.1/5024/mpegts
-#EXTINF:-1,Tring International
-http://146.59.19.1/5025/mpegts
-#EXTINF:-1,Tring TipTV
-http://146.59.19.1/5026/mpegts
-#EXTINF:-1,Tring Tring
-http://146.59.19.1/5027/mpegts
-#EXTINF:-1,Tring Kids
-http://146.59.19.1/5028/mpegts
-#EXTINF:-1,RTSH Kids
-http://146.59.19.1/5029/mpegts
-#EXTINF:-1,XPREMIUM 1
-http://platin4k.eu/live/eagleiptv/SsFAljPDDi/56795.ts
-#EXTINF:-1,XPREMIUM 2
-http://platin4k.eu/live/eagleiptv/SsFAljPDDi/56796.ts
 #EXTINF:-1,ATV HD
 https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
 #EXTINF:-1,FOX HD
@@ -574,76 +471,6 @@ https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 #EXTINF:-1,STAR HD
 https://startv.blutv.com/blutv_startv_live/live.m3u8
-#EXTINF:-1,Vizion Plus
-http://89.39.106.21:8080/ViziONPluSfsf/index.m3u8
-#EXTINF:-1,RTSH 3
-http://89.39.106.21:8080/rTSH3gsdg/index.m3u8
-#EXTINF:-1,RTSH Satelit
-http://89.39.106.21:8080/RtSH1Satsgasg/index.m3u8
-#EXTINF:-1,RTV 21
-http://89.39.106.21:8080/RtV21gjdg/index.m3u8
-#EXTINF:-1,Fax News
-http://89.39.106.21:8080/FaXNewsfsf/index.m3u8
-#EXTINF:-1,Kanali 7
-http://89.39.106.21:8080/KanalI7Sfaf/index.m3u8
-#EXTINF:-1,News 24
-http://89.39.106.21:8080/NewS24gsgf/index.m3u8
-#EXTINF:-1,Ora News
-http://89.39.106.21:8080/ORAnEwsdgd/index.m3u8
-#EXTINF:-1,Report TV
-http://89.39.106.21:8080/RePOrtTvdgsg/index.m3u8
-#EXTINF:-1,RTSH 24
-http://89.39.106.21:8080/rtsh24fjsjo/index.m3u8
-#EXTINF:-1,Tring Classic
-http://89.39.106.21:8080/TringClassicHDgdgeg/index.m3u8
-#EXTINF:-1,Tring Comedy
-http://89.39.106.21:8080/TringComedydgs/index.m3u8
-#EXTINF:-1,Tring Shqip
-http://89.39.106.21:8080/trINGshqIPdgdg/index.m3u8
-#EXTINF:-1,Tring Super
-http://89.39.106.21:8080/TringSuperHDdgeg/index.m3u8
-#EXTINF:-1,Tring Tring
-http://89.39.106.21:8080/TriNGTRIngdsaf/index.m3u8
-#EXTINF:-1,Tip TV
-http://89.39.106.21:8080/TiPTvgasg/index.m3u8
-#EXTINF:-1,RTSH Shkollë
-http://89.39.106.21:8080/rtshsHkolledgd/index.m3u8
-#EXTINF:-1,3 Plus
-http://89.39.106.21:8080/3Plusfasf/index.m3u8
-#EXTINF:-1,KanalD Drama
-http://89.39.106.21:8080/KanaldDramagdsg/index.m3u8
-#EXTINF:-1,Living
-http://89.39.106.21:8080/LivinGhDdgsg/index.m3u8
-#EXTINF:-1,Smile
-http://89.39.106.21:8080/SmiLEdgsdg/index.m3u8
-#EXTINF:-1,Tring Series
-http://89.39.106.21:8080/JollyHDwtet/index.m3u8
-#EXTINF:-1,Elrodi TV
-http://89.39.106.21:8080/ElROdisfa/index.m3u8
-#EXTINF:-1,Folk Plus
-http://89.39.106.21:8080/FoLKPlus/index.m3u8
-#EXTINF:-1,Tring World
-http://89.39.106.21:8080/TringWorldsgag/index.m3u8 
-#EXTINF:-1,Tring Planet
-http://89.39.106.21:8080/TringPlanetsgag/index.m3u8
-#EXTINF:-1,Tring Sport News
-http://89.39.106.21:8080/TriNGspoRTnEwsdgg/index.m3u8
-#EXTINF:-1,Tring Sport 1
-http://89.39.106.21:8080/TrIngSporT1gdg/index.m3u8
-#EXTINF:-1,Tring Sport 2
-http://89.39.106.21:8080/TriNGSport2dgsg/index.m3u8
-#EXTINF:-1,Tring Sport 3
-http://89.39.106.21:8080/TriNGSport3gfg/index.m3u8
-#EXTINF:-1,SUPER SPORT 1
-http://platin4k.eu/live/eagleiptv/SsFAljPDDi/161887.ts
-#EXTINF:-1,SUPER SPORT 2
-http://platin4k.eu/live/eagleiptv/SsFAljPDDi/161883.ts
-#EXTINF:-1,SUPER SPORT 3
-http://platin4k.eu/live/eagleiptv/SsFAljPDDi/161886.ts
-#EXTINF:-1,SUPER SPORT 4
-http://platin4k.eu/live/eagleiptv/SsFAljPDDi/161885.ts
-#EXTINF:-1,SUPER SPORT 5
-http://platin4k.eu/live/eagleiptv/SsFAljPDDi/161884.ts
 #EXTINF:-1,RAI NEWS HD
 https://streamcdnr15-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 #EXTINF:-1,Rai 1 HD
@@ -651,11 +478,7 @@ http://188.12.112.110:4000/play/a04k
 #EXTINF:-1,Rai 2 HD
 http://188.12.112.110:4000/play/a04l
 #EXTINF:-1,Rai 3 HD
-http://188.12.112.110:4000/play/a043
-#EXTINF:-1,Rai 4 HD
-http://188.12.112.110:4000/play/a045
-#EXTINF:-1,Rai 5 HD
-http://188.12.112.110:4000/play/a046
+http://188.12.112.110:4000/play/a04n
 #EXTINF:-1,CANALE 5 HD
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(c5)/index.m3u8
 #EXTINF:-1,ITALIA 1 HD
