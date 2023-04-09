@@ -12,7 +12,7 @@ http://185.234.217.29:8007/play/a00x/index.m3u8
 #EXTINF:-1,Klan Plus HD
 http://185.234.217.29:8007/play/a00w/index.m3u8
 #EXTINF:-1,KLAN KOSOVA
-http://homeuser22.hopto.me:22333/live?cId=1521&uid=1690&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
+http://185.179.28.211:8000/play/a032
 #EXTINF:-1,ALSAT M
 http://homeuser22.hopto.me:22333/live?cId=1526&uid=1690&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
 #EXTINF:-1,ABC HD
