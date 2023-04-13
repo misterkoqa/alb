@@ -255,32 +255,8 @@ http://xtra.fireottplus.com:2052/8024301883535223/8024682712357853/46802
 http://xtra.fireottplus.com:2052/8024301883535223/8024682712357853/46803
 #EXTINF:-1,BEIN SERIES 2
 http://xtra.fireottplus.com:2052/8024301883535223/8024682712357853/46804
-#EXTINF:-0 group-title="SHQIP 🌍 PLANET DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",NATIONAL GEOGRAPHIC
-http://185.59.223.102:8080/natgeo/index.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC WILD
-http://185.59.223.102:8080/natgeowild/index.m3u8
-#EXTINF:-1,HISTORY 
-http://185.59.223.102:8080/history/index.m3u8
-#EXTINF:-1,HISTORY 2
-http://185.59.223.102:8080/h2/index.m3u8
-#EXTINF:-1,LOVE NATYRA
-http://212.5.59.2:9882/play/a01b/index.m3u8
-#EXTINF:-1,H2 HD
-https://livetv.mylifeisgood.ml/channels/historyhd.m3u8
-#EXTINF:-1,ANIMAL PLANET HD
-https://livetv.mylifeisgood.ml/channels/animalplanethd.m3u8
-#EXTINF:-1,Nat Geo Wild HD
-https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
-#EXTINF:-1,Discovery Channel
-https://sc.id-tv.kz:443/Disc_chHD_34_35.m3u8
-#EXTINF:-1,History
-https://sc.id-tv.kz/HistoryHD_36_37.m3u8
-#EXTINF:-1,Viasat Explore
-https://sc.id-tv.kz:443/ViasatExplorer_34_35.m3u8
-#EXTINF:-1,Viasat History
-https://sc.id-tv.kz:443/ViasatHistory_34_35.m3u8
-#EXTINF:-1,Viasat Nature
-https://sc.id-tv.kz:443/ViasatNature_34_35.m3u8
+#EXTINF:-0 group-title="SHQIP 🌍 PLANET DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",BBC LIBERTY
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/15105/index.m3u8
 #EXTINF:-0 group-title="SHQIP SPORT DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",WWE WRESTLING HD
 http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/14404
 #EXTINF:-1,BT Sport 1 FHD
