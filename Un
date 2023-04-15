@@ -267,16 +267,22 @@ http://xtra.fireottplus.com:2052/8024301883535223/8024682712357853/46803
 http://xtra.fireottplus.com:2052/8024301883535223/8024682712357853/46804
 #EXTINF:-0 group-title="SHQIP 🌍 PLANET DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",BBC LIBERTY
 http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/15108/index.m3u8
-|#EXTINF:-1,Discovery Channel
+|#EXTINF:-1,DISCOVERY CHANNEL
 http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/622
-#EXTINF:-1,National Geographic
+#EXTINF:-1,NATIONAL GEOGRAPHIC
 http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/624
-#EXTINF:-1,Nat Geo Wild
+#EXTINF:-1,NAT GEO WILD
 http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/635
-#EXTINF:-1,Animal Planet
+#EXTINF:-1,ANIMAL PLANET
 http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/636
-#EXTINF:-1,History Channel
+#EXTINF:-1,HISTORY CHANNEL
 http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/625
+#EXTINF:-1,VIP NATURE
+http://zyamka.akadatel.com/iptv/5FURQDGTX7MWKS/161/index.m3u8
+#EXTINF:-1,VIP HISTORY
+http://zyamka.akadatel.com/iptv/5FURQDGTX7MWKS/162/index.m3u8
+#EXTINF:,1,VIP EXPLORE
+http://zyamka.akadatel.com/iptv/5FURQDGTX7MWKS/163/index.m3u8
 #EXTINF:-0 group-title="SHQIP SPORT DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",WWE WRESTLING HD
 http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/14404
 #EXTINF:-1,BT Sport 1 FHD
