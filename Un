@@ -183,6 +183,12 @@ http://84.17.61.203:8086/udp/238.2.25.78:1234
 http://84.17.61.203:8086/udp/238.2.25.90:1234
 #EXTINF:-1,DIGI Sport 4 HD
 http://84.17.61.203:8086/udp/229.35.15.151:1234
+#EXTINF:-1,MATCH 1HD
+http://zyamka.akadatel.com/iptv/5FURQDGTX7MWKS/222/index.m3u8
+#EXTINF:-1,MATCH 2HD
+http://zyamka.akadatel.com/iptv/5FURQDGTX7MWKS/211/index.m3u8
+#EXTINF:-1,MATCH 3HD
+http://zyamka.akadatel.com/iptv/5FURQDGTX7MWKS/206/index.m3u8
 #EXTINF:-0 group-title="SHQIP FILMA DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",Max Select 1 FHD HR
 http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/20035
 #EXTINF:-1,Max Select 2 FHD HR
@@ -461,3 +467,11 @@ http://91.132.172.167:8000/play/a00t
 http://91.132.172.167:8000/play/a006
 #EXTINF:-1,JOHANITER TV
 http://91.132.172.167:8000/play/a007
+#EXTINF:-0 group-title="SHQIP TV XXX🔞 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",XXX 1
+http://zyamka.akadatel.com/iptv/5FURQDGTX7MWKS/242/index.m3u8
+#EXTINF:-1,XXX 2
+http://zyamka.akadatel.com/iptv/5FURQDGTX7MWKS/243/index.m3u8
+#EXTINF:-1,XXX 3
+http://zyamka.akadatel.com/iptv/5FURQDGTX7MWKS/244/index.m3u8
+#EXTINF:-1,XXX 4
+http://zyamka.akadatel.com/iptv/5FURQDGTX7MWKS/245/index.m3u8
