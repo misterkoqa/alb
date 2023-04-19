@@ -213,6 +213,14 @@ http://zyamka.akadatel.com/iptv/5FURQDGTX7MWKS/222/index.m3u8
 http://zyamka.akadatel.com/iptv/5FURQDGTX7MWKS/211/index.m3u8
 #EXTINF:-1,MATCH 3HD
 http://zyamka.akadatel.com/iptv/5FURQDGTX7MWKS/206/index.m3u8
+#EXTINF:-1,OVERSPORT 1HD
+http://212.224.84.202:2200/ALB-EX/OverSport1_HD_AL-alb/tracks-v1a1/mono.m3u8?token=null%7CUser-Agent=Rediptv%20Plus%202.0.17
+#EXTINF:-1,OVERSPORT 2HD
+http://212.224.84.202:2200/ALB-EX/OverSport2_HD_AL-alb/tracks-v1a1/mono.m3u8?token=null%7CUser-Agent=Rediptv%20Plus%202.0.17
+#EXTINF:-1,OVERSPORT 3HD
+http://212.224.84.202:2200/ALB-EX/OverSport3_HD_AL-alb/tracks-v1a1/mono.m3u8?token=null%7CUser-Agent=Rediptv%20Plus%202.0.17
+#EXTINF:-1,OVERSPORT 4HD
+http://212.224.84.202:2200/ALB-EX/OverSport4_HD_AL-alb/tracks-v1a1/mono.m3u8?token=null%7CUser-Agent=Rediptv%20Plus%202.0.17
 #EXTINF:-1,BEIN SPORT 1HD
 http://43.157.53.225:8080/live/DIKOTEST/GRGERG/5.ts
 #EXTINF:-1,BEIN SPORT 2HD
