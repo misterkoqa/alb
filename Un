@@ -1,8 +1,16 @@
 #EXTM3U
-#EXTINF:-0 group-title="SHQIP KLANI IM DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",BBVIP ALBANIA 1HD
+#EXTINF:-0 group-title="SHQIP REZART DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",BBVIP ALBANIA 1HD
 http://premium-ks.ddns.net:88/muminiptv/FRQT2rUpXv/62340
 #EXTINF:-1,BBVIP ALBANIA 2HD
 http://premium-ks.ddns.net:88/muminiptv/FRQT2rUpXv/62341
+#EXTINF:-1,TOP CHANNEL HD
+http://89.39.106.21:8080/ToPCHAnneLsfaf/index.m3u8
+#EXTINF:-1,VIZION PLUS HD
+http://89.39.106.21:8080/ViziONPluSfsf/index.m3u8
+#EXTINF:-1,KLAN HD
+http://89.39.106.21:8080/KlANhDsfas/index.m3u8
+#EXTINF:-1,KLAN PLUS HD
+http://89.39.106.21:8080/KlANpLUSfaf/index.m3u8
 #EXTINF:-1,TOP CHANNEL HD
 http://homeuser22.hopto.me:22333/live?cId=1529&uid=1690&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
 #EXTINF:-1,VIZION PLUS HD
@@ -11,8 +19,8 @@ http://95.107.132.106/out/u/646_1.m3u8
 http://185.234.217.29:8007/play/a00x/index.m3u8
 #EXTINF:-1,Klan Plus HD
 http://185.234.217.29:8007/play/a00w/index.m3u8
-#EXTINF:-1,KLAN KOSOVA
-http://185.179.28.211:8000/play/a032
+#EXTINF:-1,ALSAT M
+http://89.39.106.21:8080/AlsaTsfasf/index.m3u8
 #EXTINF:-1,ALSAT M
 http://homeuser22.hopto.me:22333/live?cId=1526&uid=1690&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
 #EXTINF:-1,TOP NEWS HD
