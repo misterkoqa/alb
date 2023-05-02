@@ -205,12 +205,14 @@ http://84.17.61.203:8086/udp/238.2.25.78:1234
 http://84.17.61.203:8086/udp/238.2.25.90:1234
 #EXTINF:-1,DIGI Sport 4 HD
 http://84.17.61.203:8086/udp/229.35.15.151:1234
-#EXTINF:-1,MATCH 1HD
-http://zyamka.akadatel.com/iptv/5FURQDGTX7MWKS/222/index.m3u8
-#EXTINF:-1,MATCH 2HD
-http://zyamka.akadatel.com/iptv/5FURQDGTX7MWKS/211/index.m3u8
-#EXTINF:-1,MATCH 3HD
-http://zyamka.akadatel.com/iptv/5FURQDGTX7MWKS/206/index.m3u8
+#EXTINF:-1,Telekom Sport 1HD
+http://31.42.184.159:2082/Jure56Jurcevic01/8dK2C7Aj4N6v/31184
+#EXTINF:-1,Telekom Sport 2HD
+http://31.42.184.159:2082/Jure56Jurcevic01/8dK2C7Aj4N6v/31185
+#EXTINF:-1,Telekom Sport 3HD
+http://31.42.184.159:2082/Jure56Jurcevic01/8dK2C7Aj4N6v/31186
+#EXTINF:-1,Telekom Sport 4HD
+http://31.42.184.159:2082/Jure56Jurcevic01/8dK2C7Aj4N6v/31187
 #EXTINF:-1,OVERSPORT 1HD
 http://212.224.84.202:2200/ALB-EX/OverSport1_HD_AL-alb/tracks-v1a1/mono.m3u8?token=null%7CUser-Agent=Rediptv%20Plus%202.0.17
 #EXTINF:-1,OVERSPORT 2HD
