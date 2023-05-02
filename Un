@@ -229,38 +229,14 @@ http://212.224.84.202:2200/ALB-EX/OverSport2_HD_AL-alb/tracks-v1a1/mono.m3u8?tok
 http://212.224.84.202:2200/ALB-EX/OverSport3_HD_AL-alb/tracks-v1a1/mono.m3u8?token=null%7CUser-Agent=Rediptv%20Plus%202.0.17
 #EXTINF:-1,OVERSPORT 4HD
 http://212.224.84.202:2200/ALB-EX/OverSport4_HD_AL-alb/tracks-v1a1/mono.m3u8?token=null%7CUser-Agent=Rediptv%20Plus%202.0.17
-#EXTINF:-1,BEIN SPORT 1HD
-http://43.157.53.225:8080/live/DIKOTEST/GRGERG/5.ts
-#EXTINF:-1,BEIN SPORT 2HD
-http://43.157.53.225:8080/live/DIKOTEST/GRGERG/6.ts
-#EXTINF:-1,BEIN SPORT 3HD
-http://43.157.53.225:8080/live/DIKOTEST/GRGERG/7.ts
-#EXTINF:-1,BEIN SPORT 4HD
-http://43.157.53.225:8080/live/DIKOTEST/GRGERG/8.ts
-#EXTINF:-1,BEIN SPORT 5HD
-http://43.157.53.225:8080/live/DIKOTEST/GRGERG/9.ts
-#EXTINF:-1,BEIN SPORT 6HD
-http://43.157.53.225:8080/live/DIKOTEST/GRGERG/10.ts
-#EXTINF:-1,BEIN SPORT 7HD
-http://43.157.53.225:8080/live/DIKOTEST/GRGERG/11.ts
-#EXTINF:-1,ASTRO SUPERSPORT UHD
-http://j.jserv.me:80/live/bro4531/8AYL4LDRyS/8458.ts
-#EXTINF:-1,PREMIER SPORT 2 UHD
-http://j.jserv.me:80/live/bro4531/8AYL4LDRyS/8407.ts
-#EXTINF:-1,PREMIER SPORT 1HD
-http://j.jserv.me:80/live/bro4531/8AYL4LDRyS/8408.ts
-#EXTINF:-1,PREMIER SPORT 2HD
-http://j.jserv.me:80/live/bro4531/8AYL4LDRyS/8409.ts
-#EXTINF:-1,PREMIER SPORT 3HD
-http://j.jserv.me:80/live/bro4531/8AYL4LDRyS/8410.ts
-#EXTINF:-1,PREMIER SPORT 4HD
-http://j.jserv.me:80/live/bro4531/8AYL4LDRyS/8411.ts
-#EXTINF:-1,PREMIER SPORT 5HD
-http://j.jserv.me:80/live/bro4531/8AYL4LDRyS/8412.ts
-#EXTINF:-1,PREMIER SPORT 6HD
-http://j.jserv.me:80/live/bro4531/8AYL4LDRyS/8413.ts
-#EXTINF:-1,PREMIER SPORT 7HD
-http://j.jserv.me:80/live/bro4531/8AYL4LDRyS/8414.ts
+#EXTINF:-1,SS-1HD
+http://homeuser22.hopto.me:22333/live?cId=1609&uid=1690&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
+#EXTINF:-1,SS-2HD
+http://homeuser22.hopto.me:22333/live?cId=1587&uid=1690&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
+#EXTINF:-1,SS-3HD
+http://homeuser22.hopto.me:22333/live?cId=1588&uid=1690&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
+#EXTINF:-1,SS-4HD
+http://homeuser22.hopto.me:22333/live?cId=1589&uid=1690&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
 #EXTINF:-0 group-title="SHQIP FILMA DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",Max Select 1 FHD HR
 http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/20035
 #EXTINF:-1,Max Select 2 FHD HR
