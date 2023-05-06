@@ -237,6 +237,12 @@ http://homeuser22.hopto.me:22333/live?cId=1595&uid=1690&deviceUser=PremiumIPTV12
 http://homeuser22.hopto.me:22333/live?cId=1596&uid=1690&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
 #EXTINF:-1,TS-3HD
 http://homeuser22.hopto.me:22333/live?cId=1597&uid=1690&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
+#EXTINF:-1,МАТЧ!ФУТБОЛ1HD
+http://109.200.130.124:7005/play/a00h
+#EXTINF:-1,МАТЧ!ФУТБОЛ2HD
+http://109.200.130.124:7005/play/a00b
+#EXTINF:-1,МАТЧ!ФУТБОЛ3HD
+http://109.200.130.124:7005/play/a00c
 #EXTINF:-0 group-title="SHQIP FILMA DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",Max Select 1 FHD HR
 http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/20035
 #EXTINF:-1,Max Select 2 FHD HR
