@@ -211,12 +211,10 @@ http://homeuser22.hopto.me:22333/live?cId=1596&uid=1690&deviceUser=PremiumIPTV12
 http://homeuser22.hopto.me:22333/live?cId=1597&uid=1690&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
 #EXTINF:-1,TS-4HD
 http://homeuser22.hopto.me:22333/live?cId=1598&uid=1690&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
-#EXTINF:-1,SONYTEN 1HD
-http://111.88.4.33:5000/play/a042/index.m3u8
-#EXTINF:-1,SONYTEN 2HD
-http://111.88.4.33:5000/play/a05r/index.m3u8
-#EXTINF:-1,SONYTEN 3HD
-http://111.88.4.33:5000/play/a049/index.m3u8
+#EXTINF:-1,Setanta Sports 1HD
+http://49.12.133.216:8000/play/a001/index.m3u8
+#EXTINF:-1,Setanta Sports 2HD
+http://49.12.133.216:8000/play/a003/index.m3u8
 #EXTINF:-0 group-title="SHQIP FILMA DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",Max Select 1 FHD HR
 http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/20035
 #EXTINF:-1,Max Select 2 FHD HR
