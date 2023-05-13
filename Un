@@ -177,14 +177,6 @@ http://84.17.61.203:8086/udp/238.2.25.78:1234
 http://84.17.61.203:8086/udp/238.2.25.90:1234
 #EXTINF:-1,DIGI Sport 4 HD
 http://84.17.61.203:8086/udp/229.35.15.151:1234
-#EXTINF:-1,SUPER Sport 1HD
-http://server.sibfungold.info:8080/hfmkelibia@/cwV1syTkt9/47078
-#EXTINF:-1,SUPER Sport 2HD
-http://server.sibfungold.info:8080/hfmkelibia@/cwV1syTkt9/47080
-#EXTINF:-1,SUPER Sport 3HD
-http://server.sibfungold.info:8080/hfmkelibia@/cwV1syTkt9/47082
-#EXTINF:-1,SUPER Sport 4HD
-http://server.sibfungold.info:8080/hfmkelibia@/cwV1syTkt9/47084
 #EXTINF:-1,OVERSPORT 1HD
 http://212.224.84.202:2200/ALB-EX/OverSport1_HD_AL-alb/tracks-v1a1/mono.m3u8?token=null%7CUser-Agent=Rediptv%20Plus%202.0.17
 #EXTINF:-1,OVERSPORT 2HD
