@@ -169,34 +169,6 @@ http://79.174.24.254:8002/play/a00r/index.m3u8
 http://79.174.24.254:8002/play/a00s/index.m3u8
 #EXTINF:-1,WWE NETWORK 
 http://un-pluggedtv.net:8080/silenttrix/bSeG3nn9k2/52719
-#EXTINF:-1,SuperSport 1
-http://kuchini.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/1316
-#EXTINF:-1,SuperSport 2
-http://kuchini.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/1312
-#EXTINF:-1,SuperSport 3
-http://kuchini.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/1319
-#EXTINF:-1,SuperSport 4
-http://kuchini.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/1318
-#EXTINF:-1,SuperSport 5
-http://kuchini.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/1860
-#EXTINF:-1,SuperSport 6
-http://kuchini.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/3638
-#EXTINF:-1,Tring Sport 1
-http://kuchini.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/1306
-#EXTINF:-1,Tring Sport 2
-http://kuchini.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/1305
-#EXTINF:-1,Tring Sport 3
-http://kuchini.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/1304
-#EXTINF:-1,Tring Sport News
-http://kuchini.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/1861
-#EXTINF:-1,OVERSPORT 1
-http://kuchini.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/290218
-#EXTINF:-1,OVERSPORT 2
-http://kuchini.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/295514
-#EXTINF:-1,OVERSPORT 3
-http://kuchini.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/290537
-#EXTINF:-1,OVERSPORT 4
-http://kuchini.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/290538
 #EXTINF:-1,DIGI Sport 1 HD
 http://84.17.61.203:8086/udp/238.2.25.79:1234
 #EXTINF:-1,DIGI Sport 2 HD
@@ -205,14 +177,14 @@ http://84.17.61.203:8086/udp/238.2.25.78:1234
 http://84.17.61.203:8086/udp/238.2.25.90:1234
 #EXTINF:-1,DIGI Sport 4 HD
 http://84.17.61.203:8086/udp/229.35.15.151:1234
-#EXTINF:-1,Telekom Sport 1HD
-http://31.42.184.159:2082/worldiptv/0KW8G1kl8JQs5C3/31184
-#EXTINF:-1,Telekom Sport 2HD
-http://31.42.184.159:2082/worldiptv/0KW8G1kl8JQs5C3/31185
-#EXTINF:-1,Telekom Sport 3HD
-http://31.42.184.159:2082/worldiptv/0KW8G1kl8JQs5C3/31186
-#EXTINF:-1,Telekom Sport 4HD
-http://31.42.184.159:2082/worldiptv/0KW8G1kl8JQs5C3/31187
+#EXTINF:-1,SUPER Sport 1HD
+http://server.sibfungold.info:8080/hfmkelibia@/cwV1syTkt9/47078
+#EXTINF:-1,SUPER Sport 2HD
+http://server.sibfungold.info:8080/hfmkelibia@/cwV1syTkt9/47080
+#EXTINF:-1,SUPER Sport 3HD
+http://server.sibfungold.info:8080/hfmkelibia@/cwV1syTkt9/47082
+#EXTINF:-1,SUPER Sport 4HD
+http://server.sibfungold.info:8080/hfmkelibia@/cwV1syTkt9/47084
 #EXTINF:-1,OVERSPORT 1HD
 http://212.224.84.202:2200/ALB-EX/OverSport1_HD_AL-alb/tracks-v1a1/mono.m3u8?token=null%7CUser-Agent=Rediptv%20Plus%202.0.17
 #EXTINF:-1,OVERSPORT 2HD
@@ -237,12 +209,8 @@ http://homeuser22.hopto.me:22333/live?cId=1595&uid=1690&deviceUser=PremiumIPTV12
 http://homeuser22.hopto.me:22333/live?cId=1596&uid=1690&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
 #EXTINF:-1,TS-3HD
 http://homeuser22.hopto.me:22333/live?cId=1597&uid=1690&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
-#EXTINF:-1,МАТЧ!ФУТБОЛ1HD
-http://109.200.130.124:7005/play/a00h
-#EXTINF:-1,МАТЧ!ФУТБОЛ2HD
-http://109.200.130.124:7005/play/a00b
-#EXTINF:-1,МАТЧ!ФУТБОЛ3HD
-http://109.200.130.124:7005/play/a00c
+#EXTINF:-1,TS-4HD
+http://homeuser22.hopto.me:22333/live?cId=1598&uid=1690&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
 #EXTINF:-0 group-title="SHQIP FILMA DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",Max Select 1 FHD HR
 http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/20035
 #EXTINF:-1,Max Select 2 FHD HR
