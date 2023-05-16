@@ -207,6 +207,16 @@ http://homeuser22.hopto.me:22333/live?cId=1598&uid=1690&deviceUser=PremiumIPTV12
 http://49.12.133.216:8000/play/a001/index.m3u8
 #EXTINF:-1,Setanta Sports 2HD
 http://49.12.133.216:8000/play/a003/index.m3u8
+#EXTINF:-1,МАТЧ Футбол 1 HD
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/124/index.m3u8
+#EXTINF:-1,МАТЧ Футбол 2 HD
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/530/index.m3u8
+#EXTINF:-1,МАТЧ Футбол 3 HD
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/522/index.m3u8
+#EXTINF:-1, SONY TEN 1
+https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
+#EXTINF:-1, SONY TEN 2
+https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
 #EXTINF:-0 group-title="SHQIP FILMA DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",Max Select 1 FHD HR
 http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/20035
 #EXTINF:-1,Max Select 2 FHD HR
