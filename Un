@@ -184,11 +184,11 @@ http://49.12.133.216:8000/play/a001/index.m3u8
 #EXTINF:-1,Setanta Sports 2HD
 http://49.12.133.216:8000/play/a003/index.m3u8
 #EXTINF:-1,МАТЧ Футбол 1 HD
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/124/index.m3u8
+http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1,МАТЧ Футбол 2 HD
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/530/index.m3u8
+http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1,МАТЧ Футбол 3 HD
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/522/index.m3u8
+http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1, SONY TEN 1
 https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
 #EXTINF:-1, SONY TEN 2
