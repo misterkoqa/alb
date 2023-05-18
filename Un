@@ -199,6 +199,16 @@ http://94.53.216.13:9981/stream/channelid/2119101735?profile=pass
 http://94.53.216.13:9981/stream/channelid/1796098648?profile=pass
 #EXTINF:-1,Prima Sport 3
 http://94.53.216.13:9981/stream/channelid/1042510375?profile=pass
+#EXTINF:-1, SPORT 1 HD
+http://mwy2tky6.akciatv.ru/iptv/ZP6CPSLL6GVWT2/2353/index.m3u8
+#EXTINF:-1, SPORT 2 HD
+http://mwy2tky6.akciatv.ru/iptv/ZP6CPSLL6GVWT2/2352/index.m3u8
+#EXTINF:-1, SPORT 3 HD
+http://mwy2tky6.akciatv.ru/iptv/ZP6CPSLL6GVWT2/2388/index.m3u8
+#EXTINF:-1, SPORT 4 HD
+http://mwy2tky6.akciatv.ru/iptv/ZP6CPSLL6GVWT2/2389/index.m3u8
+#EXTINF:-1, SPORT 5 HD
+http://mwy2tky6.akciatv.ru/iptv/ZP6CPSLL6GVWT2/2391/index.m3u8
 #EXTINF:-0 group-title="SHQIP FILMA DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",Max Select 1 FHD HR
 http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/20035
 #EXTINF:-1,Max Select 2 FHD HR
