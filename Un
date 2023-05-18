@@ -209,6 +209,14 @@ http://mwy2tky6.akciatv.ru/iptv/ZP6CPSLL6GVWT2/2388/index.m3u8
 http://mwy2tky6.akciatv.ru/iptv/ZP6CPSLL6GVWT2/2389/index.m3u8
 #EXTINF:-1, SPORT 5 HD
 http://mwy2tky6.akciatv.ru/iptv/ZP6CPSLL6GVWT2/2391/index.m3u8
+#EXTINF:-1,DIGI SPORT 1
+http://balkan-x.net:80/STARTavdQpbanj7EVE/CP3YtDH97BS4jVumDSJwWdADZCzFAPPW/656
+#EXTINF:-1,DIGI SPORT 2
+http://balkan-x.net:80/STARTavdQpbanj7EVE/CP3YtDH97BS4jVumDSJwWdADZCzFAPPW/657
+#EXTINF:-1,DIGI SPORT 3
+http://balkan-x.net:80/STARTavdQpbanj7EVE/CP3YtDH97BS4jVumDSJwWdADZCzFAPPW/658
+#EXTINF:-1,DIGI SPORT 4
+http://balkan-x.net:80/STARTavdQpbanj7EVE/CP3YtDH97BS4jVumDSJwWdADZCzFAPPW/659
 #EXTINF:-0 group-title="SHQIP FILMA DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",Max Select 1 FHD HR
 http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/20035
 #EXTINF:-1,Max Select 2 FHD HR
