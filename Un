@@ -17,6 +17,8 @@ http://147.78.163.1:7002/play/a00f/index.m3u8
 http://94.139.206.219:6060/play/a01i/index.m3u8
 #EXTINF:-1,BALKANIKA HD
 http://94.139.206.219:6060/play/a036/index.m3u8
+#EXTINF:-1,ZICO TV
+http://streamer.advanott.com/zicotv/index.m3u8
 #EXTINF:-1,TV JOHANITER
 https://mfe01.tring.al/delta/106/out/u/1020_1.m3u8
 #EXTINF:-1,TOP NEWS HD
