@@ -5,12 +5,20 @@ http://163.172.90.173:25461/MosVjedh/TqifshaRRACEN/58
 http://163.172.90.173:25461/MosVjedh/TqifshaRRACEN/61
 #EXTINF:-1,TOP CHANNEL HD
 http://homeuser22.hopto.me:22333/live?cId=1529&uid=1690&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
+#EXTINF:-1,TOP CHANNEL 
+http://streamer.advanott.com/tophd/index.m3u8
 #EXTINF:-1,VIZION PLUS HD
 http://95.107.132.106/out/u/646_1.m3u8
+#EXTINF:-1,VIZION PLUS
+http://streamer.advanott.com/vizionplus/index.m3u8
 #EXTINF:-1,Klan HD
 http://balkan-x.net:80/STARTavdQpbanj7EVE/CP3YtDH97BS4jVumDSJwWdADZCzFAPPW/1026
+#EXTINF:-1,KLAN
+http://streamer.advanott.com/klanhd/index.m3u8
 #EXTINF:-1,Klan Plus HD
 http://balkan-x.net:80/STARTavdQpbanj7EVE/CP3YtDH97BS4jVumDSJwWdADZCzFAPPW/1027
+#EXTINF:-1,KLAN PLUS
+http://streamer.advanott.com/klanplus/index.m3u8
 #EXTINF:-1,ALSAT M
 http://147.78.163.1:7002/play/a00f/index.m3u8
 #EXTINF:-1,PLANETA HD
@@ -468,11 +476,11 @@ https://startv.blutv.com/blutv_startv_live/live.m3u8
 #EXTINF:-1,RAI NEWS HD
 https://streamcdnr15-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 #EXTINF:-1,Rai 1 HD
-http://188.12.112.110:4000/play/a04k
+http://streamer.advanott.com/rai1/index.m3u8
 #EXTINF:-1,Rai 2 HD
-http://188.12.112.110:4000/play/a04l
+http://streamer.advanott.com/rai2/index.m3u8
 #EXTINF:-1,Rai 3 HD
-http://188.12.112.110:4000/play/a04n
+http://streamer.advanott.com/rai3/index.m3u8
 #EXTINF:-1,CANALE 5 HD
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(c5)/index.m3u8
 #EXTINF:-1,ITALIA 1 HD
