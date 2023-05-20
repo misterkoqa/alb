@@ -5,20 +5,22 @@ http://163.172.90.173:25461/MosVjedh/TqifshaRRACEN/58
 http://163.172.90.173:25461/MosVjedh/TqifshaRRACEN/61
 #EXTINF:-1,TOP CHANNEL HD
 http://homeuser22.hopto.me:22333/live?cId=1529&uid=1690&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
-#EXTINF:-1,TOP CHANNEL 
-http://streamer.advanott.com/tophd/index.m3u8
+#EXTINF:-1,TOP CHANNEL
+http://www.premiumiptvmk.com:8080/atlantis/8afa51be3b/1311
 #EXTINF:-1,VIZION PLUS HD
 http://95.107.132.106/out/u/646_1.m3u8
 #EXTINF:-1,VIZION PLUS
-http://streamer.advanott.com/vizionplus/index.m3u8
+http://www.premiumiptvmk.com:8080/atlantis/8afa51be3b/1299
 #EXTINF:-1,Klan HD
 http://balkan-x.net:80/STARTavdQpbanj7EVE/CP3YtDH97BS4jVumDSJwWdADZCzFAPPW/1026
 #EXTINF:-1,KLAN
-http://streamer.advanott.com/klanhd/index.m3u8
+http://www.premiumiptvmk.com:8080/atlantis/8afa51be3b/1853
 #EXTINF:-1,Klan Plus HD
 http://balkan-x.net:80/STARTavdQpbanj7EVE/CP3YtDH97BS4jVumDSJwWdADZCzFAPPW/1027
 #EXTINF:-1,KLAN PLUS
-http://streamer.advanott.com/klanplus/index.m3u8
+http://www.premiumiptvmk.com:8080/atlantis/8afa51be3b/2562
+#EXTINF:-1,KLAN KOSOVA
+http://www.premiumiptvmk.com:8080/atlantis/8afa51be3b/2561
 #EXTINF:-1,ALSAT M
 http://147.78.163.1:7002/play/a00f/index.m3u8
 #EXTINF:-1,PLANETA HD
