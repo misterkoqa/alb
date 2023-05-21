@@ -481,14 +481,18 @@ https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 #EXTINF:-1,STAR HD
 https://startv.blutv.com/blutv_startv_live/live.m3u8
-#EXTINF:-1,RAI NEWS HD
+#EXTINF:-0 group-title="ITALIA TV DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",RAI NEWS HD
 https://streamcdnr15-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 #EXTINF:-1,Rai 1 HD
-http://streamer.advanott.com/rai1/index.m3u8
+http://37.18.239.37:8000/play/a00i/index.m3u8
 #EXTINF:-1,Rai 2 HD
-http://streamer.advanott.com/rai2/index.m3u8
+http://37.18.239.37:8000/play/a01p/index.m3u8
 #EXTINF:-1,Rai 3 HD
-http://streamer.advanott.com/rai3/index.m3u8
+http://37.18.239.37:8000/play/a02f/index.m3u8
+#EXTINF:-1,RAI 4 HD
+http://37.18.239.37:8000/play/a01r/index.m3u8
+#EXTINF:-1,RAI 5 HD
+http://37.18.239.37:8000/play/a01s/index.m3u8
 #EXTINF:-1,CANALE 5 HD
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(c5)/index.m3u8
 #EXTINF:-1,ITALIA 1 HD
@@ -525,34 +529,20 @@ https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ka)/
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
 #EXTINF:-1,TOP CRIME HD
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
-#EXTINF:-1,Action 1 HD
-http://91.132.172.167:8000/play/a01t
-#EXTINF:-1,Action 2 HD
-http://91.132.172.167:8000/play/a01u
-#EXTINF:-1,Action 3 HD
-http://91.132.172.167:8000/play/a01v
-#EXTINF:-1,Crime HD
-http://91.132.172.167:8000/play/a01s
-#EXTINF:-1,Grrece HD
-http://91.132.172.167:8000/play/a00m
-#EXTINF:-1,Premiere 1 HD
-http://91.132.172.167:8000/play/a00n
-#EXTINF:-1,Premiere 2 HD
-http://91.132.172.167:8000/play/a00o
-#EXTINF:-1,TIBO ACTION
-http://91.132.172.167:8000/play/a00t
-#EXTINF:-1,SARANDA TV
-http://91.132.172.167:8000/play/a006
-#EXTINF:-1,JOHANITER TV
-http://91.132.172.167:8000/play/a007
-#EXTINF:-0 group-title="SHQIP TV FEMIJE 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",DISNEY CARTOON
-http://zyamka.akadatel.com/iptv/5FURQDGTX7MWKS/524/index.m3u8
-#EXTINF:-1,MASHA&ORSO
-http://zyamka.akadatel.com/iptv/5FURQDGTX7MWKS/534/index.m3u8
-#EXTINF:-1,DA VINCI TV
-http://zyamka.akadatel.com/iptv/5FURQDGTX7MWKS/537/index.m3u8
-#EXTINF:-1,MUP TV
-http://zyamka.akadatel.com/iptv/5FURQDGTX7MWKS/543/index.m3u8
+#EXTINF:-1,RAI PREMIUM HD
+http://37.18.239.37:8000/play/a01y/index.m3u8
+#EXTINF:-1,RAI MOVIE HD
+http://37.18.239.37:8000/play/a01z/index.m3u8
+#EXTINF:-1,RAI GULP HD
+http://37.18.239.37:8000/play/a020/index.m3u8
+#EXTINF:-1,RAI STORIA
+http://37.18.239.37:8000/play/a01u/index.m3u8
+#EXTINF:-1,RAI SCUOLA
+http://37.18.239.37:8000/play/a01x/index.m3u8
+#EXTINF:-1,RAI YOYO
+http://37.18.239.37:8000/play/a01t/index.m3u8
+#EXTINF:-1,RAI SPORT 
+http://37.18.239.37:8000/play/a02e/index.m3u8
 #EXTINF:-1 group-title="[🇦🇱🎭]FILMA(VIP)" tvg-logo="https://i.imgur.com/iJnvEdf.png",[$]TIBO PRIME 1HD
 http://2@madplay.live/starlive/index.m3u8/?id=51280&token=highrisk
 #EXTINF:-1 group-title="[🇦🇱🎭]FILMA(VIP)" tvg-logo="https://i.imgur.com/iJnvEdf.png",[$]TIBO PRIME 2HD
