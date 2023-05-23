@@ -245,6 +245,18 @@ https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
 https://stream2.xdevel.com/video1s86-22/stream/playlist_dvr.m3u8
 #EXTINF:-1,INTER HD
 https://open.http.mp.streamamg.com/p/3001560/sp/300156000/playManifest/entryId/0_xmkk2kjr/flavorIds/0_zlbr85f8,0_zlbr85f8,0_noewhew2/format/applehttp/protocol/https/a.m3u8
+#EXTINF:-1,ARENA SPORT 1HD
+https://kusnadipepenk.github.io/ntn/arns1.m3u8
+#EXTINF:-1,ARENA SPORT 2HD
+https://kusnadipepenk.github.io/ntn/arns2.m3u8
+#EXTINF:-1,ARENA SPORT 3HD
+https://kusnadipepenk.github.io/ntn/arns3.m3u8
+#EXTINF:-1,ARENA SPORT 4HD
+https://kusnadipepenk.github.io/ntn/arns4.m3u8
+#EXTINF:-1,DAZ SPORT 1HD
+https://kusnadipepenk.github.io/ntn/daz1.m3u8
+#EXTINF:-1,DAZ SPORT 2HD
+https://kusnadipepenk.github.io/ntn/daz2.m3u8
 #EXTINF:-0 group-title="SHQIP FILMA DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",Max Select 1 FHD HR
 http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/20035
 #EXTINF:-1,Max Select 2 FHD HR
