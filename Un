@@ -23,6 +23,12 @@ http://www.premiumiptvmk.com:8080/atlantis/8afa51be3b/2562
 http://www.premiumiptvmk.com:8080/atlantis/8afa51be3b/2561
 #EXTINF:-1,ALSAT M
 http://37.49.230.42:8080/8228218d/5b5e7d0577/1346
+#EXTINF:-1,BALKANIKA HD
+http://85.118.86.177:5002/Balkanika
+#EXTINF:-1,FEN TV HD
+http://85.118.86.177:5002/Fen
+#EXTINF:-1,PLANETA HD
+http://31.171.154.21:9898/play/PlanetaHD
 #EXTINF:-1,PLANETA HD
 http://94.139.206.219:6060/play/a01i/index.m3u8
 #EXTINF:-1,BALKANIKA HD
