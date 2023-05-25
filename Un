@@ -33,148 +33,14 @@ http://31.171.154.21:9898/play/PlanetaHD
 http://94.139.206.219:6060/play/a01i/index.m3u8
 #EXTINF:-1,BALKANIKA HD
 http://94.139.206.219:6060/play/a036/index.m3u8
-#EXTINF:-1,ZICO TV
-http://streamer.advanott.com/zicotv/index.m3u8
-#EXTINF:-1,TV JOHANITER
-https://mfe01.tring.al/delta/106/out/u/1020_1.m3u8
-#EXTINF:-1,TOP NEWS HD
-http://185.234.217.29:8007/play/a040/index.m3u8
-#EXTINF:-1,ABC HD
-http://185.234.217.29:8007/play/a00b/index.m3u8
-#EXTINF:-1,SCAN HD
-http://185.234.217.29:8007/play/a033/index.m3u8
-#EXTINF:-1,Panorama TV HD
-http://185.234.217.29:8007/play/a045/index.m3u8
-#EXTINF:-1,Klan News HD
-http://185.234.217.29:8004/play/klannews/index.m3u8
-#EXTINF:-1,ORA NEWS HD
-http://109.104.129.195:8007/play/s75
-#EXTINF:-1,A2 CNN HD
-http://185.234.217.29:8004/play/a2cnn/index.m3u8
-#EXTINF:-1,EURONEWS ALBANIA HD
-http://185.234.217.29:8007/play/a00f/index.m3u8
-#EXTINF:-1,REPORT TV HD
-http://109.104.129.195:8002/play/s33
-#EXTINF:-1,FAX News TV
-http://185.234.217.29:8007/play/a00h/index.m3u8
-#EXTINF:-1,News 24 TV HD
-http://109.104.129.195:8002/play/s35
-#EXTINF:-1,SYRI HD
-http://185.234.217.29:8007/play/a036/index.m3u8
-#EXTINF:-1,Klan Music
-http://185.234.217.29:8004/play/klanmusic/index.m3u8
-#EXTINF:-1,KLAN MACEDONIA
-http://185.234.217.29:8007/play/a00t/index.m3u8
-#EXTINF:-1,MCN TV HD
-http://185.234.217.29:8007/play/a00z/index.m3u8
-#EXTINF:-1,CNA TV
-http://109.104.129.195:8000/play/s81
-#EXTINF:-1,TOP NEWS HD
-http://109.104.129.195:8003/play/s52
-#EXTINF:-1,RTSH 1 HD
-http://109.104.129.195:8001/play/s8
-#EXTINF:-1,RTSH 2 HD
-http://109.104.129.195:8001/play/s22
-#EXTINF:-1,RTSH 3 HD
-http://109.104.129.195:8001/play/s12
-#EXTINF:-1,RTSH Sport HD
-http://109.104.129.195:8001/play/s25
 #EXTINF:-1,FOLK PLUS
 http://95.107.132.105/out/u/212_1.m3u8
-#EXTINF:-1,TIRANA TV
-http://79.106.90.121:18082/HITV/index.m3u8
 #EXTINF:-1,SUPERSONIK TV
 http://kuchini.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/4098
-#EXTINF:-1,BBF MUZIK
-http://185.234.217.29:8011/play/a002/index.m3u8
-#EXTINF:-1,CLUB TV
-http://185.234.217.29:8011/play/a003/index.m3u8
-#EXTINF:-1,KS Filma24 Aksion
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/297261
-#EXTINF:-1,KS Filma24 Animacion
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/297262
-#EXTINF:-1,KS Filma24 Aventure
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/297263
-#EXTINF:-1,KS Filma24 Aziatika
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/297264
-#EXTINF:-1,KS Filma24 Biografi
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/297265
-#EXTINF:-1,KS Filma24 Drame
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/297266
-#EXTINF:-1,KS Filma24 Family
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/278247
-#EXTINF:-1,KS Filma24 Horror
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/297268
-#EXTINF:-1,KS Filma24 Krim
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/297269
-#EXTINF:-1,KS Filma24 Mister
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/297270
-#EXTINF:-1,KS Filma24 Oscars
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/297271
-#EXTINF:-1,KS Filma24 Premiere
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/278255
-#EXTINF:-1,KS Filma24 Romance
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/297273
-#EXTINF:-1,KS Filma24 SCI-Fi
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/297274
-#EXTINF:-1,KS Filma24 Triller
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/297275
-#EXTINF:-1,KS Filma24 Western
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/297276
 #EXTINF:-1,RSI 1HD
 http://185.236.229.31:9981/play/a00m
 #EXTINF:-1,RSI 2HD
 http://185.236.229.31:9981/play/a00n
-#EXTINF:-1,Rai 1 HD
-http://185.234.217.55:8002/play/a0e4/index.m3u8
-#EXTINF:-1,Rai 2 HD
-http://185.234.217.55:8002/play/a0e5/index.m3u8
-#EXTINF:-1,Rai 3 HD
-http://185.234.217.55:8002/play/a0dx/index.m3u8
-#EXTINF:-1,Rai 4 HD
-http://185.234.217.55:8002/play/a0e1/index.m3u8
-#EXTINF:-1,Rai 4K
-http://185.234.217.55:8002/play/a0dv/index.m3u8
-#EXTINF:-1,Rai 5 HD
-http://185.234.217.55:8002/play/a0e2/index.m3u8
-#EXTINF:-1,Rai Gulp
-http://185.234.217.55:8002/play/a0dr/index.m3u8
-#EXTINF:-1,Rai Movie
-http://185.234.217.55:8002/play/a0dp/index.m3u8
-#EXTINF:-1,Rai News 24
-http://185.234.217.55:8002/play/a0e6/index.m3u8
-#EXTINF:-1,Rai Premium HD
-http://185.234.217.55:8018/play/a07q/index.m3u8
-#EXTINF:-1,Rai Scuola HD
-http://185.234.217.55:8018/play/a07p/index.m3u8
-#EXTINF:-1,Rai Storia HD
-http://185.234.217.55:8018/play/a07o/index.m3u8
-#EXTINF:-1,Rai YoYo HD
-http://185.234.217.55:8018/play/a07m/index.m3u8
-#EXTINF:-1,RTL HD
-http://185.234.217.46:8001/play/a0dp/index.m3u8
-#EXTINF:-1,VOX HD
-http://185.234.217.46:8001/play/a0dq/index.m3u8
-#EXTINF:-1,SUPER RTL HD
-http://185.234.217.46:8003/play/a06x/index.m3u8
-#EXTINF:-1,PRO SIEBENMAXX HD
-http://185.234.217.45:8005/play/a06v/index.m3u8
-#EXTINF:-1,ProSieben HD
-http://185.234.217.45:8005/play/a06s/index.m3u8
-#EXTINF:-1,SAT.1 HD
-http://185.234.217.45:8005/play/a06r/index.m3u8
-#EXTINF:-1,SAT.1 Gold HD
-http://185.234.217.46:8003/play/a06z/index.m3u8
-#EXTINF:-1,ZDF HD
-http://185.234.217.46:8005/play/a073/index.m3u8
-#EXTINF:-1,Arte HD
-http://185.234.217.46:8005/play/a070/index.m3u8
-#EXTINF:-1,ZDFneo HD
-http://185.234.217.46:8005/play/a074/index.m3u8
-#EXTINF:-1,ZDFinfo HD
-http://185.234.217.45:8005/play/a075/index.m3u8
-#EXTINF:-1,DMAXX
-http://185.234.217.45:8010/play/a06t/index.m3u8
 #EXTINF:-1,BALKANIKA HD
 http://85.223.221.130:8000/play/a06o
 #EXTINF:-1,OVERSPORT 1HD
@@ -281,32 +147,6 @@ http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/20029
 http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/20028
 #EXTINF:-1,Max Select 9 FHD HR
 http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/20027
-#EXTINF:-1,ALQUILER 1 FHD
-http://iptv2020.ddns.net:25461/J6901066/TfFGuag/219614
-#EXTINF:-1,ALQUILER 3 FHD
-http://iptv2020.ddns.net:25461/J6901066/TfFGuag/343675
-#EXTINF:-1,ALQUILER 4 FHD
-http://iptv2020.ddns.net:25461/J6901066/TfFGuag/264135
-#EXTINF:-1,ALQUILER 5 FHD
-http://iptv2020.ddns.net:25461/J6901066/TfFGuag/219619
-#EXTINF:-1,ALQUILER 6 FHD
-http://iptv2020.ddns.net:25461/J6901066/TfFGuag/219621
-#EXTINF:-1,ALQUILER 2 FHD
-http://iptv2020.ddns.net:25461/J6901066/TfFGuag/219622
-#EXTINF:-1,M. ACCION FHD
-http://iptv2020.ddns.net:25461/J6901066/TfFGuag/142408
-#EXTINF:-1,M. ACCION SD
-http://iptv2020.ddns.net:25461/J6901066/TfFGuag/148833
-#EXTINF:-1,M. CINE Ñ SD
-http://iptv2020.ddns.net:25461/J6901066/TfFGuag/148853
-#EXTINF:-1,M. COMEDIA FHD
-http://iptv2020.ddns.net:25461/J6901066/TfFGuag/142409
-#EXTINF:-1,M. COMEDIA SD
-http://iptv2020.ddns.net:25461/J6901066/TfFGuag/148848
- #EXTINF:-1,M. CLASICOS HD
-http://iptv2020.ddns.net:25461/J6901066/TfFGuag/223644
-#EXTINF:-1,HARRY POTTER HD
-http://46.4.102.86/harrypotter/index.m3u8
 #EXTINF:-1,Sky Cinema Premiere FHD
 http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/692633
 #EXTINF:-1,Sky Cinema Select FHD
@@ -327,24 +167,6 @@ http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/692423
 http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/692426
 #EXTINF:-1,Sky Cinema Drama FHD
 http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/692427
-#EXTINF:-1,Primafila 01
-http://iptvtree.net:8080/f3ea1996/6642bcfdd7/7895
-#EXTINF:-1,Primafila 02
-http://iptvtree.net:8080/f3ea1996/6642bcfdd7/2017
-#EXTINF:-1,Primafila 03
-http://iptvtree.net:8080/f3ea1996/6642bcfdd7/83439
-#EXTINF:-1,Primafila 04
-http://iptvtree.net:8080/f3ea1996/6642bcfdd7/932
-#EXTINF:-1,Primafila 05
-http://iptvtree.net:8080/f3ea1996/6642bcfdd7/933
-#EXTINF:-1,Primafila 06
-http://iptvtree.net:8080/f3ea1996/6642bcfdd7/2013
-#EXTINF:-1,Primafila 07
-http://iptvtree.net:8080/f3ea1996/6642bcfdd7/937
-#EXTINF:-1,Primafila 08
-http://iptvtree.net:8080/f3ea1996/6642bcfdd7/938
-#EXTINF:-1,Primafila 09
-http://iptvtree.net:8080/f3ea1996/6642bcfdd7/2016
 #EXTINF:-0 group-title="SHQIP 🌍 PLANET DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",BBC LIBERTY
 http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/15108/index.m3u8
 #EXTINF:-1,DISCOVERY INVESTIGATION
