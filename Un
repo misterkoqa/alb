@@ -319,16 +319,28 @@ http://185.204.32.37:8811/TringSport5/index.m3u8
 http://185.204.32.37:8811/TringSport6/index.m3u8
 #EXTINF:-0 group-title="ITALIA TV DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",RAI NEWS HD
 https://streamcdnr15-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
-#EXTINF:-1,Rai 1 HD
-http://37.18.239.37:8000/play/a00i/index.m3u8
-#EXTINF:-1,Rai 2 HD
-http://37.18.239.37:8000/play/a01p/index.m3u8
-#EXTINF:-1,Rai 3 HD
-http://37.18.239.37:8000/play/a02f/index.m3u8
-#EXTINF:-1,RAI 4 HD
-http://37.18.239.37:8000/play/a01r/index.m3u8
-#EXTINF:-1,RAI 5 HD
-http://37.18.239.37:8000/play/a01s/index.m3u8
+#EXTINF:-1,RAI 1
+http://balkan-x.net:80/STARTavdQpbanj7EVE/CP3YtDH97BS4jVumDSJwWdADZCzFAPPW/880
+#EXTINF:-1,RAI 2
+http://balkan-x.net:80/STARTavdQpbanj7EVE/CP3YtDH97BS4jVumDSJwWdADZCzFAPPW/881
+#EXTINF:-1,RAI 3
+http://balkan-x.net:80/STARTavdQpbanj7EVE/CP3YtDH97BS4jVumDSJwWdADZCzFAPPW/882
+#EXTINF:-1,RAI 4
+http://balkan-x.net:80/STARTavdQpbanj7EVE/CP3YtDH97BS4jVumDSJwWdADZCzFAPPW/883
+#EXTINF:-1,RAI 5
+http://balkan-x.net:80/STARTavdQpbanj7EVE/CP3YtDH97BS4jVumDSJwWdADZCzFAPPW/884
+#EXTINF:-1,RAI GULP
+http://balkan-x.net:80/STARTavdQpbanj7EVE/CP3YtDH97BS4jVumDSJwWdADZCzFAPPW/885
+#EXTINF:-1,RAI YOYO
+http://balkan-x.net:80/STARTavdQpbanj7EVE/CP3YtDH97BS4jVumDSJwWdADZCzFAPPW/886
+#EXTINF:-1,RAI NEWS 24
+http://balkan-x.net:80/STARTavdQpbanj7EVE/CP3YtDH97BS4jVumDSJwWdADZCzFAPPW/887
+#EXTINF:-1,RAI PREMIUM
+http://balkan-x.net:80/STARTavdQpbanj7EVE/CP3YtDH97BS4jVumDSJwWdADZCzFAPPW/888
+#EXTINF:-1,RAI MOVIE
+http://balkan-x.net:80/STARTavdQpbanj7EVE/CP3YtDH97BS4jVumDSJwWdADZCzFAPPW/889
+#EXTINF:-1,RAI STORIA
+http://balkan-x.net:80/STARTavdQpbanj7EVE/CP3YtDH97BS4jVumDSJwWdADZCzFAPPW/37367
 #EXTINF:-1,CANALE 5 HD
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(c5)/index.m3u8
 #EXTINF:-1,ITALIA 1 HD
