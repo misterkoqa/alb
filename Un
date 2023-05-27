@@ -6,21 +6,21 @@ http://163.172.90.173:25461/MosVjedh/TqifshaRRACEN/61
 #EXTINF:-1,TOP CHANNEL HD
 http://homeuser22.hopto.me:22333/live?cId=1529&uid=1690&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
 #EXTINF:-1,TOP CHANNEL
-http://www.premiumiptvmk.com:8080/atlantis/8afa51be3b/1311
+http://89.187.191.99:8080/topchannel/mpegts?token=test
 #EXTINF:-1,VIZION PLUS HD
 http://95.107.132.106/out/u/646_1.m3u8
 #EXTINF:-1,VIZION PLUS
-http://www.premiumiptvmk.com:8080/atlantis/8afa51be3b/1299
+http://89.187.191.99:8080/vizionplus/mpegts?token=test
 #EXTINF:-1,Klan HD
 http://balkan-x.net:80/STARTavdQpbanj7EVE/CP3YtDH97BS4jVumDSJwWdADZCzFAPPW/1026
 #EXTINF:-1,KLAN
-http://www.premiumiptvmk.com:8080/atlantis/8afa51be3b/1853
+http://89.187.191.99:8080/klantv/mpegts?token=test
 #EXTINF:-1,Klan Plus HD
 http://balkan-x.net:80/STARTavdQpbanj7EVE/CP3YtDH97BS4jVumDSJwWdADZCzFAPPW/1027
 #EXTINF:-1,KLAN PLUS
-http://www.premiumiptvmk.com:8080/atlantis/8afa51be3b/2562
+http://89.187.191.99:8080/klanplus/mpegts?token=test
 #EXTINF:-1,KLAN KOSOVA
-http://www.premiumiptvmk.com:8080/atlantis/8afa51be3b/2561
+http://89.187.191.99:8080/klankosova/mpegts?token=test
 #EXTINF:-1,ALSAT M
 http://37.49.230.42:8080/8228218d/5b5e7d0577/1346
 #EXTINF:-1,BALKANIKA HD
