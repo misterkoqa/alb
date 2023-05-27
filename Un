@@ -226,11 +226,11 @@ http://79.106.90.124:5151/live/klanhdott/playlist.m3u8
 #EXTINF:-1,Klan Plus
 http://79.106.90.124:5151/live/klanplusott/playlist.m3u8
 #EXTINF:-1,TOP CHANNEL HD
-http://185.204.32.37:8811/topchannel/index.m3u8
+http://88.214.16.14:9000/topchannel
 #EXTINF:-1,VIZION PLUS HD
-http://185.204.32.37:8811/VizionPlus/index.m3u8
+http://88.214.16.14:9000/vizionplus
 #EXTINF:-1,ALSAT M
-http://185.204.32.37:8811/AlsatM/index.m3u8
+http://88.214.16.14:9000/alsatm
 #EXTINF:-1,ABC
 http://79.106.90.124:5151/live/abcnewsott/playlist.m3u8
 #EXTINF:-1,RTV Ora
