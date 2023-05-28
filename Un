@@ -183,6 +183,14 @@ http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/692423
 http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/692426
 #EXTINF:-1,Sky Cinema Drama FHD
 http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/692427
+#EXTINF:-1,Premiere 1HD
+http://168.119.255.170/1651/video.m3u8?token=X3ea770e83
+#EXTINF:-1,Premiere 2HD
+http://168.119.255.170/1652/video.m3u8?token=X3ea770e83
+#EXTINF:-1,Premiere 3HD
+http://168.119.255.170/1653/video.m3u8?token=X3ea770e83
+#EXTINF:-1,Premiere 4HD
+http://168.119.255.170/1654/video.m3u8?token=X3ea770e83
 #EXTINF:-0 group-title="SHQIP 🌍 PLANET DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",BBC LIBERTY
 http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/15108/index.m3u8
 #EXTINF:-1,DISCOVERY INVESTIGATION
