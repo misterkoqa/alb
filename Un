@@ -23,6 +23,8 @@ http://89.187.191.99:8080/klanplus/mpegts?token=test
 http://89.187.191.99:8080/klankosova/mpegts?token=test
 #EXTINF:-1,ALSAT M
 http://89.187.191.99:8080/alsatm/mpegts?token=test
+#EXTINF:-1,TV JOHANITER
+http://80.78.70.1:7773/play/a02m/index.m3u8
 #EXTINF:-1,BALKANIKA HD
 http://85.118.86.177:5002/Balkanika
 #EXTINF:-1,FEN TV HD
