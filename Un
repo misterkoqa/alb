@@ -10,7 +10,7 @@ http://89.187.191.99:8080/topchannel/mpegts?token=test
 #EXTINF:-1,VIZION PLUS HD
 http://95.107.132.106/out/u/646_1.m3u8
 #EXTINF:-1,VIZION PLUS
-http://89.187.191.99:8080/vizionplus/mpegts?token=test
+http://89.187.191.99:8080/visionplus/mpegts?token=test
 #EXTINF:-1,Klan HD
 http://balkan-x.net:80/STARTavdQpbanj7EVE/CP3YtDH97BS4jVumDSJwWdADZCzFAPPW/1026
 #EXTINF:-1,KLAN
@@ -22,7 +22,7 @@ http://89.187.191.99:8080/klanplus/mpegts?token=test
 #EXTINF:-1,KLAN KOSOVA
 http://89.187.191.99:8080/klankosova/mpegts?token=test
 #EXTINF:-1,ALSAT M
-http://37.49.230.42:8080/8228218d/5b5e7d0577/1346
+http://89.187.191.99:8080/alsatm/mpegts?token=test
 #EXTINF:-1,BALKANIKA HD
 http://85.118.86.177:5002/Balkanika
 #EXTINF:-1,FEN TV HD
