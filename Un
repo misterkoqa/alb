@@ -441,9 +441,3 @@ http://37.18.239.37:8000/play/a01x/index.m3u8
 http://37.18.239.37:8000/play/a01t/index.m3u8
 #EXTINF:-1,RAI SPORT 
 http://37.18.239.37:8000/play/a02e/index.m3u8
-#EXTINF:-0 group-title="RADIO SHQIP DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",TOP ALBANIA RADIO
-https://www.topalbaniaradio.com/v7/live/tar/
-#EXTINF:-1,TOP GOLD RADIO
-https://www.topalbaniaradio.com/v7/live/topgold/
-#EXTINF:-1,MY MUSIC RADIO
-https://www.topalbaniaradio.com/v7/live/mmr/
