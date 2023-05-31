@@ -47,6 +47,14 @@ http://185.183.35.121:8080/RtsHHDtAmAm1/index.m3u8
 http://185.183.35.121:8080/Rtshdysh2/index.m3u8
 #EXTINF:-1,RTSH 3
 http://185.183.35.121:8080/rTSHtREsh3/index.m3u8
+#EXTINF:-1,RTK 1HD
+https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxzq.m3u8
+#EXTINF:-1,RTK 2HD
+https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxz0.m3u8
+#EXTINF:-1,RTK 3HD
+https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxzk.m3u8
+#EXTINF:-1,RTK 4HD
+https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxgt.m3u8
 #EXTINF:-1,BALKANIKA HD
 http://85.118.86.177:5002/Balkanika
 #EXTINF:-1,FEN TV HD
