@@ -25,6 +25,8 @@ http://89.187.191.99:8080/klankosova/mpegts?token=test
 http://89.187.191.99:8080/alsatm/mpegts?token=test
 #EXTINF:-1,TV JOHANITER
 https://protokolldns.xyz/tvjohaniterlivetsss/index.m3u8
+#EXTINF:-1,RTV KOHA
+https://ssh101.bozztv.com/ssh101/rtvkohahd/chunks.m3u8
 #EXTINF:-1,Top Channel
 http://185.183.35.121:8080/tpcHhdJa/index.m3u8
 #EXTINF:-1,Klan TV
