@@ -27,6 +27,8 @@ http://89.187.191.99:8080/alsatm/mpegts?token=test
 https://protokolldns.xyz/tvjohaniterlivetsss/index.m3u8
 #EXTINF:-1,RTV KOHA
 https://ssh101.bozztv.com/ssh101/rtvkohahd/chunks.m3u8
+#EXTINF:-1,SITI SHQIP
+https://vs1.sednastream.com:1936/sitishqip/sitishqip/playlist.m3u8
 #EXTINF:-1,Top Channel
 http://185.183.35.121:8080/tpcHhdJa/index.m3u8
 #EXTINF:-1,Klan TV
