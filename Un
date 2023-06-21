@@ -85,28 +85,6 @@ http://212.224.84.202:2200/ALB-EX/OverSport2_HD_AL-alb/tracks-v1a1/mono.m3u8?tok
 http://212.224.84.202:2200/ALB-EX/OverSport3_HD_AL-alb/tracks-v1a1/mono.m3u8?token=null%7CUser-Agent=Rediptv%20Plus%202.0.17
 #EXTINF:-1,OVERSPORT 4HD
 http://212.224.84.202:2200/ALB-EX/OverSport4_HD_AL-alb/tracks-v1a1/mono.m3u8?token=null%7CUser-Agent=Rediptv%20Plus%202.0.17
-#EXTINF:-1,SS-1HD
-http://homeuser22.hopto.me:22333/live?cId=1609&uid=1690&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
-#EXTINF:-1,SS-2HD
-http://homeuser22.hopto.me:22333/live?cId=1587&uid=1690&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
-#EXTINF:-1,SS-3HD
-http://homeuser22.hopto.me:22333/live?cId=1588&uid=1690&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
-#EXTINF:-1,SS-4HD
-http://homeuser22.hopto.me:22333/live?cId=1589&uid=1690&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
-#EXTINF:-1,TS-NEWS
-http://homeuser22.hopto.me:22333/live?cId=1594&uid=1690&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
-#EXTINF:-1,TS-1HD
-http://homeuser22.hopto.me:22333/live?cId=1595&uid=1690&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
-#EXTINF:-1,TS-2HD
-http://homeuser22.hopto.me:22333/live?cId=1596&uid=1690&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
-#EXTINF:-1,TS-3HD
-http://homeuser22.hopto.me:22333/live?cId=1597&uid=1690&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
-#EXTINF:-1,TS-4HD
-http://homeuser22.hopto.me:22333/live?cId=1598&uid=1690&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
-#EXTINF:-1,Setanta Sports 1HD
-http://49.12.133.216:8000/play/a001/index.m3u8
-#EXTINF:-1,Setanta Sports 2HD
-http://49.12.133.216:8000/play/a003/index.m3u8
 #EXTINF:-1,МАТЧ Футбол 1 HD
 http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1,МАТЧ Футбол 2 HD
@@ -137,32 +115,12 @@ http://mwy2tky6.akciatv.ru/iptv/ZP6CPSLL6GVWT2/2388/index.m3u8
 http://mwy2tky6.akciatv.ru/iptv/ZP6CPSLL6GVWT2/2389/index.m3u8
 #EXTINF:-1, SPORT 5 HD
 http://mwy2tky6.akciatv.ru/iptv/ZP6CPSLL6GVWT2/2391/index.m3u8
-#EXTINF:-1,DIGI SPORT 1
-http://balkan-x.net:80/STARTavdQpbanj7EVE/CP3YtDH97BS4jVumDSJwWdADZCzFAPPW/656
-#EXTINF:-1,DIGI SPORT 2
-http://balkan-x.net:80/STARTavdQpbanj7EVE/CP3YtDH97BS4jVumDSJwWdADZCzFAPPW/657
-#EXTINF:-1,DIGI SPORT 3
-http://balkan-x.net:80/STARTavdQpbanj7EVE/CP3YtDH97BS4jVumDSJwWdADZCzFAPPW/658
-#EXTINF:-1,DIGI SPORT 4
-http://balkan-x.net:80/STARTavdQpbanj7EVE/CP3YtDH97BS4jVumDSJwWdADZCzFAPPW/659
 #EXTINF:-1,SPORT ITALIA HD
 https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
 #EXTINF:-1,GOLD SPORT HD
 https://stream2.xdevel.com/video1s86-22/stream/playlist_dvr.m3u8
 #EXTINF:-1,INTER HD
 https://open.http.mp.streamamg.com/p/3001560/sp/300156000/playManifest/entryId/0_xmkk2kjr/flavorIds/0_zlbr85f8,0_zlbr85f8,0_noewhew2/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-1,ARENA SPORT 1HD
-http://89.187.191.99:8080/arena1/mpegts?token=test
-#EXTINF:-1,ARENA SPORT 2HD
-http://89.187.191.99:8080/arena2/mpegts?token=test
-#EXTINF:-1,ARENA SPORT 3HD
-http://89.187.191.99:8080/arena3/mpegts?token=test
-#EXTINF:-1,ARENA SPORT 4HD
-http://89.187.191.99:8080/arena4/mpegts?token=test
-#EXTINF:-1,ARENA SPORT 5HD
-http://89.187.191.99:8080/arena5/mpegts?token=test
-#EXTINF:-1,WWE CHANNEL
-http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/60941
 #EXTINF:-1,beIN SPORTS 1
 http://volkserver.com:80/077154156955709/53247452769C/71
 #EXTINF:-1,beIN SPORTS 2
