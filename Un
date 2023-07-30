@@ -327,6 +327,38 @@ https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 #EXTINF:-1,STAR HD
 https://startv.blutv.com/blutv_startv_live/live.m3u8
+#EXTINF:-1,Over Sport 1 HD
+http://premium-ks.ddns.net:88/muminiptv/FRQT2rUpXv/46984
+#EXTINF:-1,Over Sport 2 HD
+http://premium-ks.ddns.net:88/muminiptv/FRQT2rUpXv/46985
+#EXTINF:-1,Over Sport 3 HD
+http://premium-ks.ddns.net:88/muminiptv/FRQT2rUpXv/46986
+#EXTINF:-1,Over Sport 4 HD
+http://premium-ks.ddns.net:88/muminiptv/FRQT2rUpXv/46987
+#EXTINF:-1,Super Sport 1 HD
+http://premium-ks.ddns.net:88/muminiptv/FRQT2rUpXv/33493
+#EXTINF:-1,Super Sport 2 HD
+http://premium-ks.ddns.net:88/muminiptv/FRQT2rUpXv/33494
+#EXTINF:-1,Super Sport 3 HD
+http://premium-ks.ddns.net:88/muminiptv/FRQT2rUpXv/33495
+#EXTINF:-1,Super Sport 4 HD
+http://premium-ks.ddns.net:88/muminiptv/FRQT2rUpXv/33496
+#EXTINF:-1,Kujtesa 1 HD
+http://premium-ks.ddns.net:88/muminiptv/FRQT2rUpXv/33498
+#EXTINF:-1,Kujtesa 2 HD
+http://premium-ks.ddns.net:88/muminiptv/FRQT2rUpXv/33499
+#EXTINF:-1,Kujtesa 3 HD
+http://premium-ks.ddns.net:88/muminiptv/FRQT2rUpXv/33500
+#EXTINF:-1,Tring Sport News HD
+http://premium-ks.ddns.net:88/muminiptv/FRQT2rUpXv/33503
+#EXTINF:-1,Tring Sport 1 HD
+http://premium-ks.ddns.net:88/muminiptv/FRQT2rUpXv/33504
+#EXTINF:-1,Tring Sport 2 HD
+http://premium-ks.ddns.net:88/muminiptv/FRQT2rUpXv/33505
+#EXTINF:-1,Tring Sport 3 HD
+http://premium-ks.ddns.net:88/muminiptv/FRQT2rUpXv/33506
+#EXTINF:-1,Tring Sport 4 HD
+http://premium-ks.ddns.net:88/muminiptv/FRQT2rUpXv/33507
 #EXTINF:-0 group-title="ITALIA TV DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",RAI NEWS HD
 https://streamcdnr15-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 #EXTINF:-1,RAI 1
