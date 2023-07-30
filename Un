@@ -263,12 +263,10 @@ http://localiptv62000.from-ok.com:9000/live:domeneprojekat/gzliiQzDPI/95
 http://79.106.90.124:5151/live/klanhdott/playlist.m3u8
 #EXTINF:-1,Klan Plus
 http://79.106.90.124:5151/live/klanplusott/playlist.m3u8
-#EXTINF:-1,TOP CHANNEL HD
-http://89.39.106.21:8080/ToPCHAnneLsfaf/index.m3u8?
-#EXTINF:-1,VIZION PLUS HD
-http://89.39.106.21:8080/ViziONPluSfsf/index.m3u8?
-#EXTINF:-1,ALSAT M
-http://89.39.106.21:8080/AlsaTsfasf/index.m3u8?
+#EXTINF:-1,A2 CNN
+https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
+#EXTINF:-1,CNA HD
+https://live1.mediadesk.al/cnatvlive.m3u8
 #EXTINF:-1,ABC
 http://79.106.90.124:5151/live/abcnewsott/playlist.m3u8
 #EXTINF:-1,RTV Ora
@@ -315,24 +313,10 @@ https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uh
 http://142.132.136.139:8000/play/a003/index.m3u8
 #EXTINF:-1,NESER TV
 https://protokolldns.xyz/ntv/livestream9956544786625444/tracks-v1a1/mono.m3u8
-#EXTINF:-1,REAL HD
-https://protokolldns.xyz/r.e.a.l.w.e.b/tracks-v1a1/mono.m3u8
 #EXTINF:-1,FX MEDIA
 https://protokolldns.xyz/fxmediaweb5548/index.m3u8
-#EXTINF:-1,ERA TV
-https://mfe01.tring.al/delta/106/out/u/1039_2.m3u8
-#EXTINF:-1,SYRI HD
-https://stream.syritv.al/out/u/47_2.m3u8
-#EXTINF:-1,A2 CNN
-https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/chunklist_w296230226_b2128000_slalb.m3u8
-#EXTINF:-1,RTV Ora
-http://95.107.132.105/out/u/343_1.m3u8
-#EXTINF:-1,Fax News
-http://95.107.132.105/out/u/228_1.m3u8
 #EXTINF:-1,Report Tv HD
 https://deb10stream.duckdns.org/hls/stream.m3u8
-#EXTINF:-1,Ora News HD
-http://95.107.132.105/out/u/521_2.m3u8
 #EXTINF:-1,ATV HD
 https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
 #EXTINF:-1,FOX HD
@@ -343,58 +327,9 @@ https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 #EXTINF:-1,STAR HD
 https://startv.blutv.com/blutv_startv_live/live.m3u8
-#EXTINF:-1,SUPER SPORT 1HD
-http://185.204.32.37:8811/SS1/index.m3u8
-#EXTINF:-1,SUPER SPORT 2HD
-http://185.204.32.37:8811/SS2/index.m3u8
-#EXTINF:-1,SUPER SPORT 3HD
-http://185.204.32.37:8811/SS3/index.m3u8
-#EXTINF:-1,SUPER SPORT 4HD
-http://185.204.32.37:8811/SS4/index.m3u8
-#EXTINF:-1,OVER SPORT NEWS
-http://185.204.32.37:8811/SS5/index.m3u8
-#EXTINF:-1,OVER SPORT 1HD
-http://185.204.32.37:8811/SS6/index.m3u8
-#EXTINF:-1,OVER SPORT 2HD
-http://185.204.32.37:8811/SS7/index.m3u8
-#EXTINF:-1,OVER SPORT 3HD
-http://185.204.32.37:8811/SS8/index.m3u8
-#EXTINF:-1,TRING SPORT 1HD
-http://185.204.32.37:8811/TringSport1/index.m3u8
-#EXTINF:-1,Tring Sport 2HD
-http://185.204.32.37:8811/TringSport2/index.m3u8
-#EXTINF:-1,Tring Sport 3HD
-http://185.204.32.37:8811/TringSport3/index.m3u8
-#EXTINF:-1,Tring Sport 4HD
-http://185.204.32.37:8811/TringSport4/index.m3u8
-#EXTINF:-1,Tring Sport 5HD
-http://185.204.32.37:8811/TringSport5/index.m3u8
-#EXTINF:-1,Tring Sport 6HD
-http://185.204.32.37:8811/TringSport6/index.m3u8
 #EXTINF:-0 group-title="ITALIA TV DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",RAI NEWS HD
 https://streamcdnr15-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 #EXTINF:-1,RAI 1
-http://balkan-x.net:80/STARTavdQpbanj7EVE/CP3YtDH97BS4jVumDSJwWdADZCzFAPPW/880
-#EXTINF:-1,RAI 2
-http://balkan-x.net:80/STARTavdQpbanj7EVE/CP3YtDH97BS4jVumDSJwWdADZCzFAPPW/881
-#EXTINF:-1,RAI 3
-http://balkan-x.net:80/STARTavdQpbanj7EVE/CP3YtDH97BS4jVumDSJwWdADZCzFAPPW/882
-#EXTINF:-1,RAI 4
-http://balkan-x.net:80/STARTavdQpbanj7EVE/CP3YtDH97BS4jVumDSJwWdADZCzFAPPW/883
-#EXTINF:-1,RAI 5
-http://balkan-x.net:80/STARTavdQpbanj7EVE/CP3YtDH97BS4jVumDSJwWdADZCzFAPPW/884
-#EXTINF:-1,RAI GULP
-http://balkan-x.net:80/STARTavdQpbanj7EVE/CP3YtDH97BS4jVumDSJwWdADZCzFAPPW/885
-#EXTINF:-1,RAI YOYO
-http://balkan-x.net:80/STARTavdQpbanj7EVE/CP3YtDH97BS4jVumDSJwWdADZCzFAPPW/886
-#EXTINF:-1,RAI NEWS 24
-http://balkan-x.net:80/STARTavdQpbanj7EVE/CP3YtDH97BS4jVumDSJwWdADZCzFAPPW/887
-#EXTINF:-1,RAI PREMIUM
-http://balkan-x.net:80/STARTavdQpbanj7EVE/CP3YtDH97BS4jVumDSJwWdADZCzFAPPW/888
-#EXTINF:-1,RAI MOVIE
-http://balkan-x.net:80/STARTavdQpbanj7EVE/CP3YtDH97BS4jVumDSJwWdADZCzFAPPW/889
-#EXTINF:-1,RAI STORIA
-http://balkan-x.net:80/STARTavdQpbanj7EVE/CP3YtDH97BS4jVumDSJwWdADZCzFAPPW/37367
 #EXTINF:-1,CANALE 5 HD
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(c5)/index.m3u8
 #EXTINF:-1,ITALIA 1 HD
