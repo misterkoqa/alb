@@ -259,7 +259,15 @@ http://localiptv62000.from-ok.com:9000/live:domeneprojekat/gzliiQzDPI/93
 http://localiptv62000.from-ok.com:9000/live:domeneprojekat/gzliiQzDPI/94
 #EXTINF:-1,BEIN SPORT 3HD
 http://localiptv62000.from-ok.com:9000/live:domeneprojekat/gzliiQzDPI/95
-#EXTINF:-0 group-title="SHQIP TV DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",Klan TV
+#EXTINF:-0 group-title="SHQIP TV DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",Top Channel
+http://185.183.35.121:8080/tpcHhdJa/index.m3u8
+#EXTINF:-1,Klan TV
+http://185.183.35.121:8080/KlANsfjsljfp/index.m3u8
+#EXTINF:-1,Klan Plus
+http://185.183.35.121:8080/KlanPlusfhsifh/index.m3u8
+#EXTINF:-1,Vizion Plus
+http://185.183.35.121:8080/VizIOnPlUSsfj/index.m3u8
+#EXTINF:-1,Klan TV
 http://79.106.90.124:5151/live/klanhdott/playlist.m3u8
 #EXTINF:-1,Klan Plus
 http://79.106.90.124:5151/live/klanplusott/playlist.m3u8
