@@ -374,6 +374,13 @@ http://premium-ks.ddns.net:88/muminiptv/FRQT2rUpXv/33507
 #EXTINF:-0 group-title="ITALIA TV DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",RAI NEWS HD
 https://streamcdnr15-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 #EXTINF:-1,RAI 1
+http://142.132.151.149/RAI1/index.m3u8
+#EXTINF:-1,RAI 2
+http://142.132.151.149/RAI2/index.m3u8
+#EXTINF:-1,RAI 3
+http://142.132.151.149/RAI3/index.m3u8
+#EXTINF:-1,RAI 4
+http://142.132.151.149/RAI4/index.m3u8
 #EXTINF:-1,CANALE 5 HD
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(c5)/index.m3u8
 #EXTINF:-1,ITALIA 1 HD
