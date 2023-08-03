@@ -275,6 +275,8 @@ http://79.106.90.124:5151/live/klanplusott/playlist.m3u8
 https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
 #EXTINF:-1,CNA HD
 https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF:-1,EURONEWS ALBANIA
+https://ythls.onrender.com/channel/UChR-A__NS_C5kHDWj3PeAhw.m3u8
 #EXTINF:-1,ABC
 http://79.106.90.124:5151/live/abcnewsott/playlist.m3u8
 #EXTINF:-1,RTV Ora
