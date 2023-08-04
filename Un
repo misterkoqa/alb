@@ -121,46 +121,6 @@ https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
 https://stream2.xdevel.com/video1s86-22/stream/playlist_dvr.m3u8
 #EXTINF:-1,INTER HD
 https://open.http.mp.streamamg.com/p/3001560/sp/300156000/playManifest/entryId/0_xmkk2kjr/flavorIds/0_zlbr85f8,0_zlbr85f8,0_noewhew2/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-1,beIN SPORTS 1
-http://volkserver.com:80/077154156955709/53247452769C/71
-#EXTINF:-1,beIN SPORTS 2
-http://volkserver.com:80/077154156955709/53247452769C/72
-#EXTINF:-1,beIN SPORTS 3
-http://volkserver.com:80/077154156955709/53247452769C/73
-#EXTINF:-1,beIN SPORTS 4
-http://volkserver.com:80/077154156955709/53247452769C/74
-#EXTINF:-1,beIN SPORTS 5
-http://volkserver.com:80/077154156955709/53247452769C/75
-#EXTINF:-1,beIN SPORTS 6
-http://volkserver.com:80/077154156955709/53247452769C/76
-#EXTINF:-1,beIN SPORTS 7
-http://volkserver.com:80/077154156955709/53247452769C/77
-#EXTINF:-1,Rtsh Sport HD
-http://185.204.32.37:8811/rtshsport/index.m3u8
-#EXTINF:-1,Tring Sport 1HD
-http://89.187.191.99:8080/tringsport1/mpegts?token=test
-#EXTINF:-1,Tring Sport 2HD
-http://89.187.191.99:8080/tringsport2/mpegts?token=test
-#EXTINF:-1,Tring Sport 3HD
-http://89.187.191.99:8080/tringsport3/mpegts?token=test
-#EXTINF:-1,Super Sport 1HD
-http://89.187.191.99:8080/ss1hd/mpegts?token=test
-#EXTINF:-1,Super Sport 2HD
-http://89.187.191.99:8080/ss2hd/mpegts?token=test
-#EXTINF:-1,Super Sport 3HD
-http://89.187.191.99:8080/ss3hd/mpegts?token=test
-#EXTINF:-1,Super Sport 4HD
-http://89.187.191.99:8080/ss4hd/mpegts?token=test
-#EXTINF:-1,Super Sport 5HD
-http://89.187.191.99:8080/ss5hd/mpegts?token=test
-#EXTINF:-1,OVER SPORT 1HD
-http://88.214.19.82:35038/
-#EXTINF:-1,OVER SPORT 2HD
-http://88.214.19.82:35039/
-#EXTINF:-1,OVER SPORT 3HD
-http://88.214.19.82:35040/
-#EXTINF:-1,OVER SPORT 4HD
-http://88.214.19.82:35041/
 #EXTINF:-0 group-title="SHQIP FILMA DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",Max Select 1 FHD HR
 http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/20035
 #EXTINF:-1,Max Select 2 FHD HR
@@ -207,21 +167,7 @@ http://168.119.255.170/1652/video.m3u8?token=X3ea770e83
 http://168.119.255.170/1653/video.m3u8?token=X3ea770e83
 #EXTINF:-1,Premiere 4HD
 http://168.119.255.170/1654/video.m3u8?token=X3ea770e83
-#EXTINF:-0 group-title="SHQIP 🌍 PLANET DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",BBC LIBERTY
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/15108/index.m3u8
-#EXTINF:-1,DISCOVERY INVESTIGATION
-http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=683088&extension=m3u8&play_token=xdbt7BgLik
-#EXTINF:-1,DISCOVERY SCIENCE
-https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL
-http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=683089&extension=m3u8&play_token=xdbt7BgLik
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=683086&extension=m3u8&play_token=xdbt7BgLik
-#EXTINF:-1,NAT GEO WILD
-https://kusnadipepenk.github.io/ntn/wild.m3u8
-#EXTINF:-1,ANIMAL PLANET
-https://kusnadipepenk.github.io/ntn/animal.m3u8
-#EXTINF:-1 ,Animal Planet
+#EXTINF:-0 group-title="SHQIP 🌍 PLANET DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",Animal Planet
 http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/92950.ts
 #EXTINF:-1 ,Discovery Channel
 http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93027.ts
@@ -253,12 +199,6 @@ http://94.250.2.6:7374/play/a02n/index.m3u8
 http://94.250.2.6:7374/play/a02o/index.m3u8
 #EXTINF:-1,Arena Sport 4HD
 http://94.250.2.6:7374/play/a012/index.m3u8
-#EXTINF:-1,BEIN SPORT 1HD
-http://localiptv62000.from-ok.com:9000/live:domeneprojekat/gzliiQzDPI/93
-#EXTINF:-1,BEIN SPORT 2HD
-http://localiptv62000.from-ok.com:9000/live:domeneprojekat/gzliiQzDPI/94
-#EXTINF:-1,BEIN SPORT 3HD
-http://localiptv62000.from-ok.com:9000/live:domeneprojekat/gzliiQzDPI/95
 #EXTINF:-0 group-title="SHQIP TV DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",Top Channel
 http://185.183.35.121:8080/tpcHhdJa/index.m3u8
 #EXTINF:-1,Klan TV
