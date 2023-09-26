@@ -77,14 +77,6 @@ http://185.236.229.31:9981/play/a00m
 http://185.236.229.31:9981/play/a00n
 #EXTINF:-1,BALKANIKA HD
 http://85.223.221.130:8000/play/a06o
-#EXTINF:-1,OVERSPORT 1HD
-http://212.224.84.202:2200/ALB-EX/OverSport1_HD_AL-alb/tracks-v1a1/mono.m3u8?token=null%7CUser-Agent=Rediptv%20Plus%202.0.17
-#EXTINF:-1,OVERSPORT 2HD
-http://212.224.84.202:2200/ALB-EX/OverSport2_HD_AL-alb/tracks-v1a1/mono.m3u8?token=null%7CUser-Agent=Rediptv%20Plus%202.0.17
-#EXTINF:-1,OVERSPORT 3HD
-http://212.224.84.202:2200/ALB-EX/OverSport3_HD_AL-alb/tracks-v1a1/mono.m3u8?token=null%7CUser-Agent=Rediptv%20Plus%202.0.17
-#EXTINF:-1,OVERSPORT 4HD
-http://212.224.84.202:2200/ALB-EX/OverSport4_HD_AL-alb/tracks-v1a1/mono.m3u8?token=null%7CUser-Agent=Rediptv%20Plus%202.0.17
 #EXTINF:-1,МАТЧ Футбол 1 HD
 http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1,МАТЧ Футбол 2 HD
@@ -121,45 +113,7 @@ https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
 https://stream2.xdevel.com/video1s86-22/stream/playlist_dvr.m3u8
 #EXTINF:-1,INTER HD
 https://open.http.mp.streamamg.com/p/3001560/sp/300156000/playManifest/entryId/0_xmkk2kjr/flavorIds/0_zlbr85f8,0_zlbr85f8,0_noewhew2/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-0 group-title="SHQIP FILMA DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",Max Select 1 FHD HR
-http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/20035
-#EXTINF:-1,Max Select 2 FHD HR
-http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/20034
-#EXTINF:-1,Max Select 3 FHD HR
-http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/20033
-#EXTINF:-1,Max Select 4 FHD HR
-http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/20032
-#EXTINF:-1,Max Select 5 FHD HR
-http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/20031
-#EXTINF:-1,Max Select 6 FHD HR
-http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/20030
-#EXTINF:-1,Max Select 7 FHD HR
-http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/20029
-#EXTINF:-1,Max Select 8 FHD HR
-http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/20028
-#EXTINF:-1,Max Select 9 FHD HR
-http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/20027
-#EXTINF:-1,Sky Cinema Premiere FHD
-http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/692633
-#EXTINF:-1,Sky Cinema Select FHD
-http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/692404
-#EXTINF:-1,Sky Cinema Hits FHD
-http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/692412
-#EXTINF:-1,Sky Cinema Greats FHD
-http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/692414
-#EXTINF:-1,Sky Cinema Animation FHD
-http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/692416
-#EXTINF:-1,Sky Cinema Family FHD
-http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/692417
-#EXTINF:-1,Sky Cinema Action FHD
-http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/692421
-#EXTINF:-1,Sky Cinema Comedy FHD
-http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/692423
-#EXTINF:-1,Sky Cinema Thriller FHD
-http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/692426
-#EXTINF:-1,Sky Cinema Drama FHD
-http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/692427
-#EXTINF:-1,Premiere 1HD
+#EXTINF:-0 group-title="SHQIP FILMA DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",Premiere 1HD
 http://168.119.255.170/1651/video.m3u8?token=X3ea770e83
 #EXTINF:-1,Premiere 2HD
 http://168.119.255.170/1652/video.m3u8?token=X3ea770e83
@@ -181,24 +135,6 @@ http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93031.ts
 https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_19.m3u8
 #EXTINF:-1 ,Animal Planet
 https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
-#EXTINF:-0 group-title="SHQIP SPORT DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",WWE WRESTLING HD
-http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/14404
-#EXTINF:-1,BT Sport 1 FHD
-http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/692280
-#EXTINF:-1,BT Sport 2 FHD
-http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/692282
-#EXTINF:-1,BT Sport 3 FHD
-http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/692284
-#EXTINF:-1,BT Sport 4 FHD
-http://flix12.site:80/0o7hpqtyi/9s3qjabt2t/692291
-#EXTINF:-1,Arena SPORT 1HD
-http://94.250.2.6:7374/play/a02m/index.m3u8
-#EXTINF:-1,Arena SPORT 2HD
-http://94.250.2.6:7374/play/a02n/index.m3u8
-#EXTINF:-1,Arena Sport 3HD
-http://94.250.2.6:7374/play/a02o/index.m3u8
-#EXTINF:-1,Arena Sport 4HD
-http://94.250.2.6:7374/play/a012/index.m3u8
 #EXTINF:-0 group-title="SHQIP TV DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",Top Channel
 http://185.183.35.121:8080/tpcHhdJa/index.m3u8
 #EXTINF:-1,Klan TV
