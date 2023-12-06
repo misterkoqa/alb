@@ -1,74 +1,17 @@
 #EXTM3U
-#EXTINF:-0 group-title="SHQIP REZART DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",TOP CHANNEL
-http://89.187.191.99:8080/topchannel/mpegts?token=test
-#EXTINF:-1,VIZION PLUS
-http://89.187.191.99:8080/visionplus/mpegts?token=test
-#EXTINF:-1,KLAN
-http://89.187.191.99:8080/klantv/mpegts?token=test
-#EXTINF:-1,KLAN PLUS
-http://89.187.191.99:8080/klanplus/mpegts?token=test
-#EXTINF:-1,KLAN KOSOVA
-http://89.187.191.99:8080/klankosova/mpegts?token=test
-#EXTINF:-1,ALSAT M
-http://89.187.191.99:8080/alsatm/mpegts?token=test
+#EXTINF:-0 group-title="SHQIP R&D 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",TOP CHANNEL
+#EXTINF:-1,TOP CHANNEL HD
+http://130.0.24.6:2831/udp/238.51.51.108:5000
+#EXTINF:-1,VIZION PLUS HD
+http://130.0.24.6:2831/udp/239.101.40.17:2345
+#EXTINF:-1,KLAN HD
+http://130.0.24.6:2831/udp/228.50.50.101:30000
+#EXTINF:-1,KLAN PLUS HD
+http://130.0.24.6:2831/udp/228.50.50.102:30000
+#EXTINF:-1,KLAN NEWS HD
+http://130.0.24.6:2831/udp/228.50.50.103:30000
 #EXTINF:-1,TV JOHANITER
 https://protokolldns.xyz/tvjohaniterlivetsss/index.m3u8
-#EXTINF:-1,SITI SHQIP
-https://vs1.sednastream.com:1936/sitishqip/sitishqip/playlist.m3u8
-#EXTINF:-1,Top Channel
-http://185.183.35.121:8080/tpcHhdJa/index.m3u8
-#EXTINF:-1,Klan TV
-http://185.183.35.121:8080/KlANsfjsljfp/index.m3u8
-#EXTINF:-1,Klan Plus
-http://185.183.35.121:8080/KlanPlusfhsifh/index.m3u8
-#EXTINF:-1,Vizion Plus
-http://185.183.35.121:8080/VizIOnPlUSsfj/index.m3u8
-#EXTINF:-1,ABC
-http://185.183.35.121:8080/AbcNEws/index.m3u8
-#EXTINF:-1,RTV Ora
-http://185.183.35.121:8080/RtvORajfiahf/index.m3u8
-#EXTINF:-1,Syri TV
-http://185.183.35.121:8080/SyRItVsfhao/index.m3u8
-#EXTINF:-1,MCN TV
-http://185.183.35.121:8080/MCNdsdsfa/index.m3u8
-#EXTINF:-1,RTSH 1
-http://185.183.35.121:8080/RtsHHDtAmAm1/index.m3u8
-#EXTINF:-1,RTSH 2
-http://185.183.35.121:8080/Rtshdysh2/index.m3u8
-#EXTINF:-1,RTSH 3
-http://185.183.35.121:8080/rTSHtREsh3/index.m3u8
-#EXTINF:-1,RTK 1HD
-https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxzq.m3u8
-#EXTINF:-1,RTK 2HD
-https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxz0.m3u8
-#EXTINF:-1,RTK 3HD
-https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxzk.m3u8
-#EXTINF:-1,RTK 4HD
-https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxgt.m3u8
-#EXTINF:-1,ZICO TV
-https://ub1doy938d.gjirafa.net/live/mtAOO7iGIzVAs3PFPnAFubierryMwW3V/y1k0kk.m3u8
-#EXTINF:-1,TV ARTA
-https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/yt1q1x.m3u8
-#EXTINF:-1,BALKANIKA HD
-http://85.118.86.177:5002/Balkanika
-#EXTINF:-1,FEN TV HD
-http://85.118.86.177:5002/Fen
-#EXTINF:-1,PLANETA HD
-http://31.171.154.21:9898/play/PlanetaHD
-#EXTINF:-1,PLANETA HD
-http://94.139.206.219:6060/play/a01i/index.m3u8
-#EXTINF:-1,BALKANIKA HD
-http://94.139.206.219:6060/play/a036/index.m3u8
-#EXTINF:-1,FOLK PLUS
-http://95.107.132.105/out/u/212_1.m3u8
-#EXTINF:-1,SUPERSONIK TV
-http://kuchini.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/4098
-#EXTINF:-1,RSI 1HD
-http://185.236.229.31:9981/play/a00m
-#EXTINF:-1,RSI 2HD
-http://185.236.229.31:9981/play/a00n
-#EXTINF:-1,BALKANIKA HD
-http://85.223.221.130:8000/play/a06o
 #EXTINF:-1,МАТЧ Футбол 1 HD
 http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1,МАТЧ Футбол 2 HD
@@ -83,58 +26,6 @@ https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
 https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
 #EXTINF:-1, Sony Ten 4
 https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
-#EXTINF:-1,PRIMA SPORT 1
-http://94.53.216.13:9981/stream/channelid/2119101735?profile=pass
-#EXTINF:-1,PRIMA SPORT 2
-http://94.53.216.13:9981/stream/channelid/1796098648?profile=pass
-#EXTINF:-1,Prima Sport 3
-http://94.53.216.13:9981/stream/channelid/1042510375?profile=pass
-#EXTINF:-1, SPORT 1 HD
-http://mwy2tky6.akciatv.ru/iptv/ZP6CPSLL6GVWT2/2353/index.m3u8
-#EXTINF:-1, SPORT 2 HD
-http://mwy2tky6.akciatv.ru/iptv/ZP6CPSLL6GVWT2/2352/index.m3u8
-#EXTINF:-1, SPORT 3 HD
-http://mwy2tky6.akciatv.ru/iptv/ZP6CPSLL6GVWT2/2388/index.m3u8
-#EXTINF:-1, SPORT 4 HD
-http://mwy2tky6.akciatv.ru/iptv/ZP6CPSLL6GVWT2/2389/index.m3u8
-#EXTINF:-1, SPORT 5 HD
-http://mwy2tky6.akciatv.ru/iptv/ZP6CPSLL6GVWT2/2391/index.m3u8
-#EXTINF:-1,SPORT ITALIA HD
-https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
-#EXTINF:-1,GOLD SPORT HD
-https://stream2.xdevel.com/video1s86-22/stream/playlist_dvr.m3u8
-#EXTINF:-1,INTER HD
-https://open.http.mp.streamamg.com/p/3001560/sp/300156000/playManifest/entryId/0_xmkk2kjr/flavorIds/0_zlbr85f8,0_zlbr85f8,0_noewhew2/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-0 group-title="SHQIP FILMA DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",Premiere 1HD
-http://168.119.255.170/1651/video.m3u8?token=X3ea770e83
-#EXTINF:-1,Premiere 2HD
-http://168.119.255.170/1652/video.m3u8?token=X3ea770e83
-#EXTINF:-1,Premiere 3HD
-http://168.119.255.170/1653/video.m3u8?token=X3ea770e83
-#EXTINF:-1,Premiere 4HD
-http://168.119.255.170/1654/video.m3u8?token=X3ea770e83
-#EXTINF:-0 group-title="SHQIP 🌍 PLANET DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",Animal Planet
-http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/92950.ts
-#EXTINF:-1 ,Discovery Channel
-http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93027.ts
-#EXTINF:-1 ,Discovery ID
-http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93029.ts
-#EXTINF:-1 ,Discovery Science
-http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93030.ts
-#EXTINF:-1 ,Disney Channel
-http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93031.ts
-#EXTINF:-1 ,Discovery Bangla HD
-https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_19.m3u8
-#EXTINF:-1 ,Animal Planet
-https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
-#EXTINF:-0 group-title="SHQIP TV DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",Top Channel
-http://185.183.35.121:8080/tpcHhdJa/index.m3u8
-#EXTINF:-1,Klan TV
-http://185.183.35.121:8080/KlANsfjsljfp/index.m3u8
-#EXTINF:-1,Klan Plus
-http://185.183.35.121:8080/KlanPlusfhsifh/index.m3u8
-#EXTINF:-1,Vizion Plus
-http://185.183.35.121:8080/VizIOnPlUSsfj/index.m3u8
 #EXTINF:-1,Klan TV
 http://79.106.48.2:5151/live/klanhdott/playlist.m3u8
 #EXTINF:-1,Klan Plus
@@ -205,43 +96,7 @@ https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 #EXTINF:-1,STAR HD
 https://startv.blutv.com/blutv_startv_live/live.m3u8
-#EXTINF:-1,XXX Gay HD
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/174207
-#EXTINF:-1,XXX FAKE TAXI
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/297129
-#EXTINF:-1,Over Sport 1 HD
-http://premium-ks.ddns.net:88/muminiptv/FRQT2rUpXv/46984
-#EXTINF:-1,Over Sport 2 HD
-http://premium-ks.ddns.net:88/muminiptv/FRQT2rUpXv/46985
-#EXTINF:-1,Over Sport 3 HD
-http://premium-ks.ddns.net:88/muminiptv/FRQT2rUpXv/46986
-#EXTINF:-1,Over Sport 4 HD
-http://premium-ks.ddns.net:88/muminiptv/FRQT2rUpXv/46987
-#EXTINF:-1,Super Sport 1 HD
-http://premium-ks.ddns.net:88/muminiptv/FRQT2rUpXv/33493
-#EXTINF:-1,Super Sport 2 HD
-http://premium-ks.ddns.net:88/muminiptv/FRQT2rUpXv/33494
-#EXTINF:-1,Super Sport 3 HD
-http://premium-ks.ddns.net:88/muminiptv/FRQT2rUpXv/33495
-#EXTINF:-1,Super Sport 4 HD
-http://premium-ks.ddns.net:88/muminiptv/FRQT2rUpXv/33496
-#EXTINF:-1,Kujtesa 1 HD
-http://premium-ks.ddns.net:88/muminiptv/FRQT2rUpXv/33498
-#EXTINF:-1,Kujtesa 2 HD
-http://premium-ks.ddns.net:88/muminiptv/FRQT2rUpXv/33499
-#EXTINF:-1,Kujtesa 3 HD
-http://premium-ks.ddns.net:88/muminiptv/FRQT2rUpXv/33500
-#EXTINF:-1,Tring Sport News HD
-http://premium-ks.ddns.net:88/muminiptv/FRQT2rUpXv/33503
-#EXTINF:-1,Tring Sport 1 HD
-http://premium-ks.ddns.net:88/muminiptv/FRQT2rUpXv/33504
-#EXTINF:-1,Tring Sport 2 HD
-http://premium-ks.ddns.net:88/muminiptv/FRQT2rUpXv/33505
-#EXTINF:-1,Tring Sport 3 HD
-http://premium-ks.ddns.net:88/muminiptv/FRQT2rUpXv/33506
-#EXTINF:-1,Tring Sport 4 HD
-http://premium-ks.ddns.net:88/muminiptv/FRQT2rUpXv/33507
-#EXTINF:-0 group-title="ITALIA TV DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",RAI NEWS HD
+#EXTINF:-0 group-title="ITALIA TV R&D 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",RAI NEWS HD
 https://streamcdnr15-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 #EXTINF:-1,RAI 1
 http://142.132.151.149/RAI1/index.m3u8
@@ -287,17 +142,3 @@ https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ka)/
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
 #EXTINF:-1,TOP CRIME HD
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
-#EXTINF:-1,RAI PREMIUM HD
-http://37.18.239.37:8000/play/a01y/index.m3u8
-#EXTINF:-1,RAI MOVIE HD
-http://37.18.239.37:8000/play/a01z/index.m3u8
-#EXTINF:-1,RAI GULP HD
-http://37.18.239.37:8000/play/a020/index.m3u8
-#EXTINF:-1,RAI STORIA
-http://37.18.239.37:8000/play/a01u/index.m3u8
-#EXTINF:-1,RAI SCUOLA
-http://37.18.239.37:8000/play/a01x/index.m3u8
-#EXTINF:-1,RAI YOYO
-http://37.18.239.37:8000/play/a01t/index.m3u8
-#EXTINF:-1,RAI SPORT 
-http://37.18.239.37:8000/play/a02e/index.m3u8
