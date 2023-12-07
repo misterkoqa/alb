@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-0 group-title="SHQIP R&D 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",TOP CHANNEL
-#EXTINF:-1,TOP CHANNEL HD
+#EXTINF:-0 group-title="SHQIP R&D 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",TOP CHANNEL HD
 http://130.0.24.6:2831/udp/238.51.51.108:5000
 #EXTINF:-1,VIZION PLUS HD
 http://130.0.24.6:2831/udp/239.101.40.17:2345
