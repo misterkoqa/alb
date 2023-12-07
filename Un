@@ -10,6 +10,20 @@ http://130.0.24.6:2831/udp/228.50.50.101:30000
 http://130.0.24.6:2831/udp/228.50.50.102:30000
 #EXTINF:-1,KLAN NEWS HD
 http://130.0.24.6:2831/udp/228.50.50.103:30000
+#EXTINF:-1,TOP NEWS HD
+http://130.0.24.6:2831/udp/238.51.51.7:7512
+#EXTINF:-1,ABC NEWS HD
+http://130.0.24.6:2831/udp/238.51.51.128:5556
+#EXTINF:-1,REPORT HD
+http://130.0.24.6:2831/udp/238.51.51.124:5000
+#EXTINF:-1,NEWS 24
+http://130.0.24.6:2831/udp/239.101.41.1:2345
+#EXTINF:-1,A2 CHANNEL HD
+http://130.0.24.6:2831/udp/238.51.51.52:20011
+#EXTINF:-1, ORA NEWS HD
+http://130.0.24.6:2831/udp/239.101.43.79:2345
+#EXTINF:-1,EURONEWS AL
+http://130.0.24.6:2831/udp/238.51.51.52:20018
 #EXTINF:-1,TV JOHANITER
 https://protokolldns.xyz/tvjohaniterlivetsss/index.m3u8
 #EXTINF:-1,МАТЧ Футбол 1 HD
@@ -18,14 +32,6 @@ http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
 http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1,МАТЧ Футбол 3 HD
 http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:-1, SONY TEN 1
-https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
-#EXTINF:-1, SONY TEN 2
-https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
-#EXTINF:-1, Sony Ten 3
-https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
-#EXTINF:-1, Sony Ten 4
-https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTINF:-1,Klan TV
 http://79.106.48.2:5151/live/klanhdott/playlist.m3u8
 #EXTINF:-1,Klan Plus
