@@ -25,6 +25,8 @@ http://130.0.24.6:2831/udp/239.101.43.79:2345
 http://130.0.24.6:2831/udp/238.51.51.52:20018
 #EXTINF:-1,TV JOHANITER
 https://protokolldns.xyz/tvjohaniterlivetsss/index.m3u8
+#EXTINF:-1,TV APOLLON HD
+http://130.0.24.6:2831/udp/239.101.43.10:2345
 #EXTINF:-1,ZJARR HD
 http://130.0.24.6:2831/udp/239.101.41.12:2345
 #EXTINF:-1,CLUB TV
@@ -340,18 +342,18 @@ https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lb)/
 #EXTINF:-1,TOP CRIME HD
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
 #EXTINF:-1,
-http://130.0.24.6:2831/udp/239.101.43.09:2345
+http://130.0.24.6:2831/udp/239.101.43.17:2345
 #EXTINF:-1,
-http://130.0.24.6:2831/udp/239.101.43.10:2345
+http://130.0.24.6:2831/udp/239.101.43.18:2345
 #EXTINF:-1,
-http://130.0.24.6:2831/udp/239.101.43.11:2345
+http://130.0.24.6:2831/udp/239.101.43.19:2345
 #EXTINF:-1,
-http://130.0.24.6:2831/udp/239.101.43.12:2345
+http://130.0.24.6:2831/udp/239.101.43.20:2345
 #EXTINF:-1,
-http://130.0.24.6:2831/udp/239.101.43.13:2345
+http://130.0.24.6:2831/udp/239.101.43.21:2345
 #EXTINF:-1,
-http://130.0.24.6:2831/udp/239.101.43.14:2345
+http://130.0.24.6:2831/udp/239.101.43.22:2345
 #EXTINF:-1,
-http://130.0.24.6:2831/udp/239.101.43.15:2345
+http://130.0.24.6:2831/udp/239.101.43.23:2345
 #EXTINF:-1,
-http://130.0.24.6:2831/udp/239.101.43.16:2345
+http://130.0.24.6:2831/udp/239.101.43.24:2345
