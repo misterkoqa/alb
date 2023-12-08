@@ -342,18 +342,18 @@ https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lb)/
 #EXTINF:-1,TOP CRIME HD
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
 #EXTINF:-1,
-http://130.0.24.6:2831/udp/238.51.51.08:7512
+http://130.0.24.6:2831/udp/238.51.51.7:7510
 #EXTINF:-1,
-http://130.0.24.6:2831/udp/238.51.51.09:7512
+http://130.0.24.6:2831/udp/238.51.51.7:7511
 #EXTINF:-1,
-http://130.0.24.6:2831/udp/238.51.51.10:7512
+http://130.0.24.6:2831/udp/238.51.51.7:7512
 #EXTINF:-1,
-http://130.0.24.6:2831/udp/238.51.51.11:7512
+http://130.0.24.6:2831/udp/238.51.51.7:7513
 #EXTINF:-1,
-http://130.0.24.6:2831/udp/238.51.51.12:7512
+http://130.0.24.6:2831/udp/238.51.51.7:7514
 #EXTINF:-1,
-http://130.0.24.6:2831/udp/238.51.51.13:7512
+http://130.0.24.6:2831/udp/238.51.51.7:7515
 #EXTINF:-1,
-http://130.0.24.6:2831/udp/238.51.51.14:7512
+http://130.0.24.6:2831/udp/238.51.51.7:7516
 #EXTINF:-1,
-http://130.0.24.6:2831/udp/238.51.51.15:7512
+http://130.0.24.6:2831/udp/238.51.51.7:7517
