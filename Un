@@ -286,7 +286,7 @@ https://protokolldns.xyz/fxmediaweb5548/index.m3u8
 #EXTINF:-1,Report Tv HD
 https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTINF:-1,ATV HD
-https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
+
 #EXTINF:-1,FOX HD
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:-1,KANAL D HD
@@ -294,7 +294,7 @@ https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 #EXTINF:-1,SHOW HD
 https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 #EXTINF:-1,STAR HD
-https://startv.blutv.com/blutv_startv_live/live.m3u8
+https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-0 group-title="ITALIA TV R&D 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",RAI NEWS HD
 https://streamcdnr15-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 #EXTINF:-1,RAI 1
