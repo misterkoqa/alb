@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:-0 group-title="SHQIP R&D 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",TOP CHANNEL HD
+#EXTINF:-0 group-title="SHQIP R&D 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",Big Brother 1 KS
+http://013tv.com:8080/xplatinum2023/shpaF2mG6eKEqHJ3/289613
+#EXTINF:-1,Big Brother 2 KS
+http://013tv.com:8080/xplatinum2023/shpaF2mG6eKEqHJ3/289614
+#EXTINF:-1,TOP CHANNEL HD
 http://130.0.24.6:2831/udp/238.51.51.108:5000
 #EXTINF:-1,VIZION PLUS HD
 http://130.0.24.6:2831/udp/239.101.40.17:2345
