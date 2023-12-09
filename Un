@@ -183,6 +183,14 @@ http://130.0.24.6:2831/udp/228.50.50.198:30000
 http://130.0.24.6:2831/udp/228.50.50.199:30000
 #EXTINF:-1,RAI 1HD
 http://130.0.24.6:2831/udp/238.51.51.96:55577
+#EXTINF:-1,SPORT 1HD
+https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
+#EXTINF:-1,SPORT 2HD
+https://kusnadipepenk.github.io/ntn/sprtv2.m3u8
+#EXTINF:-1,SPORT 3HD
+https://kusnadipepenk.github.io/ntn/sprtv3.m3u8
+#EXTINF:-1,SPORT 4HD
+https://kusnadipepenk.github.io/ntn/sprtv4.m3u8
 #EXTINF:-1,RAI 2HD
 http://130.0.24.6:2831/udp/238.51.51.96:55578
 #EXTINF:-1,RAI 3HD
