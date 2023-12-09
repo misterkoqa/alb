@@ -11,6 +11,8 @@ http://130.0.24.6:2831/udp/239.101.40.17:2345
 http://130.0.24.6:2831/udp/228.50.50.101:30000
 #EXTINF:-1,KLAN PLUS HD
 http://130.0.24.6:2831/udp/228.50.50.102:30000
+#EXTINF:-1,ALSAT HD
+http://013tv.com:8080/EyQcvdQmdH/f7bdd5a828/300235
 #EXTINF:-1,KLAN NEWS HD
 http://130.0.24.6:2831/udp/228.50.50.103:30000
 #EXTINF:-1,TOP NEWS HD
@@ -203,24 +205,32 @@ http://130.0.24.6:2831/udp/228.50.50.197:30000
 http://130.0.24.6:2831/udp/228.50.50.198:30000
 #EXTINF:-1,OVERSPORT 4HD
 http://130.0.24.6:2831/udp/228.50.50.199:30000
+#EXTINF:-1,SuperSport 1
+http://013tv.com:8080/EyQcvdQmdH/f7bdd5a828/1316
+#EXTINF:-1,SuperSport 2
+http://013tv.com:8080/EyQcvdQmdH/f7bdd5a828/1312
+#EXTINF:-1,SuperSport 3
+http://013tv.com:8080/EyQcvdQmdH/f7bdd5a828/1319
+#EXTINF:-1,SuperSport 4
+http://013tv.com:8080/EyQcvdQmdH/f7bdd5a828/1318
+#EXTINF:-1,SuperSport 5
+http://013tv.com:8080/EyQcvdQmdH/f7bdd5a828/1860
+#EXTINF:-1,SuperSport 6
+http://013tv.com:8080/EyQcvdQmdH/f7bdd5a828/3638
+#EXTINF:-1,SuperSport 7
+http://013tv.com:8080/EyQcvdQmdH/f7bdd5a828/174441
+#EXTINF:-1,SuperSport News
+http://013tv.com:8080/EyQcvdQmdH/f7bdd5a828/1313
+#EXTINF:-1,Tring Sport 1
+http://013tv.com:8080/EyQcvdQmdH/f7bdd5a828/1306
+#EXTINF:-1,Tring Sport 2
+http://013tv.com:8080/EyQcvdQmdH/f7bdd5a828/1305
+#EXTINF:-1,Tring Sport 3
+http://013tv.com:8080/EyQcvdQmdH/f7bdd5a828/1304
+#EXTINF:-1,Tring Sport 4
+http://013tv.com:8080/EyQcvdQmdH/f7bdd5a828/1862
 #EXTINF:-1,RAI 1HD
 http://130.0.24.6:2831/udp/238.51.51.96:55577
-#EXTINF:-1,SPORT 1HD
-https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
-#EXTINF:-1,SPORT 2HD
-https://kusnadipepenk.github.io/ntn/sprtv2.m3u8
-#EXTINF:-1,SPORT 3HD
-https://kusnadipepenk.github.io/ntn/sprtv3.m3u8
-#EXTINF:-1,SPORT 4HD
-https://kusnadipepenk.github.io/ntn/sprtv4.m3u8
-#EXTINF:-1,DIGI Sport 1
-http://013tv.com:8080/babar2020ex/VNa0XAfDUbh6T8Mn/71457
-#EXTINF:-1,DIGI Sport 2
-http://013tv.com:8080/babar2020ex/VNa0XAfDUbh6T8Mn/71459
-#EXTINF:-1,DIGI Sport 3
-http://013tv.com:8080/babar2020ex/VNa0XAfDUbh6T8Mn/2243
-#EXTINF:-1,DIGI Sport 4
-http://013tv.com:8080/babar2020ex/VNa0XAfDUbh6T8Mn/4219
 #EXTINF:-1,RAI 2HD
 http://130.0.24.6:2831/udp/238.51.51.96:55578
 #EXTINF:-1,RAI 3HD
