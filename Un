@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-0 group-title="SHQIP R&D 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",Big Brother 1KS
 http://013tv.com:8080/xplatinum2023/shpaF2mG6eKEqHJ3/289613
 #EXTINF:-1,Big Brother 2KS
@@ -84,6 +85,8 @@ http://013tv.com:8080/xplatinum2023/shpaF2mG6eKEqHJ3/297291
 http://013tv.com:8080/xplatinum2023/shpaF2mG6eKEqHJ3/297292
 #EXTINF:-1,OnePlay prime 4
 http://013tv.com:8080/xplatinum2023/shpaF2mG6eKEqHJ3/297293
+#EXTINF:-1,FILM MAX HD
+http://013tv.com:8080/babar2020ex/VNa0XAfDUbh6T8Mn/1331
 #EXTINF:-1, FILM HITS HD
 http://130.0.24.6:2831/udp/238.51.51.51:10010
 #EXTINF:-1,FILM AKSION HD
@@ -192,7 +195,7 @@ http://130.0.24.6:2831/udp/228.50.50.186:30000
 http://130.0.24.6:2831/udp/228.50.50.187:30000
 #EXTINF:-1,TS-4HD
 http://130.0.24.6:2831/udp/228.50.50.188:30000
-#EXTINF:-1, OVERSPORT 1HD
+#EXTINF:-1,OVERSPORT 1HD
 http://130.0.24.6:2831/udp/228.50.50.196:30000
 #EXTINF:-1,OVERSPORT 2HD
 http://130.0.24.6:2831/udp/228.50.50.197:30000
@@ -210,6 +213,14 @@ https://kusnadipepenk.github.io/ntn/sprtv2.m3u8
 https://kusnadipepenk.github.io/ntn/sprtv3.m3u8
 #EXTINF:-1,SPORT 4HD
 https://kusnadipepenk.github.io/ntn/sprtv4.m3u8
+#EXTINF:-1,DIGI Sport 1
+http://013tv.com:8080/babar2020ex/VNa0XAfDUbh6T8Mn/71457
+#EXTINF:-1,DIGI Sport 2
+http://013tv.com:8080/babar2020ex/VNa0XAfDUbh6T8Mn/71459
+#EXTINF:-1,DIGI Sport 3
+http://013tv.com:8080/babar2020ex/VNa0XAfDUbh6T8Mn/2243
+#EXTINF:-1,DIGI Sport 4
+http://013tv.com:8080/babar2020ex/VNa0XAfDUbh6T8Mn/4219
 #EXTINF:-1,RAI 2HD
 http://130.0.24.6:2831/udp/238.51.51.96:55578
 #EXTINF:-1,RAI 3HD
