@@ -1,7 +1,9 @@
 #EXTM3U
 #EXTINF:-0 group-title="SHQIP R&D 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",Big Brother 1KS
+http://013tv.com:8080/googleiptvex/A2v9S3ZOu5l4Jt5nnlxm/289613
 http://013tv.com:8080/xplatinum2023/shpaF2mG6eKEqHJ3/289613
 #EXTINF:-1,Big Brother 2KS
+http://013tv.com:8080/googleiptvex/A2v9S3ZOu5l4Jt5nnlxm/289614
 http://013tv.com:8080/xplatinum2023/shpaF2mG6eKEqHJ3/289614
 #EXTINF:-1,TOP CHANNEL HD
 http://130.0.24.6:2831/udp/238.51.51.108:5000
@@ -12,6 +14,7 @@ http://130.0.24.6:2831/udp/228.50.50.101:30000
 #EXTINF:-1,KLAN PLUS HD
 http://130.0.24.6:2831/udp/228.50.50.102:30000
 #EXTINF:-1,ALSAT HD
+http://013tv.com:8080/googleiptvex/A2v9S3ZOu5l4Jt5nnlxm/300235
 http://013tv.com:8080/EyQcvdQmdH/f7bdd5a828/300235
 #EXTINF:-1,KLAN NEWS HD
 http://130.0.24.6:2831/udp/228.50.50.103:30000
@@ -72,20 +75,28 @@ http://130.0.24.6:2831/udp/239.101.101.12:2345
 #EXTINF:-1,TRING BANG BANG
 http://130.0.24.6:2831/udp/238.51.51.51:10001
 #EXTINF:-1,Ks Premiere 1
+http://013tv.com:8080/googleiptvex/A2v9S3ZOu5l4Jt5nnlxm/294446
 http://013tv.com:8080/xplatinum2023/shpaF2mG6eKEqHJ3/294446
 #EXTINF:-1,Ks Premiere 2
+http://013tv.com:8080/googleiptvex/A2v9S3ZOu5l4Jt5nnlxm/281898
 http://013tv.com:8080/xplatinum2023/shpaF2mG6eKEqHJ3/281898
 #EXTINF:-1,Ks Premiere 3
+http://013tv.com:8080/googleiptvex/A2v9S3ZOu5l4Jt5nnlxm/173465
 http://013tv.com:8080/xplatinum2023/shpaF2mG6eKEqHJ3/173465
 #EXTINF:-1,Ks Premiere 4
+http://013tv.com:8080/googleiptvex/A2v9S3ZOu5l4Jt5nnlxm/173479
 http://013tv.com:8080/xplatinum2023/shpaF2mG6eKEqHJ3/173479
 #EXTINF:-1,OnePlay prime 1
+http://013tv.com:8080/googleiptvex/A2v9S3ZOu5l4Jt5nnlxm/297290
 http://013tv.com:8080/xplatinum2023/shpaF2mG6eKEqHJ3/297290
 #EXTINF:-1,OnePlay prime 2
+http://013tv.com:8080/googleiptvex/A2v9S3ZOu5l4Jt5nnlxm/297291
 http://013tv.com:8080/xplatinum2023/shpaF2mG6eKEqHJ3/297291
 #EXTINF:-1,OnePlay prime 3
+http://013tv.com:8080/googleiptvex/A2v9S3ZOu5l4Jt5nnlxm/297292
 http://013tv.com:8080/xplatinum2023/shpaF2mG6eKEqHJ3/297292
 #EXTINF:-1,OnePlay prime 4
+http://013tv.com:8080/googleiptvex/A2v9S3ZOu5l4Jt5nnlxm/297293
 http://013tv.com:8080/xplatinum2023/shpaF2mG6eKEqHJ3/297293
 #EXTINF:-1,FILM MAX HD
 http://013tv.com:8080/babar2020ex/VNa0XAfDUbh6T8Mn/1331
