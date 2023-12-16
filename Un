@@ -1,9 +1,7 @@
 #EXTM3U
 #EXTINF:-0 group-title="SHQIP R&D 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",Big Brother 1KS
-http://013tv.com:8080/googleiptvex/A2v9S3ZOu5l4Jt5nnlxm/289613
 http://013tv.com:8080/xplatinum2023/shpaF2mG6eKEqHJ3/289613
 #EXTINF:-1,Big Brother 2KS
-http://013tv.com:8080/googleiptvex/A2v9S3ZOu5l4Jt5nnlxm/289614
 http://013tv.com:8080/xplatinum2023/shpaF2mG6eKEqHJ3/289614
 #EXTINF:-1,TOP CHANNEL HD
 http://130.0.24.6:2831/udp/238.51.51.108:5000
@@ -14,7 +12,6 @@ http://130.0.24.6:2831/udp/228.50.50.101:30000
 #EXTINF:-1,KLAN PLUS HD
 http://130.0.24.6:2831/udp/228.50.50.102:30000
 #EXTINF:-1,ALSAT HD
-http://013tv.com:8080/googleiptvex/A2v9S3ZOu5l4Jt5nnlxm/300235
 http://013tv.com:8080/EyQcvdQmdH/f7bdd5a828/300235
 #EXTINF:-1,KLAN NEWS HD
 http://130.0.24.6:2831/udp/228.50.50.103:30000
