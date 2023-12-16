@@ -240,6 +240,14 @@ http://013tv.com:8080/EyQcvdQmdH/f7bdd5a828/1305
 http://013tv.com:8080/EyQcvdQmdH/f7bdd5a828/1304
 #EXTINF:-1,Tring Sport 4
 http://013tv.com:8080/EyQcvdQmdH/f7bdd5a828/1862
+#EXTINF:-1,TEN SPORT 1HD
+http://watchindia.net:8880/live/dharm23/qVir1fHdBn/1756.m3u8
+#EXTINF:-1,TEN SPORT 2HD
+http://watchindia.net:8880/live/dharm23/qVir1fHdBn/1757.m3u8
+#EXTINF:-1,TEN SPORT 3HD
+http://watchindia.net:8880/live/dharm23/qVir1fHdBn/1758.m3u8
+#EXTINF:-1,TEN SPORT 4HD
+http://watchindia.net:8880/live/dharm23/qVir1fHdBn/1759.m3u8
 #EXTINF:-1,RAI 1HD
 http://130.0.24.6:2831/udp/238.51.51.96:55577
 #EXTINF:-1,RAI 2HD
