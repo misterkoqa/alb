@@ -1,7 +1,9 @@
 #EXTM3U
 #EXTINF:-0 group-title="SHQIP R&D 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",Big Brother 1KS
+http://myteve.online:8080/eonrestreampro/6b4b41ecdf/289613
 http://013tv.com:8080/xplatinum2023/shpaF2mG6eKEqHJ3/289613
 #EXTINF:-1,Big Brother 2KS
+http://myteve.online:8080/eonrestreampro/6b4b41ecdf/289614
 http://013tv.com:8080/xplatinum2023/shpaF2mG6eKEqHJ3/289614
 #EXTINF:-1,TOP CHANNEL HD
 http://130.0.24.6:2831/udp/238.51.51.108:5000
@@ -31,6 +33,8 @@ http://130.0.24.6:2831/udp/239.101.43.79:2345
 http://130.0.24.6:2831/udp/238.51.51.52:20018
 #EXTINF:-1,TV JOHANITER
 https://protokolldns.xyz/tvjohaniterlivetsss/index.m3u8
+#EXTINF:-1,BALKANIKA MUSIC HD
+http://mega4k.net:8080/atoon200GREGTRG/TYTRYHGFH/43264
 #EXTINF:-1,TV APOLLON HD
 http://130.0.24.6:2831/udp/239.101.43.10:2345
 #EXTINF:-1,ZJARR HD
