@@ -295,10 +295,13 @@ http://livetv.ktv.zone/129/play.m3u8
 #EXTINF:-1,RSI La 2
 http://livetv.ktv.zone/137/play.m3u8
 #EXTINF:-1,CANALE 5 HD
+http://37.18.239.36:8888/Canale_5_HD/index.m3u8
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(c5)/index.m3u8
 #EXTINF:-1,ITALIA 1 HD
+http://37.18.239.36:8888/Italia_1/index.m3u8
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
 #EXTINF:-1,RETE 4 HD
+http://37.18.239.36:8888/Rete_4_HD/index.m3u8
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
 #EXTINF:-1,LA 5 HD
 http://130.0.24.6:2831/udp/228.50.50.51:30000
