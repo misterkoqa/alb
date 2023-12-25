@@ -461,27 +461,17 @@ https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ka)/
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
 #EXTINF:-1,TOP CRIME HD
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
-#EXTINF:-1,
-http://194.145.202.71:8087/udp/239.254.1.25:6060
-http://80.252.37.194:5000/udp/233.233.233.3:12000
-#EXTINF:-1,
-http://194.145.202.71:8087/udp/239.254.1.26:6060
-http://80.252.37.194:5000/udp/233.233.233.4:12000
-#EXTINF:-1,
-http://194.145.202.71:8087/udp/239.254.1.27:6060
-http://80.252.37.194:5000/udp/233.233.233.5:12000
-#EXTINF:-1,
-http://194.145.202.71:8087/udp/239.254.1.28:6060
-http://80.252.37.194:5000/udp/233.233.233.6:12000
-#EXTINF:-1,
-http://194.145.202.71:8087/udp/239.254.1.29:6060
-http://80.252.37.194:5000/udp/233.233.233.7:12000
-#EXTINF:-1,
-http://194.145.202.71:8087/udp/239.254.1.30:6060
-http://80.252.37.194:5000/udp/233.233.233.8:12000
-#EXTINF:-1,
-http://194.145.202.71:8087/udp/239.254.1.31:6060
-http://80.252.37.194:5000/udp/233.233.233.9:12000
-#EXTINF:-1,
-http://194.145.202.71:8087/udp/239.254.1.32:6060
-http://80.252.37.194:5000/udp/233.233.233.10:12000
+#EXTINF:-1,Top Channel
+http://media:iw2nd5aI1w@62.162.115.37:6551/tophd
+#EXTINF:-1,Top Channel
+http://185.38.192.253:8080/toPlrroTull0h3t
+#EXTINF:-1,Klan TV
+http://media:wudao@62.162.115.36:8943/klanhd
+#EXTINF:-1,Klan TV
+http://media:wudao@62.162.115.37:3666
+#EXTINF:-1,Klan TV
+http://185.38.192.253:8080/kl4_N1hd
+#EXTINF:-1,Klan Plus
+http://media:jltUfls6CruBIgaH@62.162.115.37:7416/KlanPlus
+#EXTINF:-1,Vizion Plus
+http://media:GLM0jiHEC03acuYi@62.162.115.36:8055/VisionPlus
