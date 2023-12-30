@@ -306,6 +306,8 @@ http://130.0.24.6:2831/udp/228.50.50.34:30000
 http://130.0.24.6:2831/udp/228.50.50.35:30000
 #EXTINF:-1,RAI NEWS HD
 http://130.0.24.6:2831/udp/238.51.51.96:55580
+#EXTINF:-1,RAI 4K
+http://176.65.146.136:8020/play/a06l/index.m3u8
 #EXTINF:-1,RSI La 1
 http://livetv.ktv.zone/129/play.m3u8
 #EXTINF:-1,RSI La 2
@@ -319,6 +321,8 @@ https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(i1)/
 #EXTINF:-1,RETE 4 HD
 http://37.18.239.36:8888/Rete_4_HD/index.m3u8
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
+#EXTINF:-1,LA7 HD
+http://176.65.146.136:8020/play/a06q/index.m3u8
 #EXTINF:-1,LA 5 HD
 http://130.0.24.6:2831/udp/228.50.50.51:30000
 #EXTINF:-1,RAI MOVIE HD
@@ -337,8 +341,22 @@ http://130.0.24.6:2831/udp/238.51.51.96:55582
 http://130.0.24.6:2831/udp/238.51.51.96:55583
 #EXTINF:-1,MEDIASET EXTRA HD
 http://130.0.24.6:2831/udp/228.50.50.169:30000
+#EXTINF:-1,DMAXX
+http://176.65.146.136:8019/play/a07h/index.m3u8
+#EXTINF:-1,NOVE
+http://176.65.146.136:8019/play/a07s/index.m3u8
+#EXTINF:-1,CIELO HD
+http://176.65.146.136:8021/play/a06g/index.m3u8
 #EXTINF:-1,RAI SPORT HD
 http://130.0.24.6:2831/udp/228.50.50.39:30000
+#EXTINF:-1,RTL HD 
+http://176.65.146.136:8001/play/a0do/index.m3u8
+#EXTINF:-1,VOX HD
+http://176.65.146.136:8001/play/a0dp/index.m3u8
+#EXTINF:-1,PRO7 MAXX HD
+http://176.65.146.136:8005/play/a06v/index.m3u8
+#EXTINF:-1,PROSIEBEN HD
+http://176.65.146.136:8005/play/a06s/index.m3u8
 #EXTINF:-1,МАТЧ Футбол 1 HD
 http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1,МАТЧ Футбол 2 HD
