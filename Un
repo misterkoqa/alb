@@ -14,7 +14,11 @@ http://109.236.44.157:2121/vizion
 #EXTINF:-1,TOP NEWS test
 https://trueodin.serv00.net/?t=topnewsal
 #EXTINF:-1,Klan News test
-https://trueodin.serv00.net/?k=klannews
+https://trueodin.serv00.net/?k=klannewsal
+#EXTINF:-1,NEWS 24 test
+https://trueodin.serv00.net/?n=news24al
+#EXTINF:-1,ABC NEWS test
+https://trueodin.serv00.net/?a=abcnewsal
 #EXTINF:-1,ABC test
 http://109.236.44.157:2121/abc
 #EXTINF:-1,Syri TV test
