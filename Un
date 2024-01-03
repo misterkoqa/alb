@@ -111,6 +111,14 @@ http://130.0.24.6:2831/udp/239.101.101.13:2345
 http://130.0.24.6:2831/udp/239.101.101.12:2345
 #EXTINF:-1,TRING BANG BANG
 http://130.0.24.6:2831/udp/238.51.51.51:10001
+#EXTINF:-1,KS PREMIER 1
+http://scorpione.net:25461/biza/koko12/180479
+#EXTINF:-1,KS PREMIER 2
+http://scorpione.net:25461/biza/koko12/180480
+#EXTINF:-1,KS PREMIER 3
+http://scorpione.net:25461/biza/koko12/180481
+#EXTINF:-1,KS PREMIER 4
+http://scorpione.net:25461/biza/koko12/180482
 #EXTINF:-1,ART KINO 1HD
 http://62.162.115.38:22229/play/a006
 #EXTINF:-1,ART KINO 2HD
