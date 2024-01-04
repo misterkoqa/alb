@@ -21,6 +21,20 @@ http://109.236.44.157:2121/mcn
 http://46.29.169.15:4001/play/a00b/index.m3u8
 #EXTINF:-1,TV2 HD
 http://46.29.169.15:4001/play/a034/index.m3u8
+#EXTINF:-1,DRITA TV
+https://protokolldns.xyz/dritaweb5587989/index.m3u8
+#EXTINF:-1,TV KORCA HD
+http://32.shqiptv.org/korca/albplus/index.m3u8
+#EXTINF:-1,TV NEWS HD
+http://32.shqiptv.org:8080/NewsTV/MK/index.m3u8
+#EXTINF:-1,TV Shqiponja
+https://shiko.shqiponja-tv.com:3118/hybrid/play.m3u8
+#EXTINF:-1,TVA News
+https://live.tvanews.com/live/tvanews/play.m3u8
+#EXTINF:-1,ARI TV
+http://stream.logic-ks.net:8000/play/streamDylitest/index.m3u8
+#EXTINF:-1,GLOBE TV
+http://italbania.live/globetv/tibo/index.m3u8
 #EXTINF:-1,TOP CHANNEL HD
 http://130.0.24.6:2831/udp/238.51.51.108:5000
 #EXTINF:-1,VIZION PLUS HD
@@ -34,7 +48,7 @@ http://130.0.24.6:2831/udp/231.231.231.1:20000
 #EXTINF:-1,ALSAT HD
 http://130.0.24.6:2831/udp/228.50.50.184:30000
 #EXTINF:-1,ERA TV
-http://gradina1.info:80/live/CurakMaja0708/MpSPhhxQACiSl19nB0/40870.ts
+http://vo01.mohdtv.com:8880/ALLChannels681def196cdd/15754693/30600
 #EXTINF:-1,KLAN NEWS HD
 http://130.0.24.6:2831/udp/228.50.50.103:30000
 #EXTINF:-1,TOP NEWS HD
@@ -225,6 +239,8 @@ http://130.0.24.6:2831/udp/238.51.51.101:5000
 http://130.0.24.6:2831/udp/238.51.51.99:5000
 #EXTINF:-1,RTSH SPORT HD
 http://130.0.24.6:2831/udp/239.101.43.24:2345
+#EXTINF:-1,IMPACT Wrestling
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1,WWE HD
 http://sysadminhost.net:8080/F11721/6ddb91eb/2373
 #EXTINF:-1,SS-1HD
