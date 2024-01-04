@@ -11,14 +11,6 @@ http://109.236.44.157:2121/klan
 http://109.236.44.157:2121/klanplus
 #EXTINF:-1,Vizion Plus test
 http://109.236.44.157:2121/vizion
-#EXTINF:-1,TOP NEWS test
-https://trueodin.serv00.net/?t=topnewsal
-#EXTINF:-1,Klan News test
-https://trueodin.serv00.net/?k=klannewsal
-#EXTINF:-1,NEWS 24 test
-https://trueodin.serv00.net/?n=news24al
-#EXTINF:-1,ABC NEWS test
-https://trueodin.serv00.net/?a=abcnewsal
 #EXTINF:-1,ABC test
 http://109.236.44.157:2121/abc
 #EXTINF:-1,Syri TV test
@@ -311,6 +303,18 @@ http://80.252.37.194:5000/udp/233.233.233.6:12000
 http://80.252.37.194:5000/udp/233.233.233.7:12000
 #EXTINF:-1,ARENA SPORT 6HD
 http://80.252.37.194:5000/udp/233.233.233.8:12000
+#EXTINF:-1,Fox Sports 501
+http://sysadminhost.net:8080/F11721/6ddb91eb/279034
+#EXTINF:-1,Fox Sports 502
+http://sysadminhost.net:8080/F11721/6ddb91eb/81784
+#EXTINF:-1,Fox Sports 503
+http://sysadminhost.net:8080/F11721/6ddb91eb/280192
+#EXTINF:-1,Fox Sports 504
+http://sysadminhost.net:8080/F11721/6ddb91eb/280193
+#EXTINF:-1,Fox Sports 505
+http://sysadminhost.net:8080/F11721/6ddb91eb/144772
+#EXTINF:-1,Fox Sports 507
+http://sysadminhost.net:8080/F11721/6ddb91eb/280194
 #EXTINF:-1,RAI 1HD
 http://130.0.24.6:2831/udp/238.51.51.96:55577
 #EXTINF:-1,RAI 2HD
