@@ -255,7 +255,8 @@ http://130.0.24.6:2831/udp/238.51.51.101:5000
 http://130.0.24.6:2831/udp/238.51.51.99:5000
 #EXTINF:-1,RTSH SPORT HD
 http://130.0.24.6:2831/udp/239.101.43.24:2345
-#EXTINF:-1,WWE WRESTLING 
+#EXTINF:-1,WWE WRESTLING
+http://2hubs.ddns.net:25461/bronder/drL3ksLUHg/58571
 #EXTINF:-1,IMPACT Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1,WWE HD
