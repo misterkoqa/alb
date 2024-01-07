@@ -148,42 +148,6 @@ http://62.162.115.38:22229/play/a006
 http://62.162.115.38:22229/play/a007
 #EXTINF:-1,ART KINO 3HD
 http://62.162.115.38:22229/play/a008
-#EXTINF:-1,SKY CINEMA 1
-http://78.159.119.122:2082/xplus-2-AtyLOmGELK/3gsodLqlLA/1037
-#EXTINF:-1,SKY CINEMA 2
-http://78.159.119.122:2082/xplus-2-AtyLOmGELK/3gsodLqlLA/1038
-#EXTINF:-1,SKY CINEMA 3
-http://78.159.119.122:2082/xplus-2-AtyLOmGELK/3gsodLqlLA/1039
-#EXTINF:-1,SKY CINEMA 4
-http://78.159.119.122:2082/xplus-2-AtyLOmGELK/3gsodLqlLA/1040
-#EXTINF:-1,SKY CINEMA 5
-http://78.159.119.122:2082/xplus-2-AtyLOmGELK/3gsodLqlLA/1041
-#EXTINF:-1,SKY CINEMA 6
-http://78.159.119.122:2082/xplus-2-AtyLOmGELK/3gsodLqlLA/1042
-#EXTINF:-1,SKY CINEMA 7
-http://78.159.119.122:2082/xplus-2-AtyLOmGELK/3gsodLqlLA/1043
-#EXTINF:-1,SKY CINEMA 8
-http://78.159.119.122:2082/xplus-2-AtyLOmGELK/3gsodLqlLA/1044
-#EXTINF:-1,SKY CINEMA 9
-http://78.159.119.122:2082/xplus-2-AtyLOmGELK/3gsodLqlLA/1045
-#EXTINF:-1,SKY CINEMA 10
-http://78.159.119.122:2082/xplus-2-AtyLOmGELK/3gsodLqlLA/1046
-#EXTINF:-1,SKY CINEMA UNO
-http://gradina1.info:80/live/CurakMaja0708/MpSPhhxQACiSl19nB0/68349.ts
-#EXTINF:-1,SKY CINEMA DUE
-http://gradina1.info:80/live/CurakMaja0708/MpSPhhxQACiSl19nB0/68350.ts
-#EXTINF:-1,Sky Primafila 1
-http://gradina1.info:80/live/CurakMaja0708/MpSPhhxQACiSl19nB0/64055.ts
-#EXTINF:-1,Sky Primafila 2
-http://gradina1.info:80/live/CurakMaja0708/MpSPhhxQACiSl19nB0/68351.ts
-#EXTINF:-1,Sky Primafila 3
-http://gradina1.info:80/live/CurakMaja0708/MpSPhhxQACiSl19nB0/68352.ts
-#EXTINF:-1,Sky Primafila 4
-http://gradina1.info:80/live/CurakMaja0708/MpSPhhxQACiSl19nB0/68353.ts
-#EXTINF:-1,Sky Primafila 5
-http://gradina1.info:80/live/CurakMaja0708/MpSPhhxQACiSl19nB0/68354.ts
-#EXTINF:-1,Sky Primafila 6
-http://gradina1.info:80/live/CurakMaja0708/MpSPhhxQACiSl19nB0/68355.ts
 #EXTINF:-1, FILM HITS HD
 http://130.0.24.6:2831/udp/238.51.51.51:10010
 #EXTINF:-1,FILM AKSION HD
@@ -539,43 +503,63 @@ https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ka)/
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
 #EXTINF:-1,TOP CRIME HD
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
-#EXTINF:-0 group-title="FILM TV DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",Hub Premier 1 FHD
-http://89.187.167.92:80/live.ts?channelId=1994&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1,Hub Premier 2 FHD
-http://89.187.167.92:80/live.ts?channelId=1995&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1,Hub Premier 3 FHD
-http://89.187.167.92:80/live.ts?channelId=1996&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1,Hub Premier 4 FHD
-http://89.187.167.92:80/live.ts?channelId=1997&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1,Hub Premier 5 FHD
-http://89.187.167.92:80/live.ts?channelId=1998&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1,Hub Premier 6 FHD
-http://89.187.167.92:80/live.ts?channelId=1999&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1,Hub Premier 7 FHD
-http://89.187.167.92:80/live.ts?channelId=2000&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1,Hub Premier 8 FHD
-http://89.187.167.92:80/live.ts?channelId=2001&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1,Hub Premier 9 FHD
-http://89.187.167.92:80/live.ts?channelId=2002&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1,Hub Premier 10 FHD
-http://89.187.167.92:80/live.ts?channelId=2003&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1,PRIME VIDEO SERIES 1
+#EXTINF:-0 group-title="FILM TV DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",NETFLIX SERIES 1HD
+http://mix-dns.com:8080/pamelacoffey/Trythisnow1/567132
+#EXTINF:-1,NETFLIX SERIES 2HD
+http://mix-dns.com:8080/pamelacoffey/Trythisnow1/567133
+#EXTINF:-1,NETFLIX SERIES 3HD
+http://mix-dns.com:8080/pamelacoffey/Trythisnow1/567134
+#EXTINF:-1,NETFLIX SERIES 4HD
+http://mix-dns.com:8080/pamelacoffey/Trythisnow1/567135
+#EXTINF:-1,NETFLIX SERIES 5HD
+http://mix-dns.com:8080/pamelacoffey/Trythisnow1/567136
+#EXTINF:-1,NETFLIX SERIES 6HD
+http://mix-dns.com:8080/pamelacoffey/Trythisnow1/567137
+#EXTINF:-1,NETFLIX SERIES 7HD
+http://mix-dns.com:8080/pamelacoffey/Trythisnow1/567138
+#EXTINF:-1,NETFLIX SERIES 8HD
+http://mix-dns.com:8080/pamelacoffey/Trythisnow1/567139
+#EXTINF:-1,NETFLIX SERIES 9HD
+http://mix-dns.com:8080/pamelacoffey/Trythisnow1/567140
+#EXTINF:-1,NETFLIX SERIES 10HD
+http://mix-dns.com:8080/pamelacoffey/Trythisnow1/567141
+#EXTINF:-1,PRIME VIDEO SERIES 1HD
 http://mix-dns.com:8080/pamelacoffey/Trythisnow1/567204
-#EXTINF:-1,PRIME VIDEO SERIES 2
+#EXTINF:-1,PRIME VIDEO SERIES 2HD
 http://mix-dns.com:8080/pamelacoffey/Trythisnow1/567205
-#EXTINF:-1,PRIME VIDEO SERIES 3
+#EXTINF:-1,PRIME VIDEO SERIES 3HD
 http://mix-dns.com:8080/pamelacoffey/Trythisnow1/567206
-#EXTINF:-1,PRIME VIDEO SERIES 4
+#EXTINF:-1,PRIME VIDEO SERIES 4HD
 http://mix-dns.com:8080/pamelacoffey/Trythisnow1/567207
-#EXTINF:-1,PRIME VIDEO SERIES 5
+#EXTINF:-1,PRIME VIDEO SERIES 5HD
 http://mix-dns.com:8080/pamelacoffey/Trythisnow1/567208
-#EXTINF:-1,PRIME VIDEO SERIES 6
+#EXTINF:-1,PRIME VIDEO SERIES 6HD
 http://mix-dns.com:8080/pamelacoffey/Trythisnow1/567209
-#EXTINF:-1,PRIME VIDEO SERIES 7
+#EXTINF:-1,PRIME VIDEO SERIES 7HD
 http://mix-dns.com:8080/pamelacoffey/Trythisnow1/567210
-#EXTINF:-1,PRIME VIDEO SERIES 8
+#EXTINF:-1,PRIME VIDEO SERIES 8HD
 http://mix-dns.com:8080/pamelacoffey/Trythisnow1/567211
-#EXTINF:-1,PRIME VIDEO SERIES 9
+#EXTINF:-1,PRIME VIDEO SERIES 9HD
 http://mix-dns.com:8080/pamelacoffey/Trythisnow1/567212
-#EXTINF:-1,PRIME VIDEO SERIES 10
+#EXTINF:-1,PRIME VIDEO SERIES 10HD
 http://mix-dns.com:8080/pamelacoffey/Trythisnow1/567213
+#EXTINF:-1,SKY CINEMA 1HD
+http://78.159.119.122:2082/xplus-2-AtyLOmGELK/3gsodLqlLA/1037
+#EXTINF:-1,SKY CINEMA 2HD
+http://78.159.119.122:2082/xplus-2-AtyLOmGELK/3gsodLqlLA/1038
+#EXTINF:-1,SKY CINEMA 3HD
+http://78.159.119.122:2082/xplus-2-AtyLOmGELK/3gsodLqlLA/1039
+#EXTINF:-1,SKY CINEMA 4HD
+http://78.159.119.122:2082/xplus-2-AtyLOmGELK/3gsodLqlLA/1040
+#EXTINF:-1,SKY CINEMA 5HD
+http://78.159.119.122:2082/xplus-2-AtyLOmGELK/3gsodLqlLA/1041
+#EXTINF:-1,SKY CINEMA 6HD
+http://78.159.119.122:2082/xplus-2-AtyLOmGELK/3gsodLqlLA/1042
+#EXTINF:-1,SKY CINEMA 7HD
+http://78.159.119.122:2082/xplus-2-AtyLOmGELK/3gsodLqlLA/1043
+#EXTINF:-1,SKY CINEMA 8HD
+http://78.159.119.122:2082/xplus-2-AtyLOmGELK/3gsodLqlLA/1044
+#EXTINF:-1,SKY CINEMA 9HD
+http://78.159.119.122:2082/xplus-2-AtyLOmGELK/3gsodLqlLA/1045
+#EXTINF:-1,SKY CINEMA 10HD
+http://78.159.119.122:2082/xplus-2-AtyLOmGELK/3gsodLqlLA/1046
