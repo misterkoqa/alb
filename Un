@@ -256,11 +256,13 @@ http://130.0.24.6:2831/udp/238.51.51.101:5000
 http://130.0.24.6:2831/udp/238.51.51.99:5000
 #EXTINF:-1,RTSH SPORT HD
 http://130.0.24.6:2831/udp/239.101.43.24:2345
-#EXTINF:-1,WWE WRESTLING
+#EXTINF:-1,WWE WRESTLING 1
+http://mix-dns.com:8080/pamelacoffey/Trythisnow1/512243
+#EXTINF:-1,WWE WRESTLING 2
 http://2hubs.ddns.net:25461/bronder/drL3ksLUHg/58571
-#EXTINF:-1,IMPACT Wrestling
+#EXTINF:-1,WWE WRESTLING 3
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:-1,WWE HD
+#EXTINF:-1,WWE WRESTLING 4
 http://sysadminhost.net:8080/F11721/6ddb91eb/2373
 #EXTINF:-1,SS-1HD
 http://46.29.169.15:4001/play/a039/index.m3u8
