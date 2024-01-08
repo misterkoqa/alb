@@ -52,6 +52,54 @@ https://live.tvanews.com/live/tvanews/play.m3u8
 http://stream.logic-ks.net:8000/play/streamDylitest/index.m3u8
 #EXTINF:-1,GLOBE TV
 http://italbania.live/globetv/tibo/index.m3u8
+#EXTINF:-1,Top Channel
+http://tibotv.s.llnwi.net/dvr2file/yWbXvr1S/topchannel_fo_1080p/playlist.m3u8
+#EXTINF:-1,Klan TV
+http://tibotv.s.llnwi.net/dvr1file/yWbXvr1S/klantring_720p/playlist.m3u8
+#EXTINF:-1,Klan Plus
+http://tibotv.s.llnwi.net/dvr1file/yWbXvr1S/klanpl19us_720p/playlist.m3u8
+#EXTINF:-1,Vizion Plus
+http://tibotv.s.llnwi.net/dvr1file/yWbXvr1S/vizionplus_720p/playlist.m3u8
+#EXTINF:-1,ABC
+http://tibotv.s.llnwi.net/dvr1file/yWbXvr1S/abc_netup_720p/playlist.m3u8
+#EXTINF:-1,Syri TV
+http://tibotv.s.llnwi.net/dvr1file/yWbXvr1S/syrihd_720p/playlist.m3u8
+#EXTINF:-1,MCN TV
+http://tibotv.s.llnwi.net/dvr1file/yWbXvr1S/mcn_netup_720p/playlist.m3u8
+#EXTINF:-1,RTSH 1
+http://tibotv.s.llnwi.net/dvr2file/yWbXvr1S/rtsh1_720p/playlist.m3u8
+#EXTINF:-1,RTK 1
+http://tibotv.s.llnwi.net/dvr2file/yWbXvr1S/rtkhd1_720p/playlist.m3u8
+#EXTINF:-1,KTV
+http://tibotv.s.llnwi.net/dvr2file/yWbXvr1S/ktv119new_720p/playlist.m3u8
+#EXTINF:-1,Tëvë 1
+https://tibotv.s.llnwi.net/amd20file/yWbXvr1S/teve1_720p/playlist.m3u8
+#EXTINF:-1,Alsat M
+http://tibotv.s.llnwi.net/dvr1file/yWbXvr1S/alsatm1_720p/playlist.m3u8
+#EXTINF:-1,Top News
+http://tibotv.s.llnwi.net/dvr2file/yWbXvr1S/topnews_720p/playlist.m3u8
+#EXTINF:-1,Tibo News
+http://tibotv.s.llnwi.net/amd20file/yWbXvr1S/tnews_720p/playlist.m3u8
+#EXTINF:-1,RTSH Shkollë
+http://tibotv.s.llnwi.net/dvr2file/yWbXvr1S/rtshshkolla_720p/playlist.m3u8
+#EXTINF:-1,RTSH Sport
+http://tibotv.s.llnwi.net/dvr1file/yWbXvr1S/rtshsport_720p/playlist.m3u8
+#EXTINF:-1,TV Kopliku
+http://amdcam.tibo.tv:8081/yWbXvr1S/kopliku/playlist.m3u8
+#EXTINF:-1,Klan Macedonia
+http://amdcam.tibo.tv:8081/yWbXvr1S/klanmkd_720p/playlist.m3u8
+#EXTINF:-1,TV Dukagjini
+http://amdcam.tibo.tv:8081/yWbXvr1S/dukagjini_720p/playlist.m3u8
+#EXTINF:-1,RTV 21
+http://136.243.32.241:8081/yWbXvr1S/rtv21_720p/playlist.m3u8
+#EXTINF:-1,Tring Shqip
+http://136.243.32.241:8081/yWbXvr1S/tringshqip_720p/playlist.m3u8
+#EXTINF:-1,T7
+http://157.90.135.164:8081/yWbXvr1S/t7_720p/playlist.m3u8
+#EXTINF:-1,News 24
+http://157.90.135.164:8081/yWbXvr1S/news24_720p/playlist.m3u8
+#EXTINF:-1,Report TV
+http://157.90.135.164:8081/yWbXvr1S/reporttv_720p/playlist.m3u8
 #EXTINF:-1,TOP CHANNEL HD
 http://130.0.24.6:2831/udp/238.51.51.108:5000
 #EXTINF:-1,VIZION PLUS HD
