@@ -334,12 +334,16 @@ http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/61289
 http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/61290
 #EXTINF:-1,DIGI SPORT 4HD
 http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/61291
-#EXTINF:-1,SILK SPORT 1HD
-https://tbs01-edge11.itdc.ge/silksport1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SILK SPORT 2HD
-https://tbs01-edge11.itdc.ge/silksport2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SILK SPORT 3HD
-https://tbs01-edge11.itdc.ge/silksport3/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SPORTS TV 1HD
+http://78.159.119.122:2082/xplus-2-jUaVNU12ge/w4MH0doIHH/167
+#EXTINF:-1,SPORTS TV 2HD
+http://78.159.119.122:2082/xplus-2-jUaVNU12ge/w4MH0doIHH/168
+#EXTINF:-1,SPORTS TV 3HD
+http://78.159.119.122:2082/xplus-2-jUaVNU12ge/w4MH0doIHH/169
+#EXTINF:-1,SPORTS TV 4HD
+http://78.159.119.122:2082/xplus-2-jUaVNU12ge/w4MH0doIHH/170
+#EXTINF:-1,SPORTS TV 5HD
+http://78.159.119.122:2082/xplus-2-jUaVNU12ge/w4MH0doIHH/171
 #EXTINF:-1,ARENA SPORT 1HD
 http://80.252.37.194:5000/udp/233.233.233.3:12000
 #EXTINF:-1,ARENA SPORT 2HD
