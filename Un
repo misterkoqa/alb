@@ -3,6 +3,14 @@
 http://5.254.89.106/8840/index.m3u8
 #EXTINF:-1,Big Brother 2KS
 http://5.254.89.106/8841/index.m3u8
+#EXTINF:-1,TOP CHANNEL UHD
+https://5.254.81.2:7090/8708/index.m3u8
+#EXTINF:-1,VIZION PLUS UHD
+https://5.254.81.2:7090/8703/index.m3u8
+#EXTINF:-1,KLAN UHD
+https://5.254.81.2:7090/8704/index.m3u8
+#EXTINF:-1,KLAN PLUS UHD
+https://5.254.81.2:7090/8720/index.m3u8
 #EXTINF:-1,Top Channel test
 http://109.236.44.157:2121/topchannel
 #EXTINF:-1,Klan TV test
