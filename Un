@@ -5,6 +5,8 @@ http://5.254.89.106/8840/index.m3u8
 #EXTINF:-1,Big Brother ALBANIA 2
 http://shikoshqip.eu:8080/live/iptv-hv/dasfdcxyt543mbv/183.ts
 http://5.254.89.106/8841/index.m3u8
+#EXTINF:-1,Abcom/Vodafon
+http://51.159.5.165:8000/play/a01f/index.m3u8
 #EXTINF:-1,Top Channel
 http://109.236.44.157:2121/topchannel
 #EXTINF:-1,Klan TV
