@@ -5,8 +5,8 @@ http://5.254.89.106/8840/index.m3u8
 #EXTINF:-1,Big Brother ALBANIA 2
 http://shikoshqip.eu:8080/live/iptv-hv/dasfdcxyt543mbv/183.ts
 http://5.254.89.106/8841/index.m3u8
-#EXTINF:-1,Abcom/Vodafon
-http://51.159.5.165:8000/play/a01f/index.m3u8
+#EXTINF:-1,MTV MUSIC
+http://46.29.169.15:4001/play/a035/index.m3u8
 #EXTINF:-1,Top Channel
 http://109.236.44.157:2121/topchannel
 #EXTINF:-1,Klan TV
@@ -15,6 +15,8 @@ http://109.236.44.157:2121/klan
 http://109.236.44.157:2121/klanplus
 #EXTINF:-1,Vizion Plus
 http://109.236.44.157:2121/vizion
+#EXTINF:-1,RTV21 HD
+http://51.159.5.165:8000/play/a00b/index.m3u8
 #EXTINF:-1,ABC
 http://109.236.44.157:2121/abc
 #EXTINF:-1,Syri TV
