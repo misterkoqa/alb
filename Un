@@ -23,10 +23,18 @@ http://109.236.44.157:2121/abc
 http://109.236.44.157:2121/syritv
 #EXTINF:-1,MCN TV
 http://109.236.44.157:2121/mcn
-#EXTINF:-1,RTV21 HD
-http://46.29.169.15:4001/play/a00b/index.m3u8
 #EXTINF:-1,TV2 HD
 http://46.29.169.15:4001/play/a034/index.m3u8
+#EXTINF:-1,Rai 1 HD
+http://45.65.112.49:8000/play/a078
+#EXTINF:-1,Rai 2 HD
+http://45.65.112.49:8000/play/a079
+#EXTINF:-1,Rai 3 HD
+http://45.65.112.49:8000/play/a07a
+#EXTINF:-1,RSI LA 1 HD
+http://45.65.112.49:8000/play/a094
+#EXTINF:-1,RSI LA 2 HD
+http://45.65.112.49:8000/play/a095
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10858
 #EXTINF:-1,NATIONAL GEOGRAPHIC WILD HD
