@@ -132,6 +132,10 @@ http://93.155.227.38:555/m3u8/balkanikahd.m3u8
 http://93.155.227.38:555/m3u8/fentvhd.m3u8
 #EXTINF:-1,PLANETA HD
 http://93.155.227.38:555/m3u8/planetahd.m3u8
+#EXTINF:-1,ACTION HD
+http://vo01.mohdtv.com:8880/live/ALLChannels681def196cdd/15754693/30590.ts
+#EXTINF:-1,FAMILY HD
+http://vo01.mohdtv.com:8880/live/ALLChannels681def196cdd/15754693/30592.ts
 #EXTINF:-1,KS PREMIER 1
 http://scorpione.net:25461/biza/koko12/180479
 #EXTINF:-1,KS PREMIER 2
