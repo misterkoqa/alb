@@ -3,6 +3,10 @@
 http://metitv.xyz:8080/live/Edmond/Kabashi/6730.ts
 #EXTINF:-1,Big Brother ALBANIA 2
 http://metitv.xyz:8080/live/Edmond/Kabashi/6731.ts
+#EXTINF:-1,BBVIP KS 1
+http://51.159.6.129:80/BBVIPAL12/BBVIPKS12/274
+#EXTINF:-1,BBVIP KS 2
+http://51.159.6.129:80/BBVIPAL12/BBVIPKS12/275
 #EXTINF:-1,TOP CHANNEL HD
 http://cdn.one.al/live/infinite/Top_Channel_HD/hls-fta/Top_Channel_HD.m3u8
 #EXTINF:-1,KLAN HD
