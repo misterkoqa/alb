@@ -17,7 +17,9 @@ http://109.236.44.157:2121/rtsh
 http://109.236.44.157:2121/rtsh2
 #EXTINF:-1,RTSH 3HD
 http://109.236.44.157:2121/rtsh3
-XTINF:-1,Top Channel
+#EXTINF:-1,RTSH SPORT HD
+http://109.236.44.157:2121/rtshsport
+#EXTINF:-1,Top Channel
 http://109.236.44.157:2121/topchannel
 #EXTINF:-1,Klan TV
 http://109.236.44.157:2121/klan
