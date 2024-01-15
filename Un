@@ -7,8 +7,12 @@ http://5.254.89.106/8840/index.m3u8
 http://metitv.xyz:8080/live/Edmond/Kabashi/6731.ts
 http://shikoshqip.eu:8080/live/iptv-hv/dasfdcxyt543mbv/183.ts
 http://5.254.89.106/8841/index.m3u8
-#EXTINF:-1,MTV MUSIC
-http://46.29.169.15:4001/play/a035/index.m3u8
+#EXTINF:-1,TOP CHANNEL
+http://cdn.one.al/live/infinite/Top_Channel_HD/hls-fta/Top_Channel_HD.m3u8
+#EXTINF:-1,KLAN
+http://cdn.one.al/live/infinite/TV_KLAN/hls-fta/TV_KLAN.m3u8
+#EXTINF:-1,VIZION PLUS
+https://mfe01.tring.al/delta/105/out/u/1180_1.m3u8
 #EXTINF:-1,Top Channel
 http://109.236.44.157:2121/topchannel
 #EXTINF:-1,Klan TV
