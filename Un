@@ -8,10 +8,11 @@ http://51.159.6.129:80/BBVIPAL12/BBVIPKS12/274
 #EXTINF:-1,BBVIP KS 2
 http://51.159.6.129:80/BBVIPAL12/BBVIPKS12/275
 #EXTINF:-1,TOP CHANNEL HD
-http://cdn.one.al/live/infinite/Top_Channel_HD/hls-fta/Top_Channel_HD.m3u8
+http://premiumiptvmk.com:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1311
 #EXTINF:-1,KLAN HD
-http://cdn.one.al/live/infinite/TV_KLAN/hls-fta/TV_KLAN.m3u8
+http://premiumiptvmk.com:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1853
 #EXTINF:-1,VIZION PLUS HD
+http://premiumiptvmk.com:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1299
 https://mfe01.tring.al/delta/105/out/u/1180_1.m3u8
 #EXTINF:1",MTV Kosova
 http://146.59.19.1/5051/index.m3u8
