@@ -14,6 +14,10 @@ http://premiumiptvmk.com:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1853
 #EXTINF:-1,VIZION PLUS HD
 http://premiumiptvmk.com:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1299
 https://mfe01.tring.al/delta/105/out/u/1180_1.m3u8
+#EXTINF:-1,KLAN KOSOVA
+http://premiumiptvmk.com:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/2561
+#EXTINF:-1,KLAN PLUS
+http://premiumiptvmk.com:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/2562
 #EXTINF:1",MTV Kosova
 http://146.59.19.1/5051/index.m3u8
 #EXTINF:-1,RTSH 1HD
@@ -237,6 +241,12 @@ http://premiumiptvmk.com:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/297289
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1,WWE WRESTLING 2
 http://sysadminhost.net:8080/F11721/6ddb91eb/2373
+#EXTINF:-1,Oversport 1
+http://premiumiptvmk.com:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/290218
+#EXTINF:-1,Oversport 2
+http://premiumiptvmk.com:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/295514
+#EXTINF:-1,Oversport 3
+http://premiumiptvmk.com:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/290537
 #EXTINF:-1,SUPER SPORTS 1
 http://scorpione.net:25461/biza/koko12/180554
 #EXTINF:-1,SUPER SPORTS 2
