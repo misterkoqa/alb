@@ -216,6 +216,32 @@ http://46.29.169.15:4001/play/a039/index.m3u8
 http://46.29.169.15:4001/play/a03a/index.m3u8
 #EXTINF:-1,SS-3HD
 http://46.29.169.15:4001/play/a03b/index.m3u8
+#EXTINF:-1,SUPER SPORTS 1
+http://scorpione.net:25461/biza/koko12/180554
+#EXTINF:-1,SUPER SPORTS 2
+http://scorpione.net:25461/biza/koko12/180555
+#EXTINF:-1,SUPER SPORTS 3
+http://scorpione.net:25461/biza/koko12/180556
+#EXTINF:-1,SUPER SPORTS 4
+http://scorpione.net:25461/biza/koko12/180557
+#EXTINF:-1,SUPER SPORTS 5
+http://scorpione.net:25461/biza/koko12/180558
+#EXTINF:-1,SUPER SPORTS 6
+http://scorpione.net:25461/biza/koko12/180559
+#EXTINF:-1,SUPER SPORTS 7
+http://scorpione.net:25461/biza/koko12/180560
+#EXTINF:-1,SUPER SPORTS NEWS
+http://scorpione.net:25461/biza/koko12/180561
+#EXTINF:-1,TRING SPORT 1
+http://scorpione.net:25461/biza/koko12/180587
+#EXTINF:-1,TRING SPORT 2
+http://scorpione.net:25461/biza/koko12/180588
+#EXTINF:-1,TRING SPORT 3
+http://scorpione.net:25461/biza/koko12/180589
+#EXTINF:-1,TRING SPORT 4
+http://scorpione.net:25461/biza/koko12/180590
+#EXTINF:-1,TRING SPORT NEWS
+http://scorpione.net:25461/biza/koko12/180591
 #EXTINF:-1,DIGI SPORT 1HD
 http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/61288
 #EXTINF:-1,DIGI SPORT 2HD
