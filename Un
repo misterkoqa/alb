@@ -281,6 +281,16 @@ http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/61289
 http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/61290
 #EXTINF:-1,DIGI SPORT 4HD
 http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/61291
+#EXTINF:-1,ELEVEN SPORTS 1 UHD
+http://cdn.spmr.tv:8080/x6xpbw/video.m3u8?token=5W1ZK8D4AX
+#EXTINF:-1,Eleven Sports 1 HD
+http://cdn.spmr.tv:8080/s2bqur/video.m3u8?token=5W1ZK8D4AX
+#EXTINF:-1,Eleven Sports 2 HD
+http://cdn.spmr.tv:8080/rtjs8r/video.m3u8?token=5W1ZK8D4AX
+#EXTINF:-1,Eleven Sports 3 HD
+http://cdn.spmr.tv:8080/54elmn/video.m3u8?token=5W1ZK8D4AX
+#EXTINF:-1,Eleven Sports 4 HD
+http://cdn.spmr.tv:8080/iu7xd5/video.m3u8?token=5W1ZK8D4AX
 #EXTINF:-1,MAX SPORT 1
 http://93.155.227.38:555/m3u8/webmtelsport_web.m3u8
 #EXTINF:-1,MAX SPORT 2
