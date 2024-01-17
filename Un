@@ -433,24 +433,42 @@ https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-0 group-title="ITALIA TV DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",RAI NEWS HD
 https://streamcdnr15-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
-#EXTINF:-1,RAI 1
-http://142.132.151.149/RAI1/index.m3u8
-#EXTINF:-1,RAI 2
-http://142.132.151.149/RAI2/index.m3u8
-#EXTINF:-1,RAI 3
-http://142.132.151.149/RAI3/index.m3u8
-#EXTINF:-1,RAI 4
-http://142.132.151.149/RAI4/index.m3u8
-#EXTINF:-1,CANALE 5 HD
-https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(c5)/index.m3u8
-#EXTINF:-1,ITALIA 1 HD
-https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
-#EXTINF:-1,RETE 4 HD
-https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
-#EXTINF:-1,ITALIA 2 HD
-https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
-#EXTINF:-1,MEDIASET EXTRA HD
-https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
+#EXTINF:-1,Rai 1 HD
+http://176.65.146.136:8020/play/a06g/index.m3u8
+#EXTINF:-1,Rai 2 HD
+http://176.65.146.136:8020/play/a06h/index.m3u8
+#EXTINF:-1,Rai 3 HD
+http://176.65.146.136:8020/play/a06i/index.m3u8
+#EXTINF:-1,Rai 4 HD
+http://176.65.146.136:8020/play/a06j/index.m3u8
+#EXTINF:-1,Rai 4K
+http://176.65.146.136:8020/play/a06l/index.m3u8
+#EXTINF:-1,Rai Movie HD
+http://176.65.146.136:8020/play/a06k/index.m3u8
+#EXTINF:-1,Rai Gulp HD
+http://176.65.146.136:8002/play/a0er/index.m3u8
+#EXTINF:-1,Rai News 24 HD
+http://176.65.146.136:8002/play/a0ev/index.m3u8
+#EXTINF:-1,Rai Premium HD
+http://176.65.146.136:8002/play/a0et/index.m3u8
+#EXTINF:-1,Rai Sport HD
+http://176.65.146.136:8002/play/a0ep/index.m3u8
+#EXTINF:-1,Rai Storia HD
+http://176.65.146.136:8002/play/a0eu/index.m3u8
+#EXTINF:-1,Rai YoYo HD
+http://176.65.146.136:8002/play/a0es/index.m3u8
+#EXTINF:-1,Pro7 MAXX HD
+http://176.65.146.136:8005/play/a06v/index.m3u8
+#EXTINF:-1,ProSieben HD
+http://176.65.146.136:8005/play/a06s/index.m3u8
+#EXTINF:-1,SAT.1 HD
+http://176.65.146.136:8005/play/a06r/index.m3u8
+#EXTINF:-1,RTL HD
+http://176.65.146.136:8001/play/a0do/index.m3u8
+#EXTINF:-1,VOX HD
+http://176.65.146.136:8001/play/a0dp/index.m3u8
+#EXTINF:-1,LA7 HD
+http://176.65.146.136:8020/play/a06q/index.m3u8
 #EXTINF:-1,LA WEB TV
 https://stream2.xdevel.com/video0s975911-681/stream/playlist_dvr.m3u8
 #EXTINF:-1,GOLD TV
@@ -465,18 +483,6 @@ https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
 #EXTINF:-1,LA 7D HD
 https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
-#EXTINF:-1,IRIS HD
-https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
-#EXTINF:-1,BOING HD
-https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(kb)/index.m3u8
-#EXTINF:-1,CARTOONITO HD
-https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(la)/index.m3u8
-#EXTINF:-1,LA 5 HD
-https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
-#EXTINF:-1,LA 20 HD
-https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
-#EXTINF:-1,TOP CRIME HD
-https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
 #EXTINF:-0 group-title="FILM TV DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",NETFLIX SERIES 1HD
 http://mix-dns.com:8080/pamelacoffey/Trythisnow1/567132
 #EXTINF:-1,NETFLIX SERIES 2HD
