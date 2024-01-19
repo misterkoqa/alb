@@ -440,6 +440,12 @@ http://176.65.146.136:8020/play/a06i/index.m3u8
 http://176.65.146.136:8020/play/a06j/index.m3u8
 #EXTINF:-1,Rai 4K
 http://176.65.146.136:8020/play/a06l/index.m3u8
+#EXTINF:-1,ITALIA 1 HD
+http://176.65.146.136:8019/play/a070/index.m3u8
+#EXTINF:-1,CANALE 5 HD
+http://176.65.146.136:8019/play/a071/index.m3u8
+#EXTINF:-1,RETE 4 HD
+http://176.65.146.136:8019/play/a073/index.m3u8
 #EXTINF:-1,Rai Movie HD
 http://176.65.146.136:8020/play/a06k/index.m3u8
 #EXTINF:-1,Rai Gulp HD
