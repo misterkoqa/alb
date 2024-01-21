@@ -18,6 +18,10 @@ https://mfe01.tring.al/delta/105/out/u/1180_1.m3u8
 http://premiumiptvmk.com:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/2561
 #EXTINF:-1,KLAN PLUS
 http://premiumiptvmk.com:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/2562
+#EXTINF:-1,ALSAT M
+http://46.29.169.15:4001/play/a03c/index.m3u8
+#EXTINF:-1,KLAN KOSOVA
+http://46.29.169.15:4001/play/a03w/index.m3u8
 #EXTINF:1",MTV Kosova
 http://146.59.19.1/5051/index.m3u8
 #EXTINF:-1,RTSH 1HD
