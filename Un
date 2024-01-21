@@ -441,10 +441,13 @@ http://176.65.146.136:8020/play/a06j/index.m3u8
 #EXTINF:-1,Rai 4K
 http://176.65.146.136:8020/play/a06l/index.m3u8
 #EXTINF:-1,ITALIA 1 HD
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 http://176.65.146.136:8019/play/a070/index.m3u8
 #EXTINF:-1,CANALE 5 HD
+https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
 http://176.65.146.136:8019/play/a071/index.m3u8
 #EXTINF:-1,RETE 4 HD
+https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
 http://176.65.146.136:8019/play/a073/index.m3u8
 #EXTINF:-1,Rai Movie HD
 http://176.65.146.136:8020/play/a06k/index.m3u8
