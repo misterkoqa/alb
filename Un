@@ -250,8 +250,12 @@ http://premiumiptvmk.com:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/297287
 http://premiumiptvmk.com:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/297288
 #EXTINF:-1,MetiTV Tallava
 http://premiumiptvmk.com:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/297289
-#EXTINF:-1,WWE WRESTLING 1
+#EXTINF:-1,WWE WRESTLING
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1,Sony 1 HD
+https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports1.smil/playlist.m3u8
+#EXTINF:-1,Sony 2 HD
+https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports2.smil/playlist.m3u8
 #EXTINF:-1,BEIN SPORTS 1
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61168.m3u8
 #EXTINF:-1,BEIN SPORTS 2
