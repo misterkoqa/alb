@@ -24,8 +24,6 @@ http://79.106.90.119:1444/klanplus/index.m3u8
 http://premiumiptvmk.com:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/2562
 #EXTINF:-1,ALSAT M
 http://46.29.169.15:4001/play/a03c/index.m3u8
-#EXTINF:-1,KLAN KOSOVA
-http://46.29.169.15:4001/play/a03w/index.m3u8
 #EXTINF:-1,KLAN MUSIC
 http://79.106.90.119:1444/klanmusic/index.m3u8
 #EXTINF:-1,KLAN NEWS
@@ -38,6 +36,8 @@ http://79.106.90.119:1444/news24/index.m3u8
 http://79.106.90.119:1444/abchd/index.m3u8
 #EXTINF:-1,EURONEWS ALBANIA
 http://79.106.90.119:1444/euronewsalbania/index.m3u8
+#EXTINF:-1,SCAN TV
+http://79.106.90.119:1444/scantv/index.m3u8
 #EXTINF:-1,BBF MUSIC
 http://79.106.90.119:1444/bbftv/index.m3u8
 #EXTINF:-1,FOLK PLUS
