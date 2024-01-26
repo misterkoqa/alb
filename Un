@@ -52,6 +52,20 @@ http://79.106.90.119:1444/bbftv/index.m3u8
 http://79.106.90.119:1444/folkplus/index.m3u8
 #EXTINF:-1,SUPERSONIK TV
 http://79.106.90.119:1444/supersonictv/index.m3u8
+#EXTINF:-1,Tring Super
+http://135.125.6.54/tringsuper/index.m3u8
+#EXTINF:-1,Tring Fantasy
+http://135.125.6.54/tringfantasi/index.m3u8
+#EXTINF:-1,Tring Aksion
+http://135.125.6.54/tringaksion/index.m3u8
+#EXTINF:-1,Tring Original
+http://shpiragu.selfip.info:8112/Original/index.m3u8?token=2q-deJ54x0
+#EXTINF:-1,TV Kopliku
+http://shpiragu.selfip.info:8112/TV_Kopliku/index.m3u8?token=2q-deJ54x0
+#EXTINF:-1,Shijak TV
+http://newworld.selfip.info:8112/Shijak_TV/index.m3u8?token=dc7cmGXxC1
+#EXTINF:-1,Apollon TV
+http://shpiragu.selfip.info:8112/Apollon_TV/index.m3u8?token=2q-deJ54x0
 #EXTINF:-1,RTSH 1HD
 http://109.236.44.157:2121/rtsh
 #EXTINF:-1,RTSH 2HD
