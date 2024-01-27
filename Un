@@ -308,38 +308,12 @@ http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61171.m3u8
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61172.m3u8
 #EXTINF:-1,BEIN SPORTS 6
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61173.m3u8
-#EXTINF:-1,Oversport 1
-http://premiumiptvmk.com:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/290218
-#EXTINF:-1,Oversport 2
-http://premiumiptvmk.com:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/295514
-#EXTINF:-1,Oversport 3
-http://premiumiptvmk.com:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/290537
-#EXTINF:-1,SUPER SPORTS 1
-http://scorpione.net:25461/biza/koko12/180554
-#EXTINF:-1,SUPER SPORTS 2
-http://scorpione.net:25461/biza/koko12/180555
-#EXTINF:-1,SUPER SPORTS 3
-http://scorpione.net:25461/biza/koko12/180556
-#EXTINF:-1,SUPER SPORTS 4
-http://scorpione.net:25461/biza/koko12/180557
-#EXTINF:-1,SUPER SPORTS 5
-http://scorpione.net:25461/biza/koko12/180558
-#EXTINF:-1,SUPER SPORTS 6
-http://scorpione.net:25461/biza/koko12/180559
-#EXTINF:-1,SUPER SPORTS 7
-http://scorpione.net:25461/biza/koko12/180560
-#EXTINF:-1,SUPER SPORTS NEWS
-http://scorpione.net:25461/biza/koko12/180561
-#EXTINF:-1,TRING SPORT 1
-http://scorpione.net:25461/biza/koko12/180587
-#EXTINF:-1,TRING SPORT 2
-http://scorpione.net:25461/biza/koko12/180588
-#EXTINF:-1,TRING SPORT 3
-http://scorpione.net:25461/biza/koko12/180589
-#EXTINF:-1,TRING SPORT 4
-http://scorpione.net:25461/biza/koko12/180590
-#EXTINF:-1,TRING SPORT NEWS
-http://scorpione.net:25461/biza/koko12/180591
+#EXTINF:-1,Футбол 1 HD
+http://cdn.spmr.tv:8080/f6x6no/video.m3u8?token=JO7OE4V7ZX
+#EXTINF:-1,Футбол 2 HD
+http://cdn.spmr.tv:8080/t2czx3/video.m3u8?token=JO7OE4V7ZX
+#EXTINF:-1,Футбол 3 HD
+http://cdn.spmr.tv:8080/nb2pq7/video.m3u8?token=JO7OE4V7ZX
 #EXTINF:-1,DIGI SPORT 1HD
 http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/61288
 #EXTINF:-1,DIGI SPORT 2HD
@@ -348,16 +322,26 @@ http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/61289
 http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/61290
 #EXTINF:-1,DIGI SPORT 4HD
 http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/61291
-#EXTINF:-1,ELEVEN SPORTS 1 UHD
-http://cdn.spmr.tv:8080/x6xpbw/video.m3u8?token=5W1ZK8D4AX
-#EXTINF:-1,Eleven Sports 1 HD
-http://cdn.spmr.tv:8080/s2bqur/video.m3u8?token=5W1ZK8D4AX
-#EXTINF:-1,Eleven Sports 2 HD
-http://cdn.spmr.tv:8080/rtjs8r/video.m3u8?token=5W1ZK8D4AX
-#EXTINF:-1,Eleven Sports 3 HD
-http://cdn.spmr.tv:8080/54elmn/video.m3u8?token=5W1ZK8D4AX
-#EXTINF:-1,Eleven Sports 4 HD
-http://cdn.spmr.tv:8080/iu7xd5/video.m3u8?token=5W1ZK8D4AX
+#EXTINF:-1,Eleven Sports1 HD
+http://cdn.spmr.tv:8080/z95bsa/video.m3u8?token=JO7OE4V7ZX
+#EXTINF:-1,Eleven Sports2 HD
+http://cdn.spmr.tv:8080/6moy9u/video.m3u8?token=JO7OE4V7ZX
+#EXTINF:-1,Eleven Sports3 HD
+http://cdn.spmr.tv:8080/4se9ri/video.m3u8?token=JO7OE4V7ZX
+#EXTINF:-1,Eleven Sports4 HD
+http://cdn.spmr.tv:8080/w47jdo/video.m3u8?token=JO7OE4V7ZX
+#EXTINF:-1,Eleven Sports5 HD
+http://cdn.spmr.tv:8080/76m0ey/video.m3u8?token=JO7OE4V7ZX
+#EXTINF:-1,Eleven Sports6 HD
+http://cdn.spmr.tv:8080/6sxq1t/video.m3u8?token=JO7OE4V7ZX
+#EXTINF:-1,DIGI Sport1 HD
+http://cdn.spmr.tv:8080/co3k2z/video.m3u8?token=JO7OE4V7ZX
+#EXTINF:-1,DIGI Sport2 HD
+http://cdn.spmr.tv:8080/h4jgxs/video.m3u8?token=JO7OE4V7ZX
+#EXTINF:-1,DIGI Sport3 HD
+http://cdn.spmr.tv:8080/hmx73d/video.m3u8?token=JO7OE4V7ZX
+#EXTINF:-1,DIGI Sport4 HD
+http://cdn.spmr.tv:8080/m0e9d8/video.m3u8?token=JO7OE4V7ZX
 #EXTINF:-1,MAX SPORT 1
 http://93.155.227.38:555/m3u8/webmtelsport_web.m3u8
 #EXTINF:-1,MAX SPORT 2
