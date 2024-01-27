@@ -296,18 +296,6 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports1.smil/playlist.m3u8
 #EXTINF:-1,Sony 2 HD
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports2.smil/playlist.m3u8
-#EXTINF:-1,BEIN SPORTS 1
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61168.m3u8
-#EXTINF:-1,BEIN SPORTS 2
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61169.m3u8
-#EXTINF:-1,BEIN SPORTS 3
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61170.m3u8
-#EXTINF:-1,BEIN SPORTS 4
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61171.m3u8
-#EXTINF:-1,BEIN SPORTS 5
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61172.m3u8
-#EXTINF:-1,BEIN SPORTS 6
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61173.m3u8
 #EXTINF:-1,Футбол 1 HD
 http://cdn.spmr.tv:8080/f6x6no/video.m3u8?token=JO7OE4V7ZX
 #EXTINF:-1,Футбол 2 HD
@@ -342,24 +330,6 @@ http://cdn.spmr.tv:8080/h4jgxs/video.m3u8?token=JO7OE4V7ZX
 http://cdn.spmr.tv:8080/hmx73d/video.m3u8?token=JO7OE4V7ZX
 #EXTINF:-1,DIGI Sport4 HD
 http://cdn.spmr.tv:8080/m0e9d8/video.m3u8?token=JO7OE4V7ZX
-#EXTINF:-1,MAX SPORT 1
-http://93.155.227.38:555/m3u8/webmtelsport_web.m3u8
-#EXTINF:-1,MAX SPORT 2
-http://93.155.227.38:555/m3u8/webmtelsport2_web.m3u8
-#EXTINF:-1,MAX SPORT 3
-http://93.155.227.38:555/m3u8/webmtelsport3_web.m3u8
-#EXTINF:-1,MAX SPORT 4
-http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
-#EXTINF:-1,ARENA SPORT 1
-http://93.155.227.38:555/m3u8/arenasport1.m3u8
-#EXTINF:-1,ARENA SPORT 2
-http://93.155.227.38:555/m3u8/arenasport2.m3u8
-#EXTINF:-1,ARENA SPORT 3
-http://93.155.227.38:555/m3u8/arenasport3.m3u8
-#EXTINF:-1,ARENA SPORT 4
-http://93.155.227.38:555/m3u8/arenasport4.m3u8
-#EXTINF:-1,ARENA SPORT 5
-http://93.155.227.38:555/m3u8/arenasport5.m3u8
 #EXTINF:-1,Fox Sports 501
 http://sysadminhost.net:8080/F11721/6ddb91eb/279034
 #EXTINF:-1,Fox Sports 502
