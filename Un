@@ -285,10 +285,12 @@ http://premiumiptvmk.com:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/297287
 http://premiumiptvmk.com:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/297288
 #EXTINF:-1,MetiTV Tallava
 http://premiumiptvmk.com:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/297289
-#EXTINF:-1,WWE WRESTLING
+#EXTINF:-1,WWE WRESTLING 1
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:-1,WWE NETWORK
+#EXTINF:-1,WWE WRESTLING 2
 http://hdhd.tk:80/mitch/mitch/9
+#EXTINF:-1,WWE WRESTLING 3
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/54.m3u8
 #EXTINF:-1,Amazon Prime 1
 http://sysadminhost.net:8080/F11721/6ddb91eb/298718
 #EXTINF:-1,Amazon Prime 2
