@@ -289,14 +289,28 @@ http://premiumiptvmk.com:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/297289
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1,WWE NETWORK
 http://hdhd.tk:80/mitch/mitch/9
-#EXTINF:-1,Sony 1 HD
-https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports1.smil/playlist.m3u8
-#EXTINF:-1,Sony 2 HD
-https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports2.smil/playlist.m3u8
-#EXTINF:-1,Sport TV1 HD
-http://cdn.spmr.tv:8080/d6pvl0/video.m3u8?token=JO7OE4V7ZX
-#EXTINF:-1,Sport TV2 HD
-http://cdn.spmr.tv:8080/5k21z3/video.m3u8?token=JO7OE4V7ZX
+#EXTINF:-1,Amazon Prime 1
+http://sysadminhost.net:8080/F11721/6ddb91eb/298718
+#EXTINF:-1,Amazon Prime 2
+http://sysadminhost.net:8080/F11721/6ddb91eb/298719
+#EXTINF:-1,Amazon Prime 3
+http://sysadminhost.net:8080/F11721/6ddb91eb/298720
+#EXTINF:-1,Amazon Prime 4
+http://sysadminhost.net:8080/F11721/6ddb91eb/298721
+#EXTINF:-1,Amazon Prime 5
+http://sysadminhost.net:8080/F11721/6ddb91eb/298722
+#EXTINF:-1,Amazon Prime 6
+http://sysadminhost.net:8080/F11721/6ddb91eb/298723
+#EXTINF:-1,Amazon Prime 7
+http://sysadminhost.net:8080/F11721/6ddb91eb/298724
+#EXTINF:-1,Amazon Prime 8
+http://sysadminhost.net:8080/F11721/6ddb91eb/299259
+#EXTINF:-1,beIN Sports 1
+http://sysadminhost.net:8080/F11721/6ddb91eb/144
+#EXTINF:-1,beIN Sports 2
+http://sysadminhost.net:8080/F11721/6ddb91eb/145
+#EXTINF:-1,beIN Sports 3
+http://sysadminhost.net:8080/F11721/6ddb91eb/146
 #EXTINF:-1,Футбол 1 HD
 http://cdn.spmr.tv:8080/f6x6no/video.m3u8?token=JO7OE4V7ZX
 #EXTINF:-1,Футбол 2 HD
