@@ -56,12 +56,16 @@ http://79.106.90.119:1444/folkplus/index.m3u8
 #EXTINF:-1,SUPERSONIK TV
 http://79.106.90.119:1444/supersonictv/index.m3u8
 #EXTINF:-1,Tring Super
+http://79.106.90.119:1444/tringsuper/index.m3u8
 http://135.125.6.54/tringsuper/index.m3u8
 #EXTINF:-1,Tring Fantasy
+http://79.106.90.119:1444/tringfantasy/index.m3u8
 http://135.125.6.54/tringfantasi/index.m3u8
 #EXTINF:-1,Tring Comedy
+http://79.106.90.119:1444/tringcomedy/index.m3u8
 http://135.125.6.54/tringcomedi/index.m3u8
 #EXTINF:-1,Tring Aksion
+http://79.106.90.119:1444/tringaksion/index.m3u8
 http://135.125.6.54/tringaksion/index.m3u8
 #EXTINF:-1,RTV 21 HD
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/tracks-v4a1/mono.m3u8
