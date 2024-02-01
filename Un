@@ -63,6 +63,10 @@ http://135.125.6.54/tringfantasi/index.m3u8
 http://135.125.6.54/tringcomedi/index.m3u8
 #EXTINF:-1,Tring Aksion
 http://135.125.6.54/tringaksion/index.m3u8
+#EXTINF:-1,BESA HD
+https://gjirafa-video-live.gjirafa.net/gjvideo-live-n1/ehn-g2o-v7w-nh4/tracks-v4a1/mono.m3u8
+#EXTINF:-1,TV PRIZRENI HD
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/5m0-cok-g5z-1xi/tracks-v4a1/mono.m3u8
 #EXTINF:-1,RTK 1 HD
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/98r-d35-487-v6m/tracks-v4a1/mono.m3u8
 #EXTINF:-1,RTK 2 HD
