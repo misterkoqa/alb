@@ -76,6 +76,8 @@ http://79.106.90.119:1444/jollyhd/index.m3u8
 http://79.106.90.119:1444/tlife/index.m3u8
 #EXTINF:-1,Tring Muse
 http://79.106.90.119:1444/muse/index.m3u8
+#EXTINF:-1,Tring Living
+http://79.106.90.119:1444/living/index.m3u8
 #EXTINF:-1,RTV 21 HD
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/tracks-v4a1/mono.m3u8
 #EXTINF:-1,SYRI VISION HD
