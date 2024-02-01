@@ -5,10 +5,8 @@ http://media:B63ghIl8WfTd1o01@62.162.115.37:7212/BB1AL
 http://media:B63ghIl8WfTd1o0@62.162.115.37:7213/BB2AL
 #EXTINF:-1,TOP CHANNEL HD
 http://79.106.90.119:1444/tophd/index.m3u8
-http://premiumiptvmk.com:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1311
 #EXTINF:-1,KLAN HD
 http://79.106.90.119:1444/klanhd/index.m3u8
-http://premiumiptvmk.com:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/1853
 #EXTINF:-1,VIZION PLUS HD
 http://79.106.90.119:1444/vizionplus/index.m3u8
 https://mfe01.tring.al/delta/105/out/u/1180_1.m3u8
@@ -45,8 +43,12 @@ http://79.106.90.119:1444/euronewsalbania/index.m3u8
 http://79.106.90.119:1444/scantv/index.m3u8
 #EXTINF:-1,Report TV
 https://deb10stream.duckdns.org/hls/stream.m3u8
-#EXTINF:-1,Top News
-https://trueodin.serv00.net/?t=topnewsal
+#EXTINF:-1,BALKANIKA TV
+http://93.155.227.38/m3u8/balkanikahd.m3u8
+#EXTINF:-1,FEN-TV
+http://93.155.227.38/m3u8/fentvhd.m3u8
+#EXTINF:-1,PLANETA HD
+http://93.155.227.38/m3u8/planetahd.m3u8
 #EXTINF:-1,Folklorit TV
 https://vs.sednastream.com:1936/folklorit/folklorit/playlist.m3u8
 #EXTINF:-1,BBF MUSIC
