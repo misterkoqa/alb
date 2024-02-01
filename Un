@@ -67,6 +67,10 @@ http://135.125.6.54/tringcomedi/index.m3u8
 #EXTINF:-1,Tring Aksion
 http://79.106.90.119:1444/tringaksion/index.m3u8
 http://135.125.6.54/tringaksion/index.m3u8
+#EXTINF:-1,Tring 3Plus
+http://79.106.90.119:1444/3plus/index.m3u8
+#EXTINF:-1,Tring Shqip
+http://79.106.90.119:1444/tshqip/index.m3u8
 #EXTINF:-1,RTV 21 HD
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/tracks-v4a1/mono.m3u8
 #EXTINF:-1,SYRI VISION HD
