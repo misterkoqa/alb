@@ -65,7 +65,6 @@ http://135.125.6.54/tringfantasi/index.m3u8
 http://79.106.90.119:1444/tringcomedy/index.m3u8
 http://135.125.6.54/tringcomedi/index.m3u8
 #EXTINF:-1,Tring Aksion
-http://79.106.90.119:1444/tringaksion/index.m3u8
 http://135.125.6.54/tringaksion/index.m3u8
 #EXTINF:-1,Tring 3Plus
 http://79.106.90.119:1444/3plus/index.m3u8
@@ -73,6 +72,10 @@ http://79.106.90.119:1444/3plus/index.m3u8
 http://79.106.90.119:1444/tshqip/index.m3u8
 #EXTINF:-1,Tring Series
 http://79.106.90.119:1444/jollyhd/index.m3u8
+#EXTINF:-1,Tring Life
+http://79.106.90.119:1444/tlife/index.m3u8
+#EXTINF:-1,Tring Muse
+http://79.106.90.119:1444/muse/index.m3u8
 #EXTINF:-1,RTV 21 HD
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/tracks-v4a1/mono.m3u8
 #EXTINF:-1,SYRI VISION HD
