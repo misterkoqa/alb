@@ -3,18 +3,6 @@
 http://media:B63ghIl8WfTd1o01@62.162.115.37:7212/BB1AL
 #EXTINF:-1,Big Brother ALBANIA 2
 http://media:B63ghIl8WfTd1o0@62.162.115.37:7213/BB2AL
-#EXTINF:-1,
-http://85.12.210.103:1234/udp/239.99.17.240:1234
-#EXTINF:-1,
-http://85.12.210.103:1234/udp/239.99.17.241:1234
-#EXTINF:-1,
-http://85.12.210.103:1234/udp/239.99.17.242:1234
-#EXTINF:-1,
-http://85.12.210.103:1234/udp/239.99.17.243:1234
-#EXTINF:-1,
-http://85.12.210.103:1234/udp/239.99.17.244:1234
-#EXTINF:-1,
-http://85.12.210.103:1234/udp/239.99.17.245:1234
 #EXTINF:-1,TOP CHANNEL HD
 http://79.106.90.119:1444/tophd/index.m3u8
 #EXTINF:-1,KLAN HD
@@ -67,6 +55,10 @@ http://79.106.90.119:1444/bbftv/index.m3u8
 http://79.106.90.119:1444/folkplus/index.m3u8
 #EXTINF:-1,SUPERSONIK TV
 http://79.106.90.119:1444/supersonictv/index.m3u8
+#EXTINF:-1,XXL 1🔞
+http://85.12.210.103:1234/udp/239.99.17.251:1234
+#EXTINF:-1,XXL 2🔞
+http://85.12.210.103:1234/udp/239.99.17.252:1234
 #EXTINF:-1,Tring History
 http://79.106.90.119:1444/tringhistory/index.m3u8
 #EXTINF:-1,Tring World
