@@ -74,6 +74,8 @@ http://79.106.90.119:1444/3plus/index.m3u8
 http://79.106.90.119:1444/tshqip/index.m3u8
 #EXTINF:-1,Tring Series
 http://79.106.90.119:1444/jollyhd/index.m3u8
+#EXTINF:-1,Tring Novelas
+http://79.106.90.119:1444/tringnovelas/index.m3u8
 #EXTINF:-1,Tring Life
 http://79.106.90.119:1444/tlife/index.m3u8
 #EXTINF:-1,Tring Muse
@@ -326,6 +328,20 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 http://hdhd.tk:80/mitch/mitch/9
 #EXTINF:-1,WWE WRESTLING 3
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/54.m3u8
+#EXTINF:-1,SUPER SPORTS 1HD
+http://95.214.235.96:8880/29ca10183n04/asdfe332/30492
+#EXTINF:-1,SUPER SPORTS 2HD
+http://95.214.235.96:8880/29ca10183n04/asdfe332/30491
+#EXTINF:-1,SUPER SPORTS 3HD
+http://95.214.235.96:8880/29ca10183n04/asdfe332/30490
+#EXTINF:-1,SUPER SPORTS 4HD
+http://95.214.235.96:8880/29ca10183n04/asdfe332/30489
+#EXTINF:-1,SUPER SPORTS 5HD
+http://95.214.235.96:8880/29ca10183n04/asdfe332/30488
+#EXTINF:-1,SUPER SPORTS 6HD
+http://95.214.235.96:8880/29ca10183n04/asdfe332/30487
+#EXTINF:-1,SUPER SPORTS 7HD
+http://95.214.235.96:8880/29ca10183n04/asdfe332/30486
 #EXTINF:-1,Amazon Prime 1
 http://sysadminhost.net:8080/F11721/6ddb91eb/298718
 #EXTINF:-1,Amazon Prime 2
