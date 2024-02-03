@@ -248,24 +248,28 @@ http://vo01.mohdtv.com:8880/live/ALLChannels681def196cdd/15754693/30600.ts
 http://vo01.mohdtv.com:8880/live/ALLChannels681def196cdd/15754693/30479.ts
 #EXTINF:-1,TV JOHANITER
 https://protokolldns.xyz/tvjohaniterlivetsss/index.m3u8
-#EXTINF:-1,BALKANIKA HD
-http://93.155.227.38:555/m3u8/balkanikahd.m3u8
-#EXTINF:-1,FEN HD
-http://93.155.227.38:555/m3u8/fentvhd.m3u8
-#EXTINF:-1,PLANETA HD
-http://93.155.227.38:555/m3u8/planetahd.m3u8
-#EXTINF:-1,ACTION HD
-http://vo01.mohdtv.com:8880/live/ALLChannels681def196cdd/15754693/30590.ts
-#EXTINF:-1,FAMILY HD
-http://vo01.mohdtv.com:8880/live/ALLChannels681def196cdd/15754693/30592.ts
-#EXTINF:-1,KS PREMIER 1
-http://scorpione.net:25461/biza/koko12/180479
-#EXTINF:-1,KS PREMIER 2
-http://scorpione.net:25461/biza/koko12/180480
-#EXTINF:-1,KS PREMIER 3
-http://scorpione.net:25461/biza/koko12/180481
-#EXTINF:-1,KS PREMIER 4
-http://scorpione.net:25461/biza/koko12/180482
+#EXTINF:-1,Premier 1
+http://iptv3.kbc.al:25461/Samilushtaku/kkjni6Egq5/174
+#EXTINF:-1,Premier 2
+http://iptv3.kbc.al:25461/Samilushtaku/kkjni6Egq5/175
+#EXTINF:-1,Premier 3
+http://iptv3.kbc.al:25461/Samilushtaku/kkjni6Egq5/176
+#EXTINF:-1,Premier 4
+http://iptv3.kbc.al:25461/Samilushtaku/kkjni6Egq5/177
+#EXTINF:-1,Tibo Action
+http://iptv3.kbc.al:25461/Samilushtaku/kkjni6Egq5/664
+#EXTINF:-1,Tibo Comedy
+http://iptv3.kbc.al:25461/Samilushtaku/kkjni6Egq5/665
+#EXTINF:-1,Tibo Drama
+http://iptv3.kbc.al:25461/Samilushtaku/kkjni6Egq5/666
+#EXTINF:-1,Tibo Thriller
+http://iptv3.kbc.al:25461/Samilushtaku/kkjni6Egq5/667
+#EXTINF:-1,Tibo Serial
+http://iptv3.kbc.al:25461/Samilushtaku/kkjni6Egq5/668
+#EXTINF:-1,Tibo Prime 1
+http://iptv3.kbc.al:25461/Samilushtaku/kkjni6Egq5/669
+#EXTINF:-1,Tibo Prime 2
+http://iptv3.kbc.al:25461/Samilushtaku/kkjni6Egq5/670
 #EXTINF:-1,ART KINO 1HD
 http://62.162.115.38:22229/play/a006
 #EXTINF:-1,ART KINO 2HD
