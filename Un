@@ -57,10 +57,6 @@ http://79.106.90.119:1444/bbftv/index.m3u8
 http://79.106.90.119:1444/folkplus/index.m3u8
 #EXTINF:-1,SUPERSONIK TV
 http://79.106.90.119:1444/supersonictv/index.m3u8
-#EXTINF:-1,XXL 1🔞
-http://85.12.210.103:1234/udp/239.99.17.251:1234
-#EXTINF:-1,XXL 2🔞
-http://85.12.210.103:1234/udp/239.99.17.252:1234
 #EXTINF:-1,Tring History
 http://79.106.90.119:1444/tringhistory/index.m3u8
 #EXTINF:-1,Tring World
@@ -314,32 +310,6 @@ http://5.206.237.251:1288/SkyMax
 http://5.206.237.251:1288/StarHD
 #EXTINF:-1,SKY NOVELA
 http://5.206.237.251:1288/SkyNovela
-#EXTINF:-1,MetiTV Femije
-http://premiumiptvmk.com:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/299902
-#EXTINF:-1,MetiTV Film
-http://premiumiptvmk.com:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/299901
-#EXTINF:-1,MetiTV Folk
-http://premiumiptvmk.com:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/297281
-#EXTINF:-1,MetiTV Gold
-http://premiumiptvmk.com:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/297282
-#EXTINF:-1,MetiTV Horror
-http://premiumiptvmk.com:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/297283
-#EXTINF:-1,MetiTV Humor
-http://premiumiptvmk.com:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/297284
-#EXTINF:-1,MetiTV kids
-http://premiumiptvmk.com:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/297285
-#EXTINF:-1,MetiTV lufte
-http://premiumiptvmk.com:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/299899
-#EXTINF:-1,MetiTV Max
-http://premiumiptvmk.com:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/297286
-#EXTINF:-1,MetiTV Mixha
-http://premiumiptvmk.com:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/299903
-#EXTINF:-1,MetiTV Music
-http://premiumiptvmk.com:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/297287
-#EXTINF:-1,MetiTV Shqip
-http://premiumiptvmk.com:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/297288
-#EXTINF:-1,MetiTV Tallava
-http://premiumiptvmk.com:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/297289
 #EXTINF:-1,WWE WRESTLING 1
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1,WWE WRESTLING 2
