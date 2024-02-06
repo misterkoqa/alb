@@ -548,6 +548,38 @@ https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 #EXTINF:-1,STAR HD
 https://dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTINF:-1 tvg-name="AL: SuperSport 1" tvg-logo="" group-title="SPORT",AL: SuperSport 1
+http://allgames.onlygames.co:43666/peermk1/peeer@mk2/6
+#EXTINF:-1 tvg-name="AL: SuperSport 2" tvg-logo="" group-title="SPORT",AL: SuperSport 2
+http://allgames.onlygames.co:43666/peermk1/peeer@mk2/7
+#EXTINF:-1 tvg-name="AL: SuperSport 3" tvg-logo="" group-title="SPORT",AL: SuperSport 3
+http://allgames.onlygames.co:43666/peermk1/peeer@mk2/8
+#EXTINF:-1 tvg-name="AL: SuperSport 4" tvg-logo="" group-title="SPORT",AL: SuperSport 4
+http://allgames.onlygames.co:43666/peermk1/peeer@mk2/9
+#EXTINF:-1 tvg-name="AL: Tring Sport 1" tvg-logo="" group-title="SPORT",AL: Tring Sport 1
+http://allgames.onlygames.co:43666/peermk1/peeer@mk2/333
+#EXTINF:-1 tvg-name="AL: Tring Sport 2" tvg-logo="" group-title="SPORT",AL: Tring Sport 2
+http://allgames.onlygames.co:43666/peermk1/peeer@mk2/334
+#EXTINF:-1 tvg-name="AL: Tring Sport 3" tvg-logo="" group-title="SPORT",AL: Tring Sport 3
+http://allgames.onlygames.co:43666/peermk1/peeer@mk2/335
+#EXTINF:-1 tvg-name="AL: Tring Sport 4" tvg-logo="" group-title="SPORT",AL: Tring Sport 4
+http://allgames.onlygames.co:43666/peermk1/peeer@mk2/336
+#EXTINF:-1 tvg-name="AL: Tring Sport News HD" tvg-logo="" group-title="SPORT",AL: Tring Sport News HD
+http://allgames.onlygames.co:43666/peermk1/peeer@mk2/374
+#EXTINF:-1 tvg-name="AL: Kujtesa Sport 1 HD" tvg-logo="" group-title="SPORT",AL: Kujtesa Sport 1 HD
+http://allgames.onlygames.co:43666/peermk1/peeer@mk2/3472
+#EXTINF:-1 tvg-name="AL: Kujtesa Sport 2 HD" tvg-logo="" group-title="SPORT",AL: Kujtesa Sport 2 HD
+http://allgames.onlygames.co:43666/peermk1/peeer@mk2/3473
+#EXTINF:-1 tvg-name="AL: Kujtesa Sport 3 HD" tvg-logo="" group-title="SPORT",AL: Kujtesa Sport 3 HD
+http://allgames.onlygames.co:43666/peermk1/peeer@mk2/3474
+#EXTINF:-1 tvg-name="AL: Kujtesa Sport 4 HD" tvg-logo="" group-title="SPORT",AL: Kujtesa Sport 4 HD
+http://allgames.onlygames.co:43666/peermk1/peeer@mk2/3475
+#EXTINF:-1 tvg-name="AL: ART Sport 1 HD" tvg-logo="" group-title="SPORT",AL: ART Sport 1 HD
+http://allgames.onlygames.co:43666/peermk1/peeer@mk2/9512
+#EXTINF:-1 tvg-name="AL: ART Sport 2 HD" tvg-logo="" group-title="SPORT",AL: ART Sport 2 HD
+http://allgames.onlygames.co:43666/peermk1/peeer@mk2/9513
+#EXTINF:-1 tvg-name="AL: ART Sport 3 HD" tvg-logo="" group-title="SPORT",AL: ART Sport 3 HD
+http://allgames.onlygames.co:43666/peermk1/peeer@mk2/9514
 #EXTINF:-0 group-title="ITALIA TV DOMI 🇦🇱🇪🇺"tvg-logo="https://i.imgur.com/FnpdLkm.png",RAI NEWS HD
 https://streamcdnr15-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 #EXTINF:-1,Rai 1 HD
