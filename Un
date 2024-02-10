@@ -256,6 +256,18 @@ http://vo01.mohdtv.com:8880/live/ALLChannels681def196cdd/15754693/30600.ts
 http://vo01.mohdtv.com:8880/live/ALLChannels681def196cdd/15754693/30479.ts
 #EXTINF:-1,TV JOHANITER
 https://protokolldns.xyz/tvjohaniterlivetsss/index.m3u8
+#EXTINF:-1,Falcon Premium 1 FHD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/134264
+#EXTINF:-1,Falcon Premium 2 FHD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/134265
+#EXTINF:-1,Falcon Premium 3 FHD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/134266
+#EXTINF:-1,Falcon Premium 4 FHD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/134267
+#EXTINF:-1,Falcon Premium 5 FHD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/134268
+#EXTINF:-1,Falcon Premium 6 FHD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/134269
 #EXTINF:-1,DARK Gold 1 HD
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8585.ts
 #EXTINF:-1,DARK Gold 2 HD
