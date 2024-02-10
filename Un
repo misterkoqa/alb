@@ -256,6 +256,22 @@ http://vo01.mohdtv.com:8880/live/ALLChannels681def196cdd/15754693/30600.ts
 http://vo01.mohdtv.com:8880/live/ALLChannels681def196cdd/15754693/30479.ts
 #EXTINF:-1,TV JOHANITER
 https://protokolldns.xyz/tvjohaniterlivetsss/index.m3u8
+#EXTINF:-1,DARK Gold 1 HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8585.ts
+#EXTINF:-1,DARK Gold 2 HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8586.ts
+#EXTINF:-1,DARK Gold 3 HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8587.ts
+#EXTINF:-1,DARK Gold 4 HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8588.ts
+#EXTINF:-1,DARK Prime 1 FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8594.ts
+#EXTINF:-1,DARK Prime 2 FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8595.ts
+#EXTINF:-1,DARK Prime 3 FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8596.ts
+#EXTINF:-1,DARK Prime 4 FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8597.ts
 #EXTINF:-1,Premier 1
 http://iptv3.kbc.al:25461/Samilushtaku/kkjni6Egq5/174
 #EXTINF:-1,Premier 2
@@ -323,33 +339,19 @@ http://5.206.237.251:1288/SkyNovela
 #EXTINF:-1,WWE WRESTLING
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1,BEIN 1 FHD
-http://damasiptv.com:80/nomoresky/ghhghghgwr54tdffxbvnbhg/180341
-#EXTINF:-1,BEIN 1 4K
-http://damasiptv.com:80/nomoresky/ghhghghgwr54tdffxbvnbhg/180342
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3Lv2/1871
 #EXTINF:-1,BEIN 2 FHD
-http://damasiptv.com:80/nomoresky/ghhghghgwr54tdffxbvnbhg/180343
-#EXTINF:-1,BEIN 2 4K
-http://damasiptv.com:80/nomoresky/ghhghghgwr54tdffxbvnbhg/180344
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3Lv2/1872
 #EXTINF:-1,BEIN 3 FHD
-http://damasiptv.com:80/nomoresky/ghhghghgwr54tdffxbvnbhg/180345
-#EXTINF:-1,BEIN 3 4K
-http://damasiptv.com:80/nomoresky/ghhghghgwr54tdffxbvnbhg/180346
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3Lv2/1874
 #EXTINF:-1,BEIN 4 FHD
-http://damasiptv.com:80/nomoresky/ghhghghgwr54tdffxbvnbhg/180347
-#EXTINF:-1,BEIN 4 4K
-http://damasiptv.com:80/nomoresky/ghhghghgwr54tdffxbvnbhg/180348
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3Lv2/1875
 #EXTINF:-1,BEIN 5 FHD
-http://damasiptv.com:80/nomoresky/ghhghghgwr54tdffxbvnbhg/180349
-#EXTINF:-1,BEIN 5 4K
-http://damasiptv.com:80/nomoresky/ghhghghgwr54tdffxbvnbhg/180350
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3Lv2/1876
 #EXTINF:-1,BEIN 6 FHD
-http://damasiptv.com:80/nomoresky/ghhghghgwr54tdffxbvnbhg/180351
-#EXTINF:-1,BEIN 6 4K
-http://damasiptv.com:80/nomoresky/ghhghghgwr54tdffxbvnbhg/180352
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3Lv2/1877
 #EXTINF:-1,BEIN 7 FHD
-http://damasiptv.com:80/nomoresky/ghhghghgwr54tdffxbvnbhg/180353
-#EXTINF:-1,BEIN 7 4K
-http://damasiptv.com:80/nomoresky/ghhghghgwr54tdffxbvnbhg/180354
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3Lv2/1878
 #EXTINF:-1,SS-1 HD
 http://89.117.222.30:8000/play/a01e
 #EXTINF:-1,SS-2 HD
