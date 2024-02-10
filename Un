@@ -320,12 +320,36 @@ http://5.206.237.251:1288/SkyMax
 http://5.206.237.251:1288/StarHD
 #EXTINF:-1,SKY NOVELA
 http://5.206.237.251:1288/SkyNovela
-#EXTINF:-1,WWE WRESTLING 1
+#EXTINF:-1,WWE WRESTLING
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:-1,WWE WRESTLING 2
-http://hdhd.tk:80/mitch/mitch/9
-#EXTINF:-1,WWE WRESTLING 3
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/54.m3u8
+#EXTINF:-1,BEIN 1 FHD
+http://damasiptv.com:80/nomoresky/ghhghghgwr54tdffxbvnbhg/180341
+#EXTINF:-1,BEIN 1 4K
+http://damasiptv.com:80/nomoresky/ghhghghgwr54tdffxbvnbhg/180342
+#EXTINF:-1,BEIN 2 FHD
+http://damasiptv.com:80/nomoresky/ghhghghgwr54tdffxbvnbhg/180343
+#EXTINF:-1,BEIN 2 4K
+http://damasiptv.com:80/nomoresky/ghhghghgwr54tdffxbvnbhg/180344
+#EXTINF:-1,BEIN 3 FHD
+http://damasiptv.com:80/nomoresky/ghhghghgwr54tdffxbvnbhg/180345
+#EXTINF:-1,BEIN 3 4K
+http://damasiptv.com:80/nomoresky/ghhghghgwr54tdffxbvnbhg/180346
+#EXTINF:-1,BEIN 4 FHD
+http://damasiptv.com:80/nomoresky/ghhghghgwr54tdffxbvnbhg/180347
+#EXTINF:-1,BEIN 4 4K
+http://damasiptv.com:80/nomoresky/ghhghghgwr54tdffxbvnbhg/180348
+#EXTINF:-1,BEIN 5 FHD
+http://damasiptv.com:80/nomoresky/ghhghghgwr54tdffxbvnbhg/180349
+#EXTINF:-1,BEIN 5 4K
+http://damasiptv.com:80/nomoresky/ghhghghgwr54tdffxbvnbhg/180350
+#EXTINF:-1,BEIN 6 FHD
+http://damasiptv.com:80/nomoresky/ghhghghgwr54tdffxbvnbhg/180351
+#EXTINF:-1,BEIN 6 4K
+http://damasiptv.com:80/nomoresky/ghhghghgwr54tdffxbvnbhg/180352
+#EXTINF:-1,BEIN 7 FHD
+http://damasiptv.com:80/nomoresky/ghhghghgwr54tdffxbvnbhg/180353
+#EXTINF:-1,BEIN 7 4K
+http://damasiptv.com:80/nomoresky/ghhghghgwr54tdffxbvnbhg/180354
 #EXTINF:-1,SS-1 HD
 http://89.117.222.30:8000/play/a01e
 #EXTINF:-1,SS-2 HD
