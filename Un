@@ -251,11 +251,15 @@ http://157.90.135.164:8081/yWbXvr1S/news24_720p/playlist.m3u8
 #EXTINF:-1,Report TV
 http://157.90.135.164:8081/yWbXvr1S/reporttv_720p/playlist.m3u8
 #EXTINF:-1,ERA TV
-http://vo01.mohdtv.com:8880/live/ALLChannels681def196cdd/15754693/30600.ts
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/861
 #EXTINF:-1,TIRANA 1
-http://vo01.mohdtv.com:8880/live/ALLChannels681def196cdd/15754693/30479.ts
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/885
 #EXTINF:-1,TV JOHANITER
 https://protokolldns.xyz/tvjohaniterlivetsss/index.m3u8
+#EXTINF:-1,Filma24 Action FHD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/134270
+#EXTINF:-1,Filma24 Fantasy FHD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/134276
 #EXTINF:-1,Falcon Premium 1 FHD
 http://falcon.ac:5000/Gloria_tv/dFyMMnKb/134264
 #EXTINF:-1,Falcon Premium 2 FHD
