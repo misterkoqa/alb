@@ -10,6 +10,7 @@ http://79.106.90.119:1444/tophd/index.m3u8
 #EXTINF:-1,KLAN HD
 http://79.106.90.119:1444/klanhd/index.m3u8
 #EXTINF:-1,VIZION PLUS HD
+http://109.236.44.182:8000/play/a03m
 http://79.106.90.119:1444/vizionplus/index.m3u8
 https://mfe01.tring.al/delta/105/out/u/1180_1.m3u8
 #EXTINF:-1,TV JOHANITER
@@ -17,6 +18,7 @@ http://kingsman-watch.xyz:2095/ilike20/7kyMJpIhtG/75517
 #EXTINF:-1,KLAN KOSOVA
 http://op.web24.live:8080/ultv/friendsforever/41290
 #EXTINF:-1,KLAN PLUS
+http://109.236.44.182:8000/play/a00o
 http://79.106.90.119:1444/klanplus/index.m3u8
 #EXTINF:-1,ALSAT M
 http://46.29.169.15:4001/play/a03c/index.m3u8
