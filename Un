@@ -381,8 +381,10 @@ http://5.206.237.251:1288/SkyMax
 http://5.206.237.251:1288/StarHD
 #EXTINF:-1,SKY NOVELA
 http://5.206.237.251:1288/SkyNovela
-#EXTINF:-1,WWE WRESTLING
+#EXTINF:-1,WWE WRESTLING 1
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1,WWE WRESTLING 2
+https://edge1.laotv.la/live/WWE/index.m3u8
 #EXTINF:-1,BEIN 1 FHD
 http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3Lv2/1871
 #EXTINF:-1,BEIN 2 FHD
