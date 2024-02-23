@@ -14,10 +14,7 @@ http://109.236.44.182:8000/play/a03m
 http://79.106.90.119:1444/vizionplus/index.m3u8
 https://mfe01.tring.al/delta/105/out/u/1180_1.m3u8
 #EXTINF:-1,TV JOHANITER
-http://falcon.ac:5000/Gloria_tv/dFyMMnKb/927
-http://kingsman-watch.xyz:2095/ilike20/7kyMJpIhtG/75517
-#EXTINF:-1,MASHA&ORSO
-http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/1794
+http://79.106.90.119:1444/johanitertv/index.m3u8
 #EXTINF:-1,KLAN KOSOVA
 http://4kiptv.vip:25461/beinhevc/0hP7aDirD3/95894
 http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/1240
@@ -28,7 +25,6 @@ http://79.106.90.119:1444/klanplus/index.m3u8
 #EXTINF:-1,ALSAT M
 http://46.29.169.15:4001/play/a03c/index.m3u8
 #EXTINF:-1,KOHA VIZION TV
-http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/11
 http://46.29.169.15:4001/play/a03m/index.m3u8
 #EXTINF:-1,RTV21 
 http://46.29.169.15:4001/play/a03d/index.m3u8
