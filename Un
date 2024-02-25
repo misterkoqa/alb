@@ -632,15 +632,15 @@ http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1,МАТЧ Футбол 3 HD
 http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1,Klan TV
-http://79.106.48.2:5151/live/klanhdott/playlist.m3u8
+http://178.33.34.186:5151/live/klanhdott/playlist.m3u8
 #EXTINF:-1,Klan Plus
-http://79.106.48.2:5151/live/klanplusott/playlist.m3u8
+http://178.33.34.186:5151/live/klanplusott/playlist.m3u8
 #EXTINF:-1,A2 CNN
 https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
 #EXTINF:-1,CNA HD
 https://live1.mediadesk.al/cnatvlive.m3u8
 #EXTINF:-1,ABC
-http://79.106.48.2:5151/live/abcnewsott/playlist.m3u8
+http://178.33.34.186:5151/live/abcnewsott/playlist.m3u8
 #EXTINF:-1,RTV Ora
 http://79.106.48.2:5151/live/rtvoraott/playlist.m3u8
 #EXTINF:-1,Scan TV
