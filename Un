@@ -677,16 +677,12 @@ http://178.33.34.186:5151/live/reportott/playlist.m3u8
 http://178.33.34.186:5151/live/a2mobott/playlist.m3u8
 #EXTINF:-1,RTSH Sport
 http://178.33.34.186:5151/live/rtshsport/playlist.m3u8
-#EXTINF:-1,VIZION PLUS HD
-https://mfe01.tring.al/delta/105/out/u/619_13.m3u8
 #EXTINF:-1,TV KORÇA HD
 http://32.shqiptv.org/korca/albplus/index.m3u8
 #EXTINF:-1,M2O MUZIK
 https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-#EXTINF:-1,SUPER HD
-http://142.132.136.139:8000/play/a003/index.m3u8
 #EXTINF:-1,NESER TV
-https://protokolldns.xyz/ntv/livestream9956544786625444/tracks-v1a1/mono.m3u8
+http://protokolldns.xyz/alb.uk.tv/index.m3u8
 #EXTINF:-1,FX MEDIA
 https://protokolldns.xyz/fxmediaweb5548/index.m3u8
 #EXTINF:-1,Report Tv HD
