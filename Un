@@ -642,41 +642,41 @@ https://live1.mediadesk.al/cnatvlive.m3u8
 #EXTINF:-1,ABC
 http://178.33.34.186:5151/live/abcnewsott/playlist.m3u8
 #EXTINF:-1,RTV Ora
-http://79.106.48.2:5151/live/rtvoraott/playlist.m3u8
+http://178.33.34.186:5151/live/rtvoraott/playlist.m3u8
 #EXTINF:-1,Scan TV
-http://79.106.48.2:5151/live/scanott/playlist.m3u8
+http://178.33.34.186:5151/live/scanott/playlist.m3u8
 #EXTINF:-1,Syri TV
-http://79.106.48.2:5151/live/syritvott/playlist.m3u8
+http://178.33.34.186:5151/live/syritvott/playlist.m3u8
 #EXTINF:-1,MCN TV
-http://79.106.48.2:5151/live/mcnpp1/playlist.m3u8
+http://178.33.34.186:5151/live/mcnpp1/playlist.m3u8
 #EXTINF:-1,MCN 24TV
-http://79.106.48.2:5151/live/mcn24pp1/playlist.m3u8
+http://178.33.34.186:5151/live/mcn24pp1/playlist.m3u8
 #EXTINF:-1,RTSH 1
-http://79.106.48.2:5151/live/rtsh1ott/playlist.m3u8
+http://178.33.34.186:5151/live/rtsh1ott/playlist.m3u8
 #EXTINF:-1,Klan Macedonia
-http://79.106.48.2:5151/live/klanmacedoniaott/playlist.m3u8
+http://178.33.34.186:5151/live/klanmacedoniaott/playlist.m3u8
 #EXTINF:-1,Teuta TV
-http://79.106.48.2:5151/live/rtvteutaott/playlist.m3u8
+http://178.33.34.186:5151/live/rtvteutaott/playlist.m3u8
 #EXTINF:-1,CNA TV
-http://79.106.48.2:5151/live/cnaott/playlist.m3u8
+http://178.33.34.186:5151/live/cnaott/playlist.m3u8
 #EXTINF:-1,Euronews Albania
-http://79.106.48.2:5151/live/euronewsott/playlist.m3u8
+http://178.33.34.186:5151/live/euronewsott/playlist.m3u8
 #EXTINF:-1,Fax News
-http://79.106.48.2:5151/live/faxnewsott/playlist.m3u8
+http://178.33.34.186:5151/live/faxnewsott/playlist.m3u8
 #EXTINF:-1,Klan News
-http://79.106.48.2:5151/live/klannewsott/playlist.m3u8
+http://178.33.34.186:5151/live/klannewsott/playlist.m3u8
 #EXTINF:-1,News 24
-http://79.106.48.2:5151/live/news24ott/playlist.m3u8
+http://178.33.34.186:5151/live/news24ott/playlist.m3u8
 #EXTINF:-1,Ora News
-http://79.106.48.2:5151/live/oranewsott/playlist.m3u8
+http://178.33.34.186:5151/live/oranewsott/playlist.m3u8
 #EXTINF:-1,Panorama TV
-http://79.106.48.2:5151/live/panoramaott/playlist.m3u8
+http://178.33.34.186:5151/live/panoramaott/playlist.m3u8
 #EXTINF:-1,Report TV
-http://79.106.48.2:5151/live/reportott/playlist.m3u8
+http://178.33.34.186:5151/live/reportott/playlist.m3u8
 #EXTINF:-1,A2 CNN
-http://79.106.48.2:5151/live/a2mobott/playlist.m3u8
+http://178.33.34.186:5151/live/a2mobott/playlist.m3u8
 #EXTINF:-1,RTSH Sport
-http://79.106.48.2:5151/live/rtshsport/playlist.m3u8
+http://178.33.34.186:5151/live/rtshsport/playlist.m3u8
 #EXTINF:-1,VIZION PLUS HD
 https://mfe01.tring.al/delta/105/out/u/619_13.m3u8
 #EXTINF:-1,TV KORÇA HD
