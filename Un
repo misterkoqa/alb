@@ -25,14 +25,10 @@ http://109.236.44.109:1212/rtsh24
 http://109.236.44.109:1212/rtshsport
 #EXTINF:-1,REPORT TV TEST
 http://109.236.44.109:1212/reporttv
-#EXTINF:-1,RTK 1HD TEST
-http://109.236.44.109:1212/rtk
-#EXTINF:-1,RTK 2HD TEST
-http://109.236.44.109:1212/rtk2
-#EXTINF:-1,RTK 3HD TEST
-http://109.236.44.109:1212/rtk3
-#EXTINF:-1,RTK 4HD TEST
-http://109.236.44.109:1212/rtk4
+#EXTINF:-1,ABC NEWS HD TEST
+http://109.236.44.109:1212/abc
+#EXTINF:-1,SCAN HD TEST
+http://109.236.44.109:1212/scan
 #EXTINF:-1,TOP CHANNEL HD
 http://79.106.90.119:1444/tophd/index.m3u8
 #EXTINF:-1,KLAN HD
@@ -563,46 +559,6 @@ http://sysadminhost.net:8080/F11721/6ddb91eb/298723
 http://sysadminhost.net:8080/F11721/6ddb91eb/298724
 #EXTINF:-1,Amazon Prime 8
 http://sysadminhost.net:8080/F11721/6ddb91eb/299259
-#EXTINF:-1,beIN Sports 1
-http://sysadminhost.net:8080/F11721/6ddb91eb/144
-#EXTINF:-1,beIN Sports 2
-http://sysadminhost.net:8080/F11721/6ddb91eb/145
-#EXTINF:-1,beIN Sports 3
-http://sysadminhost.net:8080/F11721/6ddb91eb/146
-#EXTINF:-1,Футбол 1 HD
-http://cdn.spmr.tv:8080/f6x6no/video.m3u8?token=JO7OE4V7ZX
-#EXTINF:-1,Футбол 2 HD
-http://cdn.spmr.tv:8080/t2czx3/video.m3u8?token=JO7OE4V7ZX
-#EXTINF:-1,Футбол 3 HD
-http://cdn.spmr.tv:8080/nb2pq7/video.m3u8?token=JO7OE4V7ZX
-#EXTINF:-1,DIGI SPORT 1HD
-http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/61288
-#EXTINF:-1,DIGI SPORT 2HD
-http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/61289
-#EXTINF:-1,DIGI SPORT 3HD
-http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/61290
-#EXTINF:-1,DIGI SPORT 4HD
-http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/61291
-#EXTINF:-1,Eleven Sports1 HD
-http://cdn.spmr.tv:8080/z95bsa/video.m3u8?token=JO7OE4V7ZX
-#EXTINF:-1,Eleven Sports2 HD
-http://cdn.spmr.tv:8080/6moy9u/video.m3u8?token=JO7OE4V7ZX
-#EXTINF:-1,Eleven Sports3 HD
-http://cdn.spmr.tv:8080/4se9ri/video.m3u8?token=JO7OE4V7ZX
-#EXTINF:-1,Eleven Sports4 HD
-http://cdn.spmr.tv:8080/w47jdo/video.m3u8?token=JO7OE4V7ZX
-#EXTINF:-1,Eleven Sports5 HD
-http://cdn.spmr.tv:8080/76m0ey/video.m3u8?token=JO7OE4V7ZX
-#EXTINF:-1,Eleven Sports6 HD
-http://cdn.spmr.tv:8080/6sxq1t/video.m3u8?token=JO7OE4V7ZX
-#EXTINF:-1,DIGI Sport1 HD
-http://cdn.spmr.tv:8080/co3k2z/video.m3u8?token=JO7OE4V7ZX
-#EXTINF:-1,DIGI Sport2 HD
-http://cdn.spmr.tv:8080/h4jgxs/video.m3u8?token=JO7OE4V7ZX
-#EXTINF:-1,DIGI Sport3 HD
-http://cdn.spmr.tv:8080/hmx73d/video.m3u8?token=JO7OE4V7ZX
-#EXTINF:-1,DIGI Sport4 HD
-http://cdn.spmr.tv:8080/m0e9d8/video.m3u8?token=JO7OE4V7ZX
 #EXTINF:-1,Fox Sports 501
 http://sysadminhost.net:8080/F11721/6ddb91eb/279034
 #EXTINF:-1,Fox Sports 502
@@ -627,20 +583,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/7266/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/7267/index.m3u8
 #EXTINF:-1,ARENA SPORT 6 
 http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/7268/index.m3u8
-#EXTINF:-1,RAI 1HD
-http://176.65.146.136:8020/play/a06g/index.m3u8
-#EXTINF:-1,RAI 2HD
-http://176.65.146.136:8020/play/a06h/index.m3u8
-#EXTINF:-1,RAI 3HD
-http://176.65.146.136:8020/play/a06i/index.m3u8
-#EXTINF:-1,RAI 4HD
-http://176.65.146.136:8020/play/a06j/index.m3u8
-#EXTINF:-1,RAI 4K
-http://176.65.146.136:8020/play/a06l/index.m3u8
-#EXTINF:-1,RSI La 1
-http://livetv.ktv.zone/129/play.m3u8
-#EXTINF:-1,RSI La 2
-http://livetv.ktv.zone/137/play.m3u8
 #EXTINF:-1,CANALE 5 HD
 http://37.18.239.36:8888/Canale_5_HD/index.m3u8
 https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
@@ -652,29 +594,6 @@ http://37.18.239.36:8888/Rete_4_HD/index.m3u8
 https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
 #EXTINF:-1,LA7 HD
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
-http://176.65.146.136:8020/play/a06q/index.m3u8
-#EXTINF:-1,DMAXX
-http://176.65.146.136:8019/play/a07h/index.m3u8
-#EXTINF:-1,NOVE
-http://176.65.146.136:8019/play/a07s/index.m3u8
-#EXTINF:-1,CIELO HD
-http://176.65.146.136:8021/play/a06g/index.m3u8
-#EXTINF:-1,RTL HD 
-http://176.65.146.136:8001/play/a0do/index.m3u8
-#EXTINF:-1,VOX HD
-http://176.65.146.136:8001/play/a0dp/index.m3u8
-#EXTINF:-1,PRO7 MAXX HD
-http://176.65.146.136:8005/play/a06v/index.m3u8
-#EXTINF:-1,PROSIEBEN HD
-http://176.65.146.136:8005/play/a06s/index.m3u8
-#EXTINF:-1,DSF HD
-http://154.58.202.194:8000/play/a0c7/index.m3u8
-#EXTINF:-1,МАТЧ Футбол 1 HD
-http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:-1,МАТЧ Футбол 2 HD
-http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:-1,МАТЧ Футбол 3 HD
-http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1,Klan TV
 http://178.33.34.186:5151/live/klanhdott/playlist.m3u8
 #EXTINF:-1,Klan Plus
