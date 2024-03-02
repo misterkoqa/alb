@@ -759,35 +759,41 @@ http://rhsbjv7k.tvclub.xyz/iptv/7N4F6F5EE9M4EM/6061/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/7N4F6F5EE9M4EM/6062/index.m3u8
 #EXTINF:-1,RTL2 HD
 http://rhsbjv7k.tvclub.xyz/iptv/7N4F6F5EE9M4EM/6065/index.m3u8
-#EXTINF:-1 tvg-name="AL: SuperSport 1" tvg-logo="" group-title="SPORT",AL: SuperSport 1
+#EXTINF:-1,SuperSport 1
 http://allgames.onlygames.co:43666/peermk1/peeer@mk2/6
-#EXTINF:-1 tvg-name="AL: SuperSport 2" tvg-logo="" group-title="SPORT",AL: SuperSport 2
+#EXTINF:-1,SuperSport 2
 http://allgames.onlygames.co:43666/peermk1/peeer@mk2/7
-#EXTINF:-1 tvg-name="AL: SuperSport 3" tvg-logo="" group-title="SPORT",AL: SuperSport 3
+#EXTINF:-1,SuperSport 3
 http://allgames.onlygames.co:43666/peermk1/peeer@mk2/8
-#EXTINF:-1 tvg-name="AL: SuperSport 4" tvg-logo="" group-title="SPORT",AL: SuperSport 4
+#EXTINF:-1,SuperSport 4
 http://allgames.onlygames.co:43666/peermk1/peeer@mk2/9
-#EXTINF:-1 tvg-name="AL: Tring Sport 1" tvg-logo="" group-title="SPORT",AL: Tring Sport 1
+#EXTINF:-1,Tring Sport 1
 http://allgames.onlygames.co:43666/peermk1/peeer@mk2/333
-#EXTINF:-1 tvg-name="AL: Tring Sport 2" tvg-logo="" group-title="SPORT",AL: Tring Sport 2
+#EXTINF:-1,Tring Sport 2
 http://allgames.onlygames.co:43666/peermk1/peeer@mk2/334
-#EXTINF:-1 tvg-name="AL: Tring Sport 3" tvg-logo="" group-title="SPORT",AL: Tring Sport 3
+#EXTINF:-1,Tring Sport 3
 http://allgames.onlygames.co:43666/peermk1/peeer@mk2/335
-#EXTINF:-1 tvg-name="AL: Tring Sport 4" tvg-logo="" group-title="SPORT",AL: Tring Sport 4
+#EXTINF:-1,Tring Sport 4
 http://allgames.onlygames.co:43666/peermk1/peeer@mk2/336
-#EXTINF:-1 tvg-name="AL: Tring Sport News HD" tvg-logo="" group-title="SPORT",AL: Tring Sport News HD
+#EXTINF:-1,Tring Sport News HD
 http://allgames.onlygames.co:43666/peermk1/peeer@mk2/374
-#EXTINF:-1 tvg-name="AL: Kujtesa Sport 1 HD" tvg-logo="" group-title="SPORT",AL: Kujtesa Sport 1 HD
+#EXTINF:-1,Kujtesa Sport 1 HD
 http://allgames.onlygames.co:43666/peermk1/peeer@mk2/3472
-#EXTINF:-1 tvg-name="AL: Kujtesa Sport 2 HD" tvg-logo="" group-title="SPORT",AL: Kujtesa Sport 2 HD
+#EXTINF:-1,Kujtesa Sport 2 HD
 http://allgames.onlygames.co:43666/peermk1/peeer@mk2/3473
-#EXTINF:-1 tvg-name="AL: Kujtesa Sport 3 HD" tvg-logo="" group-title="SPORT",AL: Kujtesa Sport 3 HD
+#EXTINF:-1,Kujtesa Sport 3 HD
 http://allgames.onlygames.co:43666/peermk1/peeer@mk2/3474
-#EXTINF:-1 tvg-name="AL: Kujtesa Sport 4 HD" tvg-logo="" group-title="SPORT",AL: Kujtesa Sport 4 HD
+#EXTINF:-1,Kujtesa Sport 4 HD
 http://allgames.onlygames.co:43666/peermk1/peeer@mk2/3475
-#EXTINF:-1 tvg-name="AL: ART Sport 1 HD" tvg-logo="" group-title="SPORT",AL: ART Sport 1 HD
+#EXTINF:-1,ART Sport 1 HD
 http://allgames.onlygames.co:43666/peermk1/peeer@mk2/9512
-#EXTINF:-1 tvg-name="AL: ART Sport 2 HD" tvg-logo="" group-title="SPORT",AL: ART Sport 2 HD
+#EXTINF:-1,ART Sport 2 HD
 http://allgames.onlygames.co:43666/peermk1/peeer@mk2/9513
-#EXTINF:-1 tvg-name="AL: ART Sport 3 HD" tvg-logo="" group-title="SPORT",AL: ART Sport 3 HD
+#EXTINF:-1,ART Sport 3 HD
 http://allgames.onlygames.co:43666/peermk1/peeer@mk2/9514
+#EXTINF:-1,МАТЧ! ФУТБОЛ 1
+http://83.234.207.29:8004/play/a00w/index.m3u8
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2
+http://83.234.207.29:8004/play/a00y/index.m3u8
+#EXTINF:-1,МАТЧ! ФУТБОЛ 3
+http://83.234.207.29:8004/play/a00x/index.m3u8
