@@ -676,8 +676,10 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
 https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
 #EXTINF:-1,ZDF HD
 http://rhsbjv7k.tvclub.xyz/iptv/7N4F6F5EE9M4EM/6059/index.m3u8
-#EXTINF:-1,PROSIEBEN HD
+#EXTINF:-1,SAT.1 HD
 http://rhsbjv7k.tvclub.xyz/iptv/7N4F6F5EE9M4EM/6060/index.m3u8
+#EXTINF:-1,PROSIEBEN HD
+http://caffe.link:25461/iptvmaxiii225/TsfbCjs58CE6/1571
 #EXTINF:-1,VOX HD
 http://rhsbjv7k.tvclub.xyz/iptv/7N4F6F5EE9M4EM/6061/index.m3u8
 #EXTINF:-1,RTL HD
