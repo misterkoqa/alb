@@ -413,12 +413,6 @@ http://5.206.237.251:1288/SkyNovela
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1,WWE WRESTLING 2
 https://edge1.laotv.la/live/WWE/index.m3u8
-#EXTINF:-1,Inter
-http://imedia.click:7777/MrPanic88/XVDV/148511
-#EXTINF:-1,Juventus
-http://imedia.click:7777/MrPanic88/XVDV/148512
-#EXTINF:-1,Milan
-http://imedia.click:7777/MrPanic88/XVDV/148503
 #EXTINF:-1,SKY SPORT F1 HD
 http://195.26.87.217/live.ts?channelId=282&uid=3453&deviceMac=00:1A:79:01:04:AC
 #EXTINF:-1,SONY SPORT 1HD
@@ -618,12 +612,54 @@ https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 #EXTINF:-1,STAR HD
 https://dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTINF:-1,RAI 1HD
+http://predator.broke-it.net:8080/PIEROANZ/K9cpvmKT8gXw/1
+#EXTINF:-1,RAI 2HD
+http://predator.broke-it.net:8080/PIEROANZ/K9cpvmKT8gXw/2
+#EXTINF:-1,RAI 3HD
+http://predator.broke-it.net:8080/PIEROANZ/K9cpvmKT8gXw/3
+#EXTINF:-1,RSI 1HD
+http://predator.broke-it.net:8080/PIEROANZ/K9cpvmKT8gXw/8
+#EXTINF:-1,RSI 2HD
+http://predator.broke-it.net:8080/PIEROANZ/K9cpvmKT8gXw/9
 #EXTINF:-1,ITALIA 1 HD
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 #EXTINF:-1,CANALE 5 HD
 https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
 #EXTINF:-1,RETE 4 HD
 https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
+#EXTINF:-1,SKY Cinema Uno FHD
+http://predator.broke-it.net:8080/PIEROANZ/K9cpvmKT8gXw/250
+#EXTINF:-1,Sky Cinema Due FHD
+http://predator.broke-it.net:8080/PIEROANZ/K9cpvmKT8gXw/251
+#EXTINF:-1,Sky Cinema Action FHD
+http://predator.broke-it.net:8080/PIEROANZ/K9cpvmKT8gXw/255
+#EXTINF:-1,Sky Cinema Family FHD
+http://predator.broke-it.net:8080/PIEROANZ/K9cpvmKT8gXw/254
+#EXTINF:-1,Sky Cinema Drama FHD
+http://predator.broke-it.net:8080/PIEROANZ/K9cpvmKT8gXw/260
+#EXTINF:-1,Sky Cinema Suspense FHD
+http://predator.broke-it.net:8080/PIEROANZ/K9cpvmKT8gXw/256
+#EXTINF:-1,Sky Cinema Comedy FHD
+http://predator.broke-it.net:8080/PIEROANZ/K9cpvmKT8gXw/257
+#EXTINF:-1,Sky Cinema Collection FHD
+http://predator.broke-it.net:8080/PIEROANZ/K9cpvmKT8gXw/258
+#EXTINF:-1,Sky Cinema Romance FHD
+http://predator.broke-it.net:8080/PIEROANZ/K9cpvmKT8gXw/259
+#EXTINF:-1,Eagle Cinema Thriller
+http://predator.broke-it.net:8080/PIEROANZ/K9cpvmKT8gXw/55306
+#EXTINF:-1,Eagle Cinema Storico
+http://predator.broke-it.net:8080/PIEROANZ/K9cpvmKT8gXw/55307
+#EXTINF Eagle Cinema Sci-Fi
+http://predator.broke-it.net:8080/PIEROANZ/K9cpvmKT8gXw/55308
+#EXTINF:-1,Eagle Cinema Drammatico
+http://predator.broke-it.net:8080/PIEROANZ/K9cpvmKT8gXw/55309
+#EXTINF:-1,Eagle Cinema Avventura
+http://predator.broke-it.net:8080/PIEROANZ/K9cpvmKT8gXw/52230
+#EXTINF:-1,Eagle Cinema Animazione
+http://predator.broke-it.net:8080/PIEROANZ/K9cpvmKT8gXw/52227
+#EXTINF:-1,Eagle Cinema Fantascienza
+http://predator.broke-it.net:8080/PIEROANZ/K9cpvmKT8gXw/52231
 #EXTINF:-1,ZDF HD
 http://rhsbjv7k.tvclub.xyz/iptv/7N4F6F5EE9M4EM/6059/index.m3u8
 #EXTINF:-1,SAT.1 HD
