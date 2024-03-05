@@ -413,6 +413,12 @@ http://5.206.237.251:1288/SkyNovela
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1,WWE WRESTLING 2
 https://edge1.laotv.la/live/WWE/index.m3u8
+#EXTINF:-1,Inter
+http://imedia.click:7777/MrPanic88/XVDV/148511
+#EXTINF:-1,Juventus
+http://imedia.click:7777/MrPanic88/XVDV/148512
+#EXTINF:-1,Milan
+http://imedia.click:7777/MrPanic88/XVDV/148503
 #EXTINF:-1,SKY SPORT F1 HD
 http://195.26.87.217/live.ts?channelId=282&uid=3453&deviceMac=00:1A:79:01:04:AC
 #EXTINF:-1,SONY SPORT 1HD
