@@ -413,6 +413,22 @@ http://5.206.237.251:1288/SkyNovela
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1,WWE WRESTLING 2
 https://edge1.laotv.la/live/WWE/index.m3u8
+#EXTINF:-1,TELEKOM SPORT 1 HD
+http://supersonictv.live:8080/439090/246943/83964
+#EXTINF:-1,TELEKOM SPORT 2 HD
+http://supersonictv.live:8080/439090/246943/83965
+#EXTINF:-1,TELEKOM SPORT 3 HD
+http://supersonictv.live:8080/439090/246943/83966
+#EXTINF:-1,TELEKOM SPORT 4 HD
+http://supersonictv.live:8080/439090/246943/83967
+#EXTINF:-1,DIGI SPORT 1 HD
+http://supersonictv.live:8080/439090/246943/83897
+#EXTINF:-1,DIGI SPORT 2 HD
+http://supersonictv.live:8080/439090/246943/83898
+#EXTINF:-1,DIGI SPORT 3 HD
+http://supersonictv.live:8080/439090/246943/83899
+#EXTINF:-1,DIGI SPORT 4 HD
+http://supersonictv.live:8080/439090/246943/83900
 #EXTINF:-1,Setanta Sports1
 https://qi7fj3gzx1w.a.trbcdn.net/livemaster/glmi9_live-jj1n4gjcyeq.smil/playlist.m3u8
 #EXTINF:-1,Setanta Sports2
