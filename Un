@@ -413,6 +413,10 @@ http://5.206.237.251:1288/SkyNovela
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1,WWE WRESTLING 2
 https://edge1.laotv.la/live/WWE/index.m3u8
+#EXTINF:-1,Setanta Sports1
+https://qi7fj3gzx1w.a.trbcdn.net/livemaster/glmi9_live-jj1n4gjcyeq.smil/playlist.m3u8
+#EXTINF:-1,Setanta Sports2
+https://qi7fj3gzx1w.a.trbcdn.net/livemaster/x1ecc_live-n8t1vjjlihm.smil/playlist.m3u8
 #EXTINF:-1,SKY SPORT F1 HD
 http://predator.broke-it.net:8080/PIEROANZ/K9cpvmKT8gXw/90
 #EXTINF:-1,Sportitalia Solo Calcio HD
@@ -658,7 +662,7 @@ http://predator.broke-it.net:8080/PIEROANZ/K9cpvmKT8gXw/259
 http://predator.broke-it.net:8080/PIEROANZ/K9cpvmKT8gXw/55306
 #EXTINF:-1,Eagle Cinema Storico
 http://predator.broke-it.net:8080/PIEROANZ/K9cpvmKT8gXw/55307
-#EXTINF Eagle Cinema Sci-Fi
+#EXTINF:-1,Eagle Cinema Sci-Fi
 http://predator.broke-it.net:8080/PIEROANZ/K9cpvmKT8gXw/55308
 #EXTINF:-1,Eagle Cinema Drammatico
 http://predator.broke-it.net:8080/PIEROANZ/K9cpvmKT8gXw/55309
