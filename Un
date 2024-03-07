@@ -413,6 +413,14 @@ http://5.206.237.251:1288/SkyNovela
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1,WWE WRESTLING 2
 https://edge1.laotv.la/live/WWE/index.m3u8
+#EXTINF:-1,MATCH 1HD
+http://195.211.27.149:8887/8236/index.m3u8?token=test
+#EXTINF:-1,MATCH 2HD
+http://195.211.27.149:8887/8237/index.m3u8?token=test
+#EXTINF:-1,MATCH 3HD
+http://195.211.27.149:8887/8238/index.m3u8?token=test
+#EXTINF:-1,SPORT 5HD
+http://195.211.27.149:8887/8239/index.m3u8?token=test
 #EXTINF:-1,TELEKOM SPORT 1 HD
 http://supersonictv.live:8080/439090/246943/83964
 #EXTINF:-1,TELEKOM SPORT 2 HD
