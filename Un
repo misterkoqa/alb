@@ -707,6 +707,8 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/index.m3u8
 https://live02-seg.msf.cdn.mediaset.net/live/ch-b8/b8-clr.isml/index.m3u8
 #EXTINF:-1,SOLO CALCIO HD
 https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/silive24.smil/playlist.m3u8
+#EXTINF:-1,SPORT ITALIA PLUS HD
+https://sportitaliaamd.akamaized.net/video_0/Sportitalia/hls/F59D8EB0332E783633CDDE8E265844975635D24F/index.m3u8
 #EXTINF:-1,ZDF HD
 http://rhsbjv7k.tvclub.xyz/iptv/7N4F6F5EE9M4EM/6059/index.m3u8
 #EXTINF:-1,SAT.1 HD
