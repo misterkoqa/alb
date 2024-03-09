@@ -649,54 +649,44 @@ https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 #EXTINF:-1,STAR HD
 https://dogus-live.daioncdn.net/startv/startv.m3u8
-#EXTINF:-1,RAI 1HD
-http://predator.broke-it.net:8080/PIEROANZ/K9cpvmKT8gXw/1
-#EXTINF:-1,RAI 2HD
-http://predator.broke-it.net:8080/PIEROANZ/K9cpvmKT8gXw/2
-#EXTINF:-1,RAI 3HD
-http://predator.broke-it.net:8080/PIEROANZ/K9cpvmKT8gXw/3
-#EXTINF:-1,RSI 1HD
-http://predator.broke-it.net:8080/PIEROANZ/K9cpvmKT8gXw/8
-#EXTINF:-1,RSI 2HD
-http://predator.broke-it.net:8080/PIEROANZ/K9cpvmKT8gXw/9
 #EXTINF:-1,ITALIA 1 HD
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 #EXTINF:-1,CANALE 5 HD
 https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
 #EXTINF:-1,RETE 4 HD
 https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
-#EXTINF:-1,SKY Cinema Uno FHD
-http://predator.broke-it.net:8080/PIEROANZ/K9cpvmKT8gXw/250
-#EXTINF:-1,Sky Cinema Due FHD
-http://predator.broke-it.net:8080/PIEROANZ/K9cpvmKT8gXw/251
-#EXTINF:-1,Sky Cinema Action FHD
-http://predator.broke-it.net:8080/PIEROANZ/K9cpvmKT8gXw/255
-#EXTINF:-1,Sky Cinema Family FHD
-http://predator.broke-it.net:8080/PIEROANZ/K9cpvmKT8gXw/254
-#EXTINF:-1,Sky Cinema Drama FHD
-http://predator.broke-it.net:8080/PIEROANZ/K9cpvmKT8gXw/260
-#EXTINF:-1,Sky Cinema Suspense FHD
-http://predator.broke-it.net:8080/PIEROANZ/K9cpvmKT8gXw/256
-#EXTINF:-1,Sky Cinema Comedy FHD
-http://predator.broke-it.net:8080/PIEROANZ/K9cpvmKT8gXw/257
-#EXTINF:-1,Sky Cinema Collection FHD
-http://predator.broke-it.net:8080/PIEROANZ/K9cpvmKT8gXw/258
-#EXTINF:-1,Sky Cinema Romance FHD
-http://predator.broke-it.net:8080/PIEROANZ/K9cpvmKT8gXw/259
-#EXTINF:-1,Eagle Cinema Thriller
-http://predator.broke-it.net:8080/PIEROANZ/K9cpvmKT8gXw/55306
-#EXTINF:-1,Eagle Cinema Storico
-http://predator.broke-it.net:8080/PIEROANZ/K9cpvmKT8gXw/55307
-#EXTINF:-1,Eagle Cinema Sci-Fi
-http://predator.broke-it.net:8080/PIEROANZ/K9cpvmKT8gXw/55308
-#EXTINF:-1,Eagle Cinema Drammatico
-http://predator.broke-it.net:8080/PIEROANZ/K9cpvmKT8gXw/55309
-#EXTINF:-1,Eagle Cinema Avventura
-http://predator.broke-it.net:8080/PIEROANZ/K9cpvmKT8gXw/52230
-#EXTINF:-1,Eagle Cinema Animazione
-http://predator.broke-it.net:8080/PIEROANZ/K9cpvmKT8gXw/52227
-#EXTINF:-1,Eagle Cinema Fantascienza
-http://predator.broke-it.net:8080/PIEROANZ/K9cpvmKT8gXw/52231
+#EXTINF:-1,20 HD
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
+#EXTINF:-1,Iris HD
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
+#EXTINF:-1,27 HD
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
+#EXTINF:-1,La5 HD
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
+#EXTINF:-1,Cine34 HD
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
+#EXTINF:-1,Focus HD
+https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
+#EXTINF:-1,Topcrime HD
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
+#EXTINF:-1,Boing HD
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
+#EXTINF:-1,Cartoonito HD
+https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
+#EXTINF:-1,Italia 2 HD
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
+#EXTINF:-1,TGcom24 HD
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
+#EXTINF:-1,Mediaset Extra HD
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
+#EXTINF:-1,Radio 105 HD
+https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
+#EXTINF:-1,R101 HD
+https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
+#EXTINF:-1,RMC HD
+https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
+#EXTINF:-1,Virgin HD
+https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
 #EXTINF:-1,ZDF HD
 http://rhsbjv7k.tvclub.xyz/iptv/7N4F6F5EE9M4EM/6059/index.m3u8
 #EXTINF:-1,SAT.1 HD
