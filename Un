@@ -103,6 +103,8 @@ http://79.106.90.119:1444/bbftv/index.m3u8
 http://79.106.90.119:1444/folkplus/index.m3u8
 #EXTINF:-1,SUPERSONIK TV
 http://79.106.90.119:1444/supersonictv/index.m3u8
+#EXTINF:-1,STV FOLK 
+http://79.106.90.119:1444/stvfolk/index.m3u8
 #EXTINF:-1,Tring History
 http://79.106.90.119:1444/tringhistory/index.m3u8
 #EXTINF:-1,Tring World
