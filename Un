@@ -649,12 +649,16 @@ https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 #EXTINF:-1,STAR HD
 https://dogus-live.daioncdn.net/startv/startv.m3u8
-#EXTINF:-1,RAI 1HD
-https://www.mytivu.it/Application/Channels/Rai/Rai1.php
-#EXTINF:-1,RAI 2HD
-https://www.mytivu.it/Application/Channels/Rai/Rai2.php
-#EXTINF:-1,RAI 3HD
-https://www.mytivu.it/Application/Channels/Rai/Rai3.php
+#EXTINF:-1,Rai 1 HD
+http://89.117.222.30:8000/play/a02z
+#EXTINF:-1,Rai 2 HD
+http://89.117.222.30:8000/play/a030
+#EXTINF:-1,Rai 3 HD
+http://89.117.222.30:8000/play/a031
+#EXTINF:-1,Rai 4 HD
+http://89.117.222.30:8000/play/a032
+#EXTINF:-1,Rai Movie HD
+http://89.117.222.30:8000/play/a033
 #EXTINF:-1,ITALIA 1 HD
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 #EXTINF:-1,CANALE 5 HD
