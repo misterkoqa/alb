@@ -93,6 +93,10 @@ http://79.106.90.119:1444/euronewsalbania/index.m3u8
 http://79.106.90.119:1444/scantv/index.m3u8
 #EXTINF:-1,Report TV
 https://deb10stream.duckdns.org/hls/stream.m3u8
+#EXTINF:-1,Balkanika HD
+http://79.124.21.250:9981/play/a017/index.m3u8?token=test
+#EXTINF:-1,Planeta HD
+http://79.124.21.250:9981/play/a007/index.m3u8?token=test
 #EXTINF:-1,MY MUSIC
 https://stream.syritv.al/mymusic/index.m3u8
 #EXTINF:-1,Folklorit TV
