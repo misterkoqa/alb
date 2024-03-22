@@ -35,6 +35,14 @@ http://109.236.44.109:1212/abc
 http://109.236.44.109:1212/scan
 #EXTINF:-1,TOP NEWS HD TEST
 http://109.236.44.109:1212/topnewshd
+#EXTINF:-1,KTV
+http://original.999pozt.com/ORIGINALEsss/9a8s5897as98578asuios/15
+#EXTINF:-1,ALSAT-M
+http://original.999pozt.com/ORIGINALEsss/9a8s5897as98578asuios/4
+#EXTINF:-1,KLAN KOSOVA FHD
+http://62.162.115.38:22229/play/a001
+#EXTINF:-1,TV DUKAGJINI
+http://62.162.115.38:22229/play/a002
 #EXTINF:-1,TOP CHANNEL HD
 http://79.106.90.119:1444/tophd/index.m3u8
 #EXTINF:-1,KLAN HD
