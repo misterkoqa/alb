@@ -53,6 +53,8 @@ http://62.210.123.134:98/live/an75d/75d/169.ts
 https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
 #EXTINF:-1,DISCOVERY CHANNEL
 https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_20.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE
+https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_12.m3u8
 #EXTINF:-1,TOP CHANNEL HD
 http://79.106.90.119:1444/tophd/index.m3u8
 #EXTINF:-1,KLAN HD
