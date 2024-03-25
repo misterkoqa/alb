@@ -6,8 +6,10 @@ http://95.214.235.96:8880/29ca10183n04/asdfe332/30449
 http://original.999pozt.com:80/ORIGINALEsss/9a8s5897as98578asuios/116
 http://95.214.235.96:8880/29ca10183n04/asdfe332/30448
 #EXTINF:-1,FERMA VIP 1
+http://79.106.90.119:1444/fermavip1/tracks-v1a1/mono.m3u8
 http://original.999pozt.com:80/ORIGINALEsss/9a8s5897as98578asuios/118
 #EXTINF:-1,FERMA VIP 2
+http://79.106.90.119:1444/fermavip2/tracks-v1a1/mono.m3u8
 http://original.999pozt.com:80/ORIGINALEsss/9a8s5897as98578asuios/119
 #EXTINF:-1,TOP CHANNEL HD TEST
 http://109.236.44.109:1212/topchannel
@@ -39,6 +41,8 @@ http://109.236.44.109:1212/abc
 http://109.236.44.109:1212/scan
 #EXTINF:-1,TOP NEWS HD TEST
 http://109.236.44.109:1212/topnewshd
+#EXTINF:-1,4+ HD
+http://185.200.215.248:8000/play/1/index.m3u8
 #EXTINF:-1,KTV
 http://original.999pozt.com/ORIGINALEsss/9a8s5897as98578asuios/15
 #EXTINF:-1,ALSAT-M
