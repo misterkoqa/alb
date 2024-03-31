@@ -68,10 +68,7 @@ http://79.106.90.119:1444/klanhd/index.m3u8
 http://79.106.90.119:1444/vizionplus/index.m3u8
 https://mfe01.tring.al/delta/105/out/u/1180_1.m3u8
 #EXTINF:-1,TV JOHANITER
-https://stream.syritv.al/johanitertv/tracks-v1a1/mono.m3u8
 http://79.106.90.119:1444/johanitertv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TIRANA TV
-http://landiptv.vip:2095/Whts1426/CGEEsAwUzY/7294.m3u8
 #EXTINF:-1,KLAN KOSOVA
 http://op.web24.live:8080/ultv/friendsforever/41290
 #EXTINF:-1,KLAN PLUS
@@ -86,14 +83,10 @@ http://143776189463769924.ofg0316.xyz:80/play/mi429376/bMXfd4JYM4p/769924.ts
 http://143776189463769925.ofg0316.xyz:80/play/mi429376/bMXfd4JYM4p/769925.ts
 #EXTINF:-1,KLAN MUSIC
 http://79.106.90.119:1444/klanmusic/index.m3u8
-#EXTINF:-1,SYRI TV
-http://46.29.169.15:4001/play/a038/index.m3u8
-#EXTINF:-1,SCAN TV
-https://stream.syritv.al/scantv/index.m3u8
 #EXTINF:-1,REPORT TV
-https://stream.syritv.al/reporttv/index.m3u8
+http://79.106.90.119:1444/reporttv/index.m3u8
 #EXTINF:-1,FAX NEWS
-https://stream.syritv.al/faxnews/index.m3u8
+http://79.106.90.119:1444/faxnews/index.m3u8
 #EXTINF:-1,KLAN NEWS
 http://79.106.90.119:1444/klannews/index.m3u8
 #EXTINF:-1,TOP NEWS
@@ -110,12 +103,8 @@ http://79.106.90.119:1444/euronewsalbania/index.m3u8
 http://79.106.90.119:1444/scantv/index.m3u8
 #EXTINF:-1,Report TV
 https://deb10stream.duckdns.org/hls/stream.m3u8
-#EXTINF:-1,Balkanika HD
-http://79.124.21.250:9981/play/a017/index.m3u8?token=test
-#EXTINF:-1,Planeta HD
-http://79.124.21.250:9981/play/a007/index.m3u8?token=test
 #EXTINF:-1,MY MUSIC
-https://stream.syritv.al/mymusic/index.m3u8
+http://79.106.90.119:1444/mymusic/index.m3u8
 #EXTINF:-1,Folklorit TV
 https://vs.sednastream.com:1936/folklorit/folklorit/playlist.m3u8
 #EXTINF:-1,BBF MUSIC
