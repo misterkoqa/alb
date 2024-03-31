@@ -79,6 +79,22 @@ http://79.106.90.119:1444/johanitertv/tracks-v1a1/mono.m3u8
 http://op.web24.live:8080/ultv/friendsforever/41290
 #EXTINF:-1,KLAN PLUS
 http://79.106.90.119:1444/klanplus/index.m3u8
+#EXTINF:-1,FILM NJE
+http://89.187.191.99:8080/filmnje/index.m3u8
+#EXTINF:-1,FILM DY
+http://89.187.191.99:8080/filmdy/index.m3u8
+#EXTINF:-1,TRING SUPER
+http://89.187.191.99:8080/tringsuper/index.m3u8
+#EXTINF:-1,TRING ACTION
+http://89.187.191.99:8080/tringaction/index.m3u8
+#EXTINF:-1,TRING FANTASY
+http://89.187.191.99:8080/tringfantasy/index.m3u8
+#EXTINF:-1,TRING COMEDY
+http://89.187.191.99:8080/tringcomedy/index.m3u8
+#EXTINF:-1,TRING 3PLUS
+http://89.187.191.99:8080/3plus/index.m3u8
+#EXTINF:-1,TRING SHQIP
+http://89.187.191.99:8080/tringshqip/index.m3u8
 #EXTINF:-1,KS PREMIER 1 FHD
 http://143776189463769922.ofg0316.xyz:80/play/mi429376/bMXfd4JYM4p/769922.ts
 #EXTINF:-1,KS PREMIER 2 FHD
