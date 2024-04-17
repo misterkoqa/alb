@@ -838,3 +838,9 @@ http://tv.cloudcdn.me/live.ts?channelId=289&uid=4280&deviceMac=00:1A:79:17:C1:7F
 http://tv.cloudcdn.me/live.ts?channelId=290&uid=4280&deviceMac=00:1A:79:17:C1:7F&play_token=test
 #EXTINF:-1,SONY SPORTS 3HD
 http://tv.cloudcdn.me/live.ts?channelId=291&uid=4280&deviceMac=00:1A:79:17:C1:7F&play_token=test
+#EXTINF:-1,TNT SPORTS 1HD
+http://tv.cloudcdn.me/live.ts?channelId=267&uid=4280&deviceMac=00:1A:79:17:C1:7F&play_token=test
+#EXTINF:-1,TNT SPORTS 2HD
+http://tv.cloudcdn.me/live.ts?channelId=268&uid=4280&deviceMac=00:1A:79:17:C1:7F&play_token=test
+#EXTINF:-1,TNT SPORTS 3HD
+http://tv.cloudcdn.me/live.ts?channelId=269&uid=4280&deviceMac=00:1A:79:17:C1:7F&play_token=test
