@@ -834,3 +834,9 @@ http://1.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1649
 http://1.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1648
 #EXTINF:-1,SKY SPORT F1
 http://tv.cloudcdn.me/live.ts?channelId=282&uid=4280&deviceMac=00:1A:79:17:C1:7F&play_token=test
+#EXTINF:-1,SONY SPORTS 1HD
+http://tv.cloudcdn.me/live.ts?channelId=289&uid=4280&deviceMac=00:1A:79:17:C1:7F&play_token=test
+#EXTINF:-1,SONY SPORTS 2HD
+http://tv.cloudcdn.me/live.ts?channelId=290&uid=4280&deviceMac=00:1A:79:17:C1:7F&play_token=test
+#EXTINF:-1,SONY SPORTS 3HD
+http://tv.cloudcdn.me/live.ts?channelId=291&uid=4280&deviceMac=00:1A:79:17:C1:7F&play_token=test
