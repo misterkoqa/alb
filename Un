@@ -853,119 +853,17 @@ http://tv.cloudcdn.me/live.ts?channelId=269&uid=4280&deviceMac=00:1A:79:17:C1:7F
 http://tv.cloudcdn.me/live.ts?channelId=270&uid=4280&deviceMac=00:1A:79:17:C1:7F&play_token=test
 #EXTINF:-1,TNT SPORTS 5HD
 http://tv.cloudcdn.me/live.ts?channelId=271&uid=4280&deviceMac=00:1A:79:17:C1:7F&play_token=test
-#EXTINF:0 tvg-id="ext" group-title="Albania",|ALB E GJURMET SHQIPTARE TV HD
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1605
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] E HISTORI TV
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1604
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] E NATYRA TV HD
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1603
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] E SHKENCA TV HD
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1602
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] E FAMILY TV HD
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1601
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] E WESTERN TV HD
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1600
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] E DARK TV HD
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1599
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] E DRAMA TV HD
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1598
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] E ROMANCE TV HD
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1597
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] E COMEDY TV HD
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1596
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] E SCI-FI TV HD
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1595
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] E THRILLER TV HD
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1594
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] E ACTION TV HD
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1593
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] E PRMIERE 4 TV HD
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1592
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] E PREMIERE 3 TV HD
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1591
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] E PREMIERE 2 TV HD
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1590
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] E PREMIERE 1 TV HD
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1589
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] GALAXY TV HD
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1588
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] SKY PLANET TV
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1587
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] NATIONAL GEOGRAPIC TV HD
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1586
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] SKY SHQIP TV
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1585
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] SKY NOVEAL TV
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1584
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] SKY KOMEDI TV
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1583
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] SKY DRAME TV
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1582
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] SKY AKSION TV
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1581
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] SKY MAX TV
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1580
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] SKY 7 TV
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1579
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] STAR TV HD
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1578
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] T DOC 2 TV
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1577
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] T DOC 1 TV
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1576
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] T SERIALE TV
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1575
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] T DRAMA TV
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1574
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] T COMEDY TV
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1573
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] T THRILLER
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1572
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] T ACTION TV
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1571
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] T PRIME 2 TV
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1570
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] T PRIME 1 TV
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1569
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] FOX CRIME TV
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1564
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] E FILMA 24 TV
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1563
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] CINE 4 TV
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1562
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] CINE 3 TV
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1561
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] CINE 2 TV
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1560
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] CINE 1 TV
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1559
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL]DIGI GOLD 4 TV
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1558
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] DIGI GOLD 3 TV
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1557
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] DIGI GOLD 2 TV
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1556
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] DIGI GOLD 1 TV
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1555
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] DIGI GOLD TV
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1554
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] E XHAMIA E TABAKEVE TV
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1553
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] TAO TAO TV HD
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1552
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] E TOM & JERRY
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1551
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] E KIDS TV
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1550
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] MEKKA LIVE
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1549
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] MEDINA LIVE TV
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1548
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] TRING TURKISH STORIES TV
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1547
-#EXTINF:0 tvg-id="ext" group-title="Albania",[AL] MCN TV HD
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1546
-#EXTINF:0 tvg-id="ext" group-title="Albania",ALB| BIG BROTHER KOSOVA 1 TV
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1545
-#EXTINF:0 tvg-id="ext" group-title="Albania",ALB| BIG BROTHER KOSOVA 2 TV
-http://3.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/1544
+#EXTINF:-1,Supersport 2
+https://albtv.advanott.com/SuperSport2HD/index.m3u8
+#EXTINF:-1,Tring Sport 1
+https://albtv.advanott.com/TringSport1-171/index.m3u8
+#EXTINF:-1,Tring Sport 2
+https://albtv.advanott.com/tringsport2-172/index.m3u8
+#EXTINF:-1,Tring Sport 3
+https://albtv.advanott.com/tringsport3-173/index.m3u8
+#EXTINF:-1,Tring Sport 4
+https://albtv.advanott.com/tringsport4-176/index.m3u8
+#EXTINF:-1,Tring Sport 5
+https://albtv.advanott.com/tringsport5-177/index.m3u8
+#EXTINF:-1,Tring Sport News
+https://albtv.advanott.com/tsportnews/index.m3u8
